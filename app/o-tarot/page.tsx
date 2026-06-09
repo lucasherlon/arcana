@@ -4,7 +4,7 @@ import { SiteFooter } from "@/components/site-footer"
 import { PageHero } from "@/components/page-hero"
 
 export const metadata: Metadata = {
-  title: "O Tarot · História e Estrutura · Arcana",
+  title: "O Tarot · A Jornada do Louco",
   description:
     "Descubra a história, a estrutura e o simbolismo do tarot: os arcanos maiores, menores e os quatro naipes.",
 }

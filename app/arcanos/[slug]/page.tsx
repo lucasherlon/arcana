@@ -1,5 +1,6 @@
 import type { Metadata } from "next"
 import Link from "next/link"
+import Image from "next/image"
 import { notFound } from "next/navigation"
 import { ArrowLeft, ArrowRight, Sparkles, RotateCcw } from "lucide-react"
 import { SiteHeader } from "@/components/site-header"
@@ -67,6 +68,17 @@ export default async function CardPage({
                 {category.toUpperCase()}
               </span>
               <h1 className="mt-3 font-heading text-4xl text-foreground md:text-5xl">{card.name}</h1>
+              {card.image && (
+                <div className="relative my-8 h-96 w-56 overflow-hidden rounded-xl border border-border/50 shadow-2xl">
+                  <Image
+                    src={card.image}
+                    alt={card.name}
+                    fill
+                    priority
+                    className="object-cover"
+                  />
+                </div>
+              )}
               <div className="mt-6 flex flex-wrap justify-center gap-2">
                 {card.keywords.map((kw) => (
                   <span
@@ -81,12 +93,41 @@ export default async function CardPage({
           </div>
 
           {/* Description */}
-          <section className="mt-10">
-            <h2 className="font-heading text-xl text-foreground">Sobre a carta</h2>
-            <p className="mt-4 font-serif text-xl leading-relaxed text-muted-foreground">
-              {card.description}
-            </p>
-          </section>
+          {card.fullDescription ? (
+            <div className="mt-12 space-y-10">
+              {card.fullDescription.map((section, idx) => (
+                <section key={idx}>
+                  <h2 className="font-heading text-2xl text-foreground">{section.title}</h2>
+                  <div className="mt-4 space-y-4">
+                    {section.content.map((paragraph, pIdx) => {
+                      const colonIndex = paragraph.indexOf(':')
+                      if (colonIndex !== -1 && colonIndex < 50) {
+                        const boldPart = paragraph.substring(0, colonIndex + 1)
+                        const rest = paragraph.substring(colonIndex + 1)
+                        return (
+                          <p key={pIdx} className="font-serif text-xl leading-relaxed text-muted-foreground">
+                            <strong className="font-semibold text-foreground">{boldPart}</strong>{rest}
+                          </p>
+                        )
+                      }
+                      return (
+                        <p key={pIdx} className="font-serif text-xl leading-relaxed text-muted-foreground">
+                          {paragraph}
+                        </p>
+                      )
+                    })}
+                  </div>
+                </section>
+              ))}
+            </div>
+          ) : (
+            <section className="mt-10">
+              <h2 className="font-heading text-xl text-foreground">Sobre a carta</h2>
+              <p className="mt-4 font-serif text-xl leading-relaxed text-muted-foreground">
+                {card.description}
+              </p>
+            </section>
+          )}
 
           {/* Meanings */}
           <div className="mt-10 grid gap-5 sm:grid-cols-2">

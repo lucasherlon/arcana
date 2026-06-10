@@ -1528,13 +1528,503 @@ const minorMeanings: Record<MinorSuit, { upright: string[]; reversed: string[]; 
   },
 }
 
+const minorFullDescriptions: Record<string, { title: string; content: string[] }[]> = {
+  "as-de-paus": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Potencial Criativo e Sexual: Representa a energia vital e instintiva em sua forma pura e inicial, antes de ser colocada em prática.",
+        "Centelha de Inspiração: É o \"vá em frente\" do espírito para novos empreendimentos, ideias em crescimento e projetos apaixonantes.",
+        "Fecundidade e Vigor: Associado ao elemento Fogo, simboliza o impulso para povoar o universo, o poder curativo e a força de vontade.",
+        "Palavras-chave: Criação, Desejo, Início, Fogo, Vitalidade, Inspiração e Virilidade.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "A Mão e a Nuvem: Uma mão, surgindo de uma nuvem, segura o bastão pela parte mais fina; o fato de mostrar a palma indica um impulso central e puro.",
+        "O Bastão Verde: Simboliza a força da natureza que cresce; sua ponta alargada evoca o sexo feminino, sugerindo que a energia criativa é andrógina.",
+        "Marcas de Cortes: Os galhos cortados ao longo do bastão indicam que a energia não pode ser fabricada, apenas canalizada através de escolhas conscientes.",
+        "Luz Amarela: Representa a sublimação da energia orgânica em inteligência ou espírito.",
+      ],
+    },
+    {
+      title: "O Ás de Paus em Leituras",
+      content: [
+        "Positivo (Em pé): Indica um período de grande energia para vencer dificuldades e levar projetos adiante. É um bom presságio para novos começos que exigem determinação e trabalho duro.",
+        "Negativo (Invertido/Desafiador): Pode sinalizar bloqueios criativos, problemas sexuais, falta de refinamento, brutalidade ou uma simples perda de energia vital.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, o Ás representa o Grau 1 (a totalidade em potência) no centro Sexual e Criativo.",
+        "No ciclo de transformação dos naipes, o Dez de Ouros (matéria e prosperidade plena) evolui para o Ás de Paus, indicando que a abundância material gera a necessidade de nova criação e reprodução.",
+        "Ele corresponde simbolicamente ao leão presente no Arcano XXI (O Mundo).",
+      ],
+    },
+  ],
+  "dois-de-paus": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Acumulação e Gestação: Representa o estado de energia sexual e criativa em formação, como um potencial que se acumula antes de se tornar ação manifesta.",
+        "Puberdade e Latência: Simboliza as primícias de toda obra e a fase inicial dos desejos, onde a força instintiva ainda está contida ou reprimida.",
+        "Palavras-chave: Puberdade, acumulação, desejo, preparação, virgindade criativa e latência.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "Bulbo Azul-claro: Na base das flores, indica a acumulação passiva de desejos e sonhos.",
+        "Talo Vermelho e Pétalas Amarelas: A energia vital (vermelha) que flui para despertar a consciência e a inteligência (amarela).",
+        "Flores Laranja no Cruzamento: Duas flores de três pétalas cada sugerem que a meta final dessa energia é o prazer e a beleza (associados ao número 6 na numerologia do Tarot).",
+        "Centro Azul-escuro: Representa a inspiração que é recebida do cosmos e que o indivíduo apenas canaliza.",
+      ],
+    },
+    {
+      title: "O Dois de Paus em Leituras",
+      content: [
+        "Positivo (Em pé): Indica um período de preparação fértil, onde se acumula força para um projeto futuro. Sugere reserva, timidez saudável e o amadurecimento de ideias antes da primeira experiência real.",
+        "Negativo (Invertido/Desafiador): Pode sinalizar bloqueios sexuais ou criativos, medo de agir ou uma situação em que o intelecto interfere e trava os impulsos naturais. Representa a energia que \"apodrece\" por não entrar em ação.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, o Dois representa o Grau 2 (acumulação passiva e receptiva) aplicado ao centro Sexual e Criativo.",
+        "Ele corresponde simbolicamente ao estado de retiro e incubação encontrado n'A Sacerdotisa (II) e n'O Enforcado (XII) nos Arcanos Maiores.",
+      ],
+    },
+  ],
+  "tres-de-paus": [
+    {
+      title: "Visão Geral",
+      content: [
+        "O arcano \"Três de Paus\" representa a primeira explosão da energia vital, marcando um momento de entusiasmo, criatividade e o início de ações concretas após o período de acumulação do Dois de Paus.",
+      ],
+    },
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Ação e Explodir: Simboliza o impulso de partir e a vontade alegre de criar, frequentemente comparada à energia da puberdade.",
+        "Primeiras Experiências: Representa o primeiro prazer, a primeira criação ou a primeira experiência sexual.",
+        "Expansão: É o desejo de possuir e seduzir o mundo, agindo com vigor, mas ainda sem um objetivo final perfeitamente estabelecido.",
+        "Palavras-chave: Explosão, entusiasmo, puberdade, criação, vigor, desejo e impulsividade.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "Eixo Central e Cruzamento: Os paus se cruzam formando um centro que expressa o desejo de expansão.",
+        "Folhagens Laterais: Folhas amarelas e vibrantes abrem-se para os lados, simbolizando a explosão do prazer e o enriquecimento do mundo através da energia vital.",
+        "Pontas Negras: As extremidades dos paus são pretas, sugerindo que a essência da energia criativa é, no fundo, impessoal e espiritual.",
+        "Centro Azul-Escuro: Indica que, embora a ação seja externa, a inspiração original é recebida do cosmos.",
+      ],
+    },
+    {
+      title: "O Três de Paus em Leituras",
+      content: [
+        "Positivo (Em pé): Indica um período de forte atividade criativa, sucesso em empreendimentos nascentes e uma disposição corajosa para enfrentar o desconhecido. Sugere que o consultente tem os meios para levar seus planos adiante com entusiasmo.",
+        "Negativo (Invertido/Desafiador): Pode sinalizar dispersão, tendência a não terminar o que começou ou decepção por expectativas irreais. Pode indicar dificuldade em colocar planos em ação ou crenças autolimitantes.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, o Três representa o Grau 3 (explosão criativa sem experiência) no centro Sexual e Criativo.",
+        "Ele corresponde simbolicamente à energia d'A Imperatriz (III) (fecundidade e natureza) e do Arcano sem Nome (XIII) (transformação radical) nos Arcanos Maiores, unindo a criação à necessidade de mudança.",
+      ],
+    },
+  ],
+  "quatro-de-paus": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Estabilidade e Segurança: Representa o momento em que o desejo e a energia criativa se tornam realidade, estabelecendo-se com firmeza no mundo.",
+        "Celebração e União: É uma carta de harmonia, felicidade e conexão com a comunidade ou família, frequentemente sinalizando eventos alegres ou o fortalecimento de compromissos amorosos.",
+        "Palavras-chave: Estabilidade, celebração, harmonia, rotina, segurança criativa e prosperidade.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "Estrutura em Cruz: No Tarot de Marselha, os quatro paus formam um quadrado ou cruz, simbolizando a perfeição e a segurança do mundo material aplicadas ao centro sexual e criativo.",
+        "Flores e Folhagens: As ilustrações sugerem uma floração estável; no estilo Waite, pessoas dançando e um castelo ao fundo reforçam a ideia de celebração e proteção.",
+      ],
+    },
+    {
+      title: "O Quatro de Paus em Leituras",
+      content: [
+        "Positivo (Em pé): Indica sucesso em empreendimentos criativos e estabilidade nos relacionamentos. Pode representar uma fase em que o consultente vive de sua arte ou alcançou um patamar de paz e felicidade.",
+        "Negativo (Invertido/Desafiador): O maior perigo é a estagnação e a rotina. Pode sinalizar tédio, falta de apoio em relacionamentos ou uma criatividade que se repete sem novidade.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, o Quatro representa o Grau 4 (estabilização e potência) no centro Sexual e Criativo.",
+        "Ele corresponde simbolicamente à segurança terrestre do Imperador (IIII) e à circulação harmoniosa da Temperança (XIIII) nos Arcanos Maiores.",
+      ],
+    },
+  ],
+  "cinco-de-paus": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Aparição do Desejo: Representa a emergência de um novo desejo ou aspiração que desestabiliza a segurança anterior (do grau 4) para buscar algo mais elevado.",
+        "Competição e Conflito: No cotidiano, sinaliza um ambiente de trabalho altamente competitivo, disputas por interesses românticos ou a necessidade de lutar com disciplina e foco para alcançar o sucesso.",
+        "Palavras-chave: Desejo, competição, tensão, ideal, iniciação, luta e transição.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "Cruzamento Central: No Tarot de Marselha, o elemento central no encontro dos paus manifesta um \"novo olhar\" ou um novo ponto de vista, simbolizando o ideal que surge para o consulente.",
+        "Cores e Movimento: A interação das cores e o formato dos paus indicam uma energia que busca superar limites, podendo representar tanto uma evolução criativa profunda quanto uma tensão entre instinto e espírito.",
+      ],
+    },
+    {
+      title: "O Cinco de Paus em Leituras",
+      content: [
+        "Positivo (Em pé): Indica uma evolução criativa, o início de uma nova paixão ou uma iniciação em dimensões sexuais e energéticas até então desconhecidas. Sugere que o consulente tem a força necessária para enfrentar desafios e vencer através da persistência.",
+        "Negativo (Invertido/Desafiador): Alerta para o perigo de mentiras, traições, comportamentos aditivos ou um conflito paralisante entre a sexualidade e a espiritualidade. Pode também sinalizar a evasão de conflitos necessários, o que pode ser prejudicial dependendo do contexto.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, o Cinco representa o Grau 5 (ponte e passagem) aplicado ao centro Sexual e Criativo.",
+        "Ele estabelece uma transição entre o mundo material estável e as aspirações espirituais, correspondendo simbolicamente ao papel mediador do Hierofante (V) e à descida às profundezas do Diabo (XV) nos Arcanos Maiores.",
+      ],
+    },
+  ],
+  "seis-de-paus": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Prazer e Beleza: Representa o ápice do prazer criativo e sexual, onde a energia é vivida com alegria e exultação.",
+        "Vitória e Reconhecimento: Simboliza o sucesso alcançado após superar lutas, trazendo respeito, aclamação pública e o sentimento de ser \"visto\" e valorizado pelos outros.",
+        "Palavras-chave: Vitória, prazer, sucesso, reconhecimento, celebração, encontro sexual e criatividade plena.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "Centro Ardente: No Tarot de Marselha, os quatro losangos vermelhos centrais representam um fogo vital que se expande em folhas sensuais para os quatro cantos do mundo.",
+        "Flores Complementares: O eixo vertical apresenta duas flores cortadas que se complementam — uma com folhas curvas (receptiva) e outra com folhas pontudas (ativa) —, simbolizando a beleza do encontro sexual e criativo.",
+        "O Louro da Vitória: Em versões como a de Waite, a coroa de louros na cabeça do cavaleiro e no próprio bastão reforçam o caráter triunfante e de celebridade da carta.",
+      ],
+    },
+    {
+      title: "O Seis de Paus em Leituras",
+      content: [
+        "Positivo (Em pé): Indica um período de grande sucesso profissional (como uma promoção), reconhecimento de talentos artísticos ou uma relação amorosa onde ambos se sentem orgulhosos e realizados. Pode sinalizar também viagens bem-sucedidas ou notícias de visitantes.",
+        "Negativo (Invertido/Desafiador): Alerta para o narcisismo e o egocentrismo. Pode representar uma falta de reconhecimento pelo trabalho árduo, sentimentos de invisibilidade ou um orgulho excessivo que gera inveja nos outros.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, o Seis representa o Grau 6 (prazer, beleza e a descoberta do outro) aplicado ao centro Sexual e Criativo.",
+        "Ele corresponde simbolicamente à alegria de viver d'O Namorado (VI) e à libertação explosiva d'A Torre (XVI) nos Arcanos Maiores, marcando o momento em que a energia deixa de ser apenas uma busca para se tornar uma celebração.",
+      ],
+    },
+  ],
+  "sete-de-paus": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Ação e Conquista: Simboliza o sucesso, o triunfo e a criatividade realizada que se distribui ao mundo inteiro.",
+        "Defesa e Competição: Representa a necessidade de \"defender o seu título\" ou território após o sucesso inicial, sugerindo que o consulente está sob pressão ou sendo desafiado por outros.",
+        "Coragem e Determinação: Indica a força para lutar pelo que se acredita, seja no campo profissional ou em relacionamentos amorosos.",
+        "Palavras-chave: Ação total, triunfo, defesa, competição, desafio, proteção de território e sucesso criativo.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "Energia em Expansão: No Tarot de Marselha, a estrutura parte de um losango central vermelho (fogo vital) que, através de articulações amarelas (inteligência), se expande em uma grande ação vermelha direcionada ao exterior.",
+        "Pontas Negras: As 14 pontas negras simbolizam uma ação impessoal e espiritual, indicando que a energia criativa está disponível para quem souber canalizá-la.",
+        "Folhagens Triunfais: Folhas amarelas de talos vermelhos abrem-se para os lados, expressando a explosão do prazer sem entraves.",
+        "O Defensor (Estilo Waite): A imagem de um homem no topo de uma colina enfrentando oponentes reforça o aspecto de bravura e resistência sob pressão.",
+      ],
+    },
+    {
+      title: "O Sete de Paus em Leituras",
+      content: [
+        "Positivo (Em pé): Indica um período de grande abertura e sucesso mundial de um projeto artístico ou pessoal. No amor, pode representar uma luta saudável para manter e fortalecer a relação.",
+        "Negativo (Invertido/Desafiador): Alerta para o uso mal-empregado da energia, que pode se tornar destrutiva ou autoritária. Pode sinalizar também sentimentos de sobrecarga ou incapacidade de lidar com a competição feroz.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, o Sete representa o Grau 7 (ação no mundo), o número ímpar mais ativo da série decimal.",
+        "No centro Sexual e Criativo, ele marca a transição da beleza do Seis para a conquista total, correspondendo simbolicamente ao O Carro (VII) e à A Estrela (XVII) nos Arcanos Maiores.",
+        "Astrologicamente, é frequentemente associado a Marte em Leão.",
+      ],
+    },
+  ],
+  "oito-de-paus": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Concentração e Energia: Representa uma concentração extrema de energia vital e criativa que permite a emergência da magia e do desejo puro.",
+        "Velocidade e Movimento: É a carta da rapidez, indicando que algo vai acontecer muito depressa, seja entrando ou saindo da vida do consulente.",
+        "Comunicação e Viagens: Frequentemente associada a notícias repentinas, telefonemas, mensagens em redes sociais ou planos de viagens e férias iminentes.",
+        "Palavras-chave: Concentração, rapidez, comunicação, viagem, desejo, perfeição energética e prontidão.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "Despojamento e Foco: No Tarot de Marselha, o Oito de Paus abandona as folhagens e flores exuberantes dos graus anteriores (6 e 7), focando-se apenas na estrutura dos paus para simbolizar a sublimação e concentração da libido.",
+        "Ação no Ar: Em versões como a de Waite, os oito paus são vistos voando pelo céu, reforçando a ideia de uma energia emocionante e positiva que \"ataca\" ou avança sem hesitação.",
+      ],
+    },
+    {
+      title: "O Oito de Paus em Leituras",
+      content: [
+        "Positivo (Em pé): É um sinal de \"siga em frente\". Indica que o consulente deve agir sem hesitar, pois o momento é de grande impulso e sucesso rápido. Pode representar também a plenitude da força criativa posta a serviço de uma obra espiritual.",
+        "Negativo (Desafiador): O excesso de perfeição pode levar à rigidez ou à paralisia. Pode sinalizar que não há mais nada a ser mudado na situação, o que gera o risco de estagnação ou de uma \"loucura\" decorrente do perfeccionismo asfixiante.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, o Oito representa o Grau 8 (perfeição receptiva e equilíbrio total) aplicado ao centro Sexual e Criativo.",
+        "Ele corresponde simbolicamente à retidão d'A Justiça (VIII) e à receptividade profunda d'A Lua (XVIII) nos Arcanos Maiores, marcando o estágio final de formação antes do nascimento ou mutação que ocorrerá nos graus seguintes (9 e 10).",
+      ],
+    },
+  ],
+  "nove-de-paus": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Escolha Criativa Fundamental: Representa um momento de decisão crucial, no qual é necessário abandonar uma estrutura ou projeto para dar início a outro.",
+        "Integridade e Determinação: Simboliza a atitude de um guerreiro que realiza ações impecáveis, sem concessões, focado em ser fiel a si mesmo e à sua obra.",
+        "Crise e Transição: Indica um estado \"entre a vida e a morte\", uma crise que exige responsabilidade total para que o antigo seja deixado para trás e a nova construção comece.",
+        "Palavras-chave: Escolha, despojamento, responsabilidade, determinação, \"vencer ou morrer\" e transição criativa.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "Despojamento Monástico: No Tarot de Marselha, o Nove de Paus é caracterizado pela ausência total de flores e folhagens, simbolizando uma extrema concentração de energia e o abandono de ornamentos superficiais.",
+        "Eixo Central: Os paus se unem em um entrelaçamento vermelho e azul no centro, indicando que o elemento atingiu um domínio implacável sobre si mesmo, focando apenas no essencial.",
+      ],
+    },
+    {
+      title: "O Nove de Paus em Leituras",
+      content: [
+        "Positivo (Em pé): É um chamado para agir como se deve, com retidão e coragem. Indica que o consulente se libertou de desejos mundanos e está acumulando força para construir uma nova realidade ou obra. Sugere uma fase de sabedoria em que se aceita o fim de um ciclo.",
+        "Negativo (Desafiador): O maior perigo é afundar em uma crise perpétua, marcada pela solidão, tristeza ou medo de envelhecer e morrer. Pode sinalizar impotência, esterilidade criativa ou a recusa em passar para a próxima etapa da vida.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, o Nove representa o Grau 9 (crise benéfica e desprendimento), sendo um número andrógino que prepara a passagem para o final do ciclo.",
+        "No centro Sexual e Criativo, ele corresponde simbolicamente à sabedoria solitária d'O Eremita (VIIII) e à renovação vibrante d'O Sol (XVIIII) nos Arcanos Maiores.",
+      ],
+    },
+  ],
+  "dez-de-paus": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Sublimação e Mutação: Indica que a energia sexual e criativa atingiu seu ápice e agora se desdobra para descobrir a essência do pensamento.",
+        "A Criatividade no Espírito: Representa o momento em que o ímpeto criativo deixa de ser apenas uma ação instintiva e se torna uma força espiritualizada.",
+        "Palavras-chave: Sublimação, conclusão de ciclo, criatividade espiritual, androginia mental e transição.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "Eixo Branco: No Tarot de Marselha, o pau central se desdobra para revelar um eixo branco, que simboliza a pureza e a sublimação final da energia de Paus.",
+        "Estrutura em Asa: A disposição dos elementos pode lembrar uma entidade angelical, sugerindo que os instintos agora estão em comunhão com o plano superior.",
+      ],
+    },
+    {
+      title: "O Dez de Paus em Leituras",
+      content: [
+        "Positivo (Em pé): Sinaliza que a realização criativa foi alcançada e que o consultente está pronto para novos interesses, como a vocação para o ensino ou para a cura. Indica que a \"criança espiritual\" emergiu da experiência instintiva.",
+        "Negativo (Desafiador): Pode representar bloqueio e recusa em passar para um novo ciclo onde se voltará a ser principiante. Sinaliza amargura, perda de energia, fracasso ou uma renúncia dolorosa ao poder.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, o Dez representa o Grau 10 (fim de ciclo e mutação).",
+        "No centro Sexual e Criativo, o Dez de Paus engendra o ciclo seguinte: o Ás de Espadas. Isso indica que, ao se sublimar, a energia da libido e da criação se transforma na força do intelecto e do Verbo.",
+      ],
+    },
+  ],
+  "pajem-de-paus": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Desejo e Hesitação: Representa a dúvida fundamental: \"Fazer ou não fazer?\". É o desejo de criar que ainda não se transformou em uma iniciativa totalmente independente.",
+        "Nova Energia e Oportunidade: Sinaliza uma situação nova, fresca, ou a chegada de uma mensagem, oferta ou oportunidade empolgante.",
+        "Potencial Explosivo: É frequentemente descrito como uma \"bomba prestes a explodir\", carregada de uma força vital que busca uma direção.",
+        "Palavras-chave: Desejo de criar, inexperiência, hesitação, ímpeto, novidade e vigor instintivo.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "O Bastão Rústico: Diferente das figuras de maior hierarquia (como o Rei ou a Rainha), o pajem segura um pau grosseiro e lavrado de forma rudimentar, indicando uma força animal que ainda precisa ser canalizada.",
+        "Posição de Perfil: Ele é representado de pé e de perfil, com ambas as mãos no bastão, simbolizando uma prontidão que ainda avalia se deve ou não entrar em ação.",
+        "Conexão com a Terra: Seu símbolo está apoiado no chão, o que o assemelha numericamente e simbolicamente ao leão do arcano O Mundo (XXI), representando uma energia ativa voltada para a realidade terrestre.",
+      ],
+    },
+    {
+      title: "O Pajem de Paus em Leituras",
+      content: [
+        "Positivo (Em pé): Indica uma fase de aprendizado prático, entusiasmo e a descoberta de uma nova vocação ou paixão. Sugere que o consulente tem os meios para criar, mas deve agir com prudência e perseverança para afinar seu talento.",
+        "Negativo (Invertido/Desafiador): Pode sinalizar brutalidade, inabilidade, bloqueio da energia sexual ou criativa e falta de vitalidade. Também pode representar alguém que é apenas um \"eterno principiante\", que se dispersa antes de concluir o que começou.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, os Pajens situam-se entre o Grau 2 (acumulação) e o Grau 3 (explosão), agindo como executantes que ainda não possuem o pleno desprendimento dos Reis.",
+        "No centro Sexual e Criativo, o Pajem de Paus simboliza a semente que contém o germe da futura árvore, aguardando o momento certo para ser plantada.",
+      ],
+    },
+  ],
+  "cavaleiro-de-paus": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Sublimação e Vontade: Representa o momento em que as paixões são dominadas e canalizadas para o caminho do espírito.",
+        "Ação e Entusiasmo: É o mensageiro que traz excitação, paixão e notícias que estimulam a alma.",
+        "Confiança e Charme: Reflete uma personalidade confiante, charmosa e geralmente extrovertida, sendo mais maduro e confiável que o Pajem.",
+        "Palavras-chave: Sublimação, ação, confiança, coragem suprema, instinto canalizado e paixão.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "O Cavalo Branco: Símbolo da pureza e da sublimação final dos desejos, indicando que a energia animal foi domesticada pela vontade espiritual.",
+        "O Bastão Atravessado: O bastão parece atravessar a sua mão, o que sugere uma confiança total onde não há mais dualidade entre o indivíduo e sua energia vital.",
+        "Mudança de Direção: Ele faz o cavalo virar da direita para a esquerda, simbolizando a transição da ação pura para a receptividade espiritual.",
+      ],
+    },
+    {
+      title: "O Cavaleiro de Paus em Leituras",
+      content: [
+        "Positivo (Em pé): Indica um período de grande vigor, criatividade em pleno domínio e a coragem necessária para enfrentar qualquer desafio. Sugere um progresso rápido ou alguém que entra na vida do consultente trazendo entusiasmo.",
+        "Negativo (Desafiador): Pode representar um estado de bloqueio, onde o indivíduo permanece preso em uma crise e não consegue se deixar levar pela mudança. Pode sinalizar também impulsividade excessiva ou falta de direção.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, os Cavaleiros situam-se entre o Grau 8 (perfeição) e o Grau 9 (crise de transição), funcionando como profetas de seus próprios naipes.",
+        "O Cavaleiro de Paus marca o fim do ciclo criativo, onde a energia se desdobra para engendrar o próximo naipe: o Ás de Espadas (o intelecto e o espírito).",
+      ],
+    },
+  ],
+  "rainha-de-paus": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Maturidade Criativa e Sensual: Representa uma pessoa em plena posse de sua criatividade e sexualidade, muitas vezes descrita como uma \"giganta\" devido à sua força de sedução.",
+        "Independência: Simboliza a satisfação de quem vive de sua própria arte ou talento, agindo de forma instintiva e muitas vezes caprichosa.",
+        "Fase de Nutrição: Como todas as Rainhas, ela representa a etapa de \"nutrir\" o que foi iniciado, associando-se a qualidades como flexibilidade e paciência.",
+        "Palavras-chave: Sensualidade, sedução, independência, instinto, criatividade plena, paixão e exuberância.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "O Bastão Entalhado: Diferente do bastão rústico do Pajem, o da Rainha é trabalhado e esculpido, indicando o refinamento da energia vital.",
+        "As Mãos no Ventre: Ela é representada com as mãos sobre o baixo ventre, o que reforça sua conexão com o centro sexual e criativo.",
+        "A \"Terceira Mão\": Jodorowsky destaca a presença de uma pequena mão artificial amarela, sugerindo uma assistência externa ou um desdobramento de sua capacidade de agir.",
+        "Olhar Interno: Ao contrário dos Reis, que olham para o horizonte, as Rainhas tendem a estar absortas em seu próprio símbolo ou centro interno.",
+      ],
+    },
+    {
+      title: "A Rainha de Paus em Leituras",
+      content: [
+        "Positivo (Em pé): Indica uma mulher calorosa, carismática e cheia de energia, com pontos em comum com o arcano A Imperatriz (III). Sugere sucesso em empreendimentos artísticos, uma sexualidade bem vivida e uma personalidade que não teme ser o centro das atenções.",
+        "Negativo (Desafiador): Alerta para o perigo de se tornar castradora ou possessiva se não reconhecer suas próprias carências. Pode sinalizar obsessão sexual, venalidade, infidelidade ou um uso egoísta da força de sedução.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, as Rainhas situam-se no Grau 4 (estabilidade) tendendo ao Grau 5 (novo ideal) dentro do quadrado da Terra.",
+        "Elas habitam o interior do \"palácio\" de seu naipe, o que significa que estão totalmente identificadas com sua energia e a gerenciam com segurança.",
+        "Ela é a companheira que corresponde ao Rei de Paus, formando um casal de grande potência instintiva.",
+      ],
+    },
+  ],
+  "rei-de-paus": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Poder de Realização: Simboliza um criador poderoso que não apenas domina seu elemento, mas estende sua obra e influência por todo o mundo.",
+        "Autoridade Direta: Representa uma personalidade que comanda de forma simples e direta, agindo com a força de um guerreiro ou de um soberano.",
+        "Maturidade Instintiva: É o estágio em que os instintos e desejos foram domados e colocados a serviço de uma vontade soberana.",
+        "Palavras-chave: Criador poderoso, autoridade, domínio instintivo, ação direta, mestre, guerreiro e realização.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "O Cetro Gigante: O Rei segura o maior pau de toda a série, que se apoia no chão (no calcanhar) e sobe até tocar seu chapéu, simbolizando a conexão entre a realidade terrestre e a inteligência espiritual.",
+        "A Armadura: Sob o traje real, ele veste uma armadura, indicando que sua natureza fundamental é a de um combatente pronto para a ação.",
+        "O Olhar para o Horizonte: Diferente da Rainha, que olha para o próprio símbolo, o Rei olha para além das fronteiras de seu reino, ciente do mundo exterior onde deve agir.",
+      ],
+    },
+    {
+      title: "O Rei de Paus em Leituras",
+      content: [
+        "Positivo (Em pé): Indica um artista reconhecido, um homem de grande poder ou um amante sincero e vigoroso. Sugere alguém em quem se pode confiar para liderar ou realizar projetos complexos com segurança.",
+        "Negativo (Desafiador): Alerta para o perigo do despotismo, da arrogância e da tirania. Pode representar um sedutor que usa sua potência sem amor, ou um líder que se torna um \"ditador\" ou \"terrorista\" em seus métodos.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, os Reis situam-se entre o Grau 6 (prazer e beleza) e o Grau 7 (ação irresistível no mundo).",
+        "Enquanto os outros três Reis costumam ser representados no interior de palácios, o Rei de Paus mantém uma conexão mais bruta e direta com a natureza e com o elemento fogo.",
+        "Ele forma com a Rainha de Paus um par de extrema potência instintiva.",
+      ],
+    },
+  ],
+}
+
+// Adicione aqui o nome (sem extensão) de cada imagem disponível em /public/images/arcanos_menores/
+const minorArcanaImages = new Set<string>([
+  "asdepaus",
+  "doisdepaus",
+  "tresdepaus",
+  "quatrodepaus",
+  "cincodepaus",
+  "seisdepaus",
+  "setedepaus",
+  "oitodepaus",
+  "novedepaus",
+  "dezdepaus",
+  "pajemdepaus",
+  "cavaleirodepaus",
+  "rainhadepaus",
+  "reidepaus"
+])
+
 function buildMinorArcana(): TarotCard[] {
   const cards: TarotCard[] = []
   ;(Object.keys(suitInfo) as MinorSuit[]).forEach((suit) => {
     const meanings = minorMeanings[suit]
     suitRanks.forEach((rank, i) => {
+      const slug = `${rank.name.normalize("NFD").replace(/\p{Diacritic}/gu, "").toLowerCase()}-de-${suit}`
+      const imageFilename = slug.replace(/-/g, "")
       cards.push({
-        slug: `${rank.number.toLowerCase()}-de-${suit}`,
+        slug,
         number: rank.number,
         name: `${rank.name} de ${suitInfo[suit].name}`,
         type: "menor",
@@ -1543,6 +2033,10 @@ function buildMinorArcana(): TarotCard[] {
         upright: meanings.upright[i],
         reversed: meanings.reversed[i],
         description: meanings.desc[i],
+        ...(minorArcanaImages.has(imageFilename)
+          ? { image: `/images/arcanos_menores/${imageFilename}.jpeg` }
+          : {}),
+        ...(minorFullDescriptions[slug] ? { fullDescription: minorFullDescriptions[slug] } : {}),
       })
     })
   })

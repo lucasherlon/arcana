@@ -1564,6 +1564,108 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
   ],
+  "tres-de-ouros": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "O Três de Ouros representa o Grau 3 do centro material, simbolizando a explosão vital na matéria, o entusiasmo inicial em projetos concretos e o primeiro passo prático após a fase de gestação. Na numerologia do Tarot, o número três é o primeiro nível essencialmente ativo, representando uma energia adolescente que irrompe sem um objetivo final totalmente definido, mas com grande vigor.",
+        "Início Prático e Trabalho: Indica o começo de um novo trabalho, a chegada dos primeiros clientes ou o primeiro dia após uma reforma ou operação de saúde.",
+        "Investimento e Benefício: Simboliza um investimento material que começa a produzir seu primeiro benefício, marcando o momento de 'abrir a semente'.",
+        "Crescimento e Fecundação: No plano biológico, pode representar a fecundação e o crescimento celular, ou a hiperatividade corporal que, embora produtiva, pode levar ao esgotamento.",
+        "Palavras-chave: Explosão vital, novo trabalho, investimento inicial, primeiros lucros, fecundação e entusiasmo material.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual (Tarot de Marselha)",
+      content: [
+        "Exuberância Vegetal: A carta é caracterizada por uma folhagem exuberante que sugere uma 'explosão vital' que preenche o espaço.",
+        "Disposição das Moedas: A moeda superior está dentro de uma construção de folhagens, enquanto as duas inferiores estão fora, simbolizando ação voltada à interiorização e penetração na matéria.",
+        "Ação Horizontal: Enquanto o Três de Copas aspira ao céu, o Três de Ouros foca no plano horizontal e na profundidade da terra, buscando concretizar o potencial na realidade física.",
+      ],
+    },
+    {
+      title: "O Três de Ouros em Leituras",
+      content: [
+        "Positivo (Em pé): Sinaliza sucesso inicial em empreendimentos, boa resposta física a tratamentos e um desejo ardente de construir algo novo.",
+        "Negativo (Desafiador): Indica o risco de decepção ou dispersão: explodir em energia e acabar fazendo 'qualquer coisa' sem foco. Pode representar hiperatividade que esgota o indivíduo ou efeitos empresariais descontrolados.",
+      ],
+    },
+    {
+      title: "Contexto Evolutivo",
+      content: [
+        "Este Arcano corresponde simbolicamente à potência criadora de A Imperatriz (III) e à força transformadora do Arcano sem Nome (XIII). Marca a transição da acumulação passiva (Dois de Ouros) para a estabilidade sólida do Grau 4, funcionando como o motor que coloca a vida material em movimento dinâmico.",
+      ],
+    },
+  ],
+  "dois-de-ouros": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "O Dois de Ouros representa o Grau 2 do centro material, simbolizando um estado de acumulação, gestação e preparação no plano físico, financeiro ou corporal. Na numerologia do Tarot, o número dois indica uma recepção passiva que prepara uma ação futura, funcionando como uma promessa ou um contrato em fase de elaboração.",
+        "Contrato em Preparação: Indica um acordo, aliança ou contrato que está sendo gestado, mas que ainda não foi assinado ou concretizado.",
+        "Acumulação de Recursos: Representa o desejo de economizar, a recuperação de forças físicas ou um embrião em formação.",
+        "Equilíbrio e Flutuação: Reflete a necessidade de lidar com duas situações ao mesmo tempo, buscando harmonia entre o que se possui e o que se deseja adquirir.",
+        "Palavras-chave: Gestação material, promessas, preparação, dualidade física, saúde em recuperação e investimento inicial.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual (Tarot de Marselha)",
+      content: [
+        "As Duas Moedas Gigantes: No Grau 2, o símbolo do naipe atinge seu maior tamanho visual, enfatizando a força da acumulação.",
+        "A Faixa Sinuosa: Uma grande faixa une as duas moedas. Na curva inferior, Jodorowsky identifica três serpentes, sugerindo que o trabalho espiritual começa pela aceitação da matéria básica. Na curva superior, as datas simbolizam a passagem do tempo e a mutação da matéria em espírito.",
+        "Flores nas Pontas: A faixa termina em flores, indicando que o crescimento cessou momentaneamente para atingir um estado de perfeição ou equilíbrio.",
+      ],
+    },
+    {
+      title: "O Dois de Ouros em Leituras",
+      content: [
+        "Positivo (Em pé): Sinaliza um período de repouso corporal necessário ou a fase preparatória de um negócio promissor. Indica que o consultante está lidando bem com as mudanças e mantendo o equilíbrio em meio às flutuações da vida.",
+        "Negativo (Invertido/Desafiador): Alerta para a preguiça, paralisia ou dificuldades financeiras (como o esforço para chegar ao fim do mês). Pode indicar desequilíbrio, gastos excessivos ou a recusa em se alimentar e cuidar do próprio corpo.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Evolutivo",
+      content: [
+        "Este Arcano situa-se no quadrado Terra da numerologia do Tarot, correspondendo à passividade d'A Papisa (II) e d'O Enforcado (XII). É a 'semente' material que acumula substância: se esse estado se prolongar demais, corre o risco de estagnar e 'apodrecer' por falta de movimento.",
+        "O desafio do Dois de Ouros é preparar o terreno sólido para a explosão criativa e o investimento que ocorrerão no Grau 3.",
+      ],
+    },
+  ],
+  "rainha-de-espadas": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "A Rainha de Espadas representa a maturidade e a plena posse do centro intelectual, simbolizando uma mente afiada, independente e capaz de discernir a verdade sem a interferência das emoções.",
+        "Maturidade Intelectual: Representa alguém (frequentemente uma mulher independente ou uma figura de autoridade) que é direta, não faz rodeios e toma decisões baseadas na lógica.",
+        "Clareza e Independência: Indica uma pessoa confiável e autossuficiente que, embora tenha passado por provações, agora enxerga sua situação com total clareza.",
+        "Desapego Emocional: É considerada a menos emocional de todas as rainhas, podendo parecer, às vezes, um pouco distante ou fria.",
+        "Palavras-chave: Lógica, inteligência, independência, clareza mental, objetividade, severidade e discernimento.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "A Espada Ativa (Marselha): Diferente do Pajem, cuja espada é azul (receptiva), a Rainha segura uma espada vermelha, indicando que seu pensamento é ativo, experiente e pronto para a ação.",
+        "O Escudo no Ventre (Marselha): Jodorowsky destaca que ela possui uma espécie de escudo ou couraça protegendo seu ventre, às vezes interpretado como uma cicatriz; simboliza que ela sacrificou ou protegeu suas entranhas para viver prioritariamente no domínio do espírito e da inteligência.",
+        "O Olhar Fixo: Ela olha fixamente para sua espada, demonstrando estar absorta em sua própria natureza intelectual e focada em sua 'arma' de verdade.",
+        "Calma e Postura (Rider-Waite): É retratada como alguém calmo e controlado, com um olhar que 'vê através' das ilusões.",
+      ],
+    },
+    {
+      title: "A Rainha de Espadas em Leituras",
+      content: [
+        "Positivo (Em pé): Sinaliza sucesso em carreiras que exigem pesquisa, foco e trabalho intelectual. Indica que o consulente atingiu um nível de maturidade onde pode ser seu próprio guia, agindo com retidão e franqueza.",
+        "Negativo (Invertido/Desafiador): Alerta para uma pessoa cruel, manipuladora ou tóxica. Pode representar o fechamento total do coração, o uso da inteligência para ferir os outros, o racionalismo levado ao extremo (frigidez) ou a incapacidade de enxergar a verdade devido a preconceitos.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, as Rainhas situam-se entre o Grau 4 (estabilidade) e o Grau 5 (novo ideal). No centro Intelectual, a Rainha de Espadas marca a transição entre o racionalismo seguro e a abertura para um pensamento metafísico ou espiritual mais elevado.",
+        "Ela representa o estágio de nutrir o intelecto antes que ele se torne uma potência de ação pública com o Rei.",
+      ],
+    },
+  ],
   "dois-de-paus": [
     {
       title: "Significados Gerais e Palavras-Chave",
@@ -1996,6 +2098,1378 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
   ],
+  "as-de-copas": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Totalidade Emocional: Contém todas as possibilidades de amar, odiar e sentir, funcionando como a \"matriz\" de onde nascerão todos os afetos.",
+        "Oferta e Oportunidade: Sinaliza a chegada de uma nova relação, um convite amoroso ou uma oportunidade que trará grande preenchimento emocional.",
+        "Espiritualidade e Paz: É visto como um cálice de bênçãos, frequentemente associado ao Graal ou a um templo espiritual.",
+        "Palavras-chave: Amor, sentimentos, receptividade, intuição, fertilidade, abundância e renovação.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "O Templo/Catedral: No Tarot de Marselha, o Ás de Copas assemelha-se a um edifício sagrado com sete torres, simbolizando que o amor é uma construção cuidadosa.",
+        "Base Cor de Carne: Indica que os sentimentos estão enraizados na carne viva e na experiência humana presente, mantendo-se sempre renovados e \"virgens\".",
+        "A Mão e a Taça Transbordante: Em versões como a de Waite, uma mão sai das nuvens oferecendo uma taça da qual a água transborda, representando o transbordamento da alegria e do afeto.",
+        "A Pomba: Símbolo de paz, amor e espiritualidade que desce sobre o cálice, indicando que a energia emocional é um dom divino.",
+        "Palmas Azuis e Flores: Representam a intuição pura e os cinco sentidos integrados na experiência amorosa.",
+      ],
+    },
+    {
+      title: "O Ás de Copas em Leituras",
+      content: [
+        "Positivo (Em pé): Indica um período de plenitude, sucesso em assuntos do coração e o início de um projeto que traz alegria. Pode ser um presságio de nascimento de filhos ou de um profundo amor-próprio.",
+        "Negativo (Invertido/Desafiador): Sinaliza esgotamento emocional (\"copa vazia\"), sentimentos reprimidos ou uma pessoa que evita encarar o que realmente sente. Pode indicar também ciúme, instabilidade ou uma exigência afetiva sufocante.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, o Ás representa o Grau 1 (totalidade em potência) no centro Emocional.",
+        "Ele é engendrado pelo Dez de Espadas, o que indica que quando o intelecto atinge seu limite máximo de solidão e reflexão, ele descobre o \"Outro\" e transmuta-se na energia do coração.",
+        "Simbolicamente, corresponde ao anjo presente no Arcano O Mundo (XXI).",
+      ],
+    },
+  ],
+  "dois-de-copas": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Preparação e Harmonia: Simboliza a alma se preparando para amar e a busca pelo equilíbrio e união.",
+        "Parcerias e Conexões: Frequentemente associado a almas gêmeas, amizades fortes ou parcerias de negócios bem-sucedidas.",
+        "Desejo de União: Representa o \"devaneio amoroso\" e a sede de amar que nasce após longos períodos de solidão.",
+        "Palavras-chave: Acumulação, harmonia, alma gêmea, parceria, equilíbrio emocional e receptividade.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "A Fênix e os Anjos: No Tarot de Marselha, dois anjos (um deles cego, indicando que o coração guia a escolha) revelam uma Fênix vermelha, símbolo do amor que morre e renasce das cinzas como força universal.",
+        "Os Peixes e a Flor: Dois animais (peixes) lambem uma flor imensa, simbolizando a divisão narcísica do \"eu\" necessária para projetar a alma no ser amado.",
+        "O Casal (Estilo Waite): Um homem e uma mulher olham-se nos olhos, representando a união equilibrada das energias masculina e feminina.",
+        "O Leão Alado: Acima do casal, simboliza paixão e transformação.",
+      ],
+    },
+    {
+      title: "O Dois de Copas em Leituras",
+      content: [
+        "Positivo (Em pé): Indica um período de amor incondicional, colaboração e sintonia de valores com outra pessoa. Pode sinalizar o início de um compromisso ou o fortalecimento de um vínculo existente.",
+        "Negativo (Invertido/Desafiador): Alerta para desequilíbrio em parcerias, lutas de poder, falta de respeito ou rompimentos. Pode indicar também imaturidade emocional ou um \"amor incestuoso\" (fixação em fantasias infantis) que impede relações reais. Na saúde, pode estar associado a questões de fertilidade ou infecções.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, o Dois representa o Grau 2 (acumulação passiva e gestação) aplicado ao centro Emocional.",
+        "Ele corresponde simbolicamente à introspecção d'A Papisa (II) e d'O Enforcado (XII), sugerindo que o amor verdadeiro exige primeiro um recolhimento e um amadurecimento interior antes de se manifestar no mundo.",
+        "Astrologicamente, é associado ao signo de Câncer.",
+      ],
+    },
+  ],
+  "tres-de-copas": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Primeiro Amor e Idealismo: Simboliza a eclosão do primeiro amor idealizado, antes das complicações da vida cotidiana.",
+        "Celebração e Amizade: É a carta da celebração em comunidade, representando festas, eventos sociais, amizades fortes e o prazer de compartilhar momentos com os outros.",
+        "Harmonia e Atração: Reflete química, admiração, afeto e uma união fervente, muitas vezes associada à alegria de viver.",
+        "Palavras-chave: Celebração, amizade, idealismo romântico, entusiasmo, alegria social e eclosão emocional.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "Estrutura de Copas: No Tarot de Marselha, a copa superior parece repousar sobre um coração formado pelos talos de duas flores (possivelmente papoulas, sugerindo embriaguez emocional), enquanto as duas copas da base representam o casal (animus e anima) que sustenta esse sonho.",
+        "A Trindade Divina: A forma vermelha na base, com três pétalas laranja, simboliza a divindade andrógina, indicando que esse amor ideal é uma projeção do amor divino.",
+        "As Três Mulheres: Em baralhos estilo Waite, a imagem de três mulheres celebrando e brindando reforça o aspecto de amizade e felicidade compartilhada.",
+      ],
+    },
+    {
+      title: "O Três de Copas em Leituras",
+      content: [
+        "Positivo (Em pé): Indica um período de plenitude emocional, sucesso em encontros sociais e reconciliação. Para solteiros, pode sinalizar o encontro de um parceiro romântico em um evento social.",
+        "Negativo (Invertido/Desafiador): Alerta para a idealização excessiva que pode levar à decepção ou a um \"delírio erotomaníaco\". Pode indicar também fofocas (colegas ou amigos falando pelas costas), falta de equilíbrio devido ao excesso de festas ou a necessidade de tempo sozinho após muita socialização.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, o Três representa o Grau 3 (explosão criativa sem objetivo definido) aplicado ao centro Emocional.",
+        "Ele corresponde simbolicamente à energia de A Imperatriz (III), no sentido de eclosão e fertilidade, e ao Arcano sem Nome (XIII), por representar a transformação necessária para que o novo sentimento nasça.",
+        "É uma energia de \"adolescência\" do coração, que descobre o prazer de amar sem ainda conhecer os limites da realidade.",
+      ],
+    },
+  ],
+  "quatro-de-copas": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Estabilidade Emocional: Simboliza a consolidação dos sentimentos, representando a família, a fidelidade e amizades sólidas.",
+        "Amor Real: Marca a passagem do amor idealizado (do Três de Copas) para um amor fundamentado na realidade e na confiança mútua.",
+        "Insatisfação e Tédio: Frequentemente indica um sentimento de vazio ou desinteresse, onde a pessoa foca tanto no que falta que ignora as oportunidades presentes (\"a grama do vizinho é sempre mais verde\").",
+        "Palavras-chave: Estabilidade, segurança afetiva, tédio, introspecção, oportunidades perdidas e solidez.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "A Estrutura (Tarot de Marselha): As duas copas da base sustentam as duas superiores, indicando um desejo de elevação espiritual a partir de uma base emocional segura.",
+        "A Figura Solitária (Estilo Waite): Um homem sentado sob uma árvore ignora uma taça oferecida por uma mão vinda de uma nuvem, simbolizando alguém tão absorvido em seus pensamentos negativos que não vê as bênçãos sendo oferecidas pelo universo.",
+        "Cores e Ramos: As folhagens sugerem que a estabilidade é necessária como base para o crescimento, mas se não houver movimento, a energia pode se petrificar.",
+      ],
+    },
+    {
+      title: "O Quatro de Copas em Leituras",
+      content: [
+        "Positivo (Em pé): Indica um período de paz e equilíbrio nos relacionamentos. É a plataforma necessária para novos projetos afetivos.",
+        "Negativo (Invertido/Desafiador): Sinaliza que o consulente está começando a sair de um \"atoleiro\" emocional, buscando mudanças e recuperando a paixão pela vida. No aspecto físico, pode alertar para questões de circulação ou negação de cuidados com a saúde.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, o Quatro representa o Grau 4 (estabilização e potência) aplicado ao centro Emocional.",
+        "Ele corresponde simbolicamente à segurança do Imperador (IIII) e à harmonia da Temperança (XIIII), ensinando que, embora o amor real precise de bases sólidas, ele não deve se tornar uma rotina sem vida.",
+      ],
+    },
+  ],
+  "cinco-de-copas": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Emergência de um Ideal: Representa a descoberta de um novo ideal, a primeira abertura do coração para algo que supera a si mesmo, como a fé ou o amor fanático.",
+        "Desilusão e Arrependimento: No cotidiano, sinaliza que algo não saiu como planejado, gerando sentimentos de falha, tristeza e foco excessivo em perdas passadas.",
+        "Palavras-chave: Amor ideal, fanatismo afetivo, arrependimento, desilusão, fé, transição e novos começos.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "O Templo Floral (Marselha): Apresenta um recipiente central de onde brota uma construção exuberante que lembra um pagode ou templo, simbolizando o entusiasmo da fé e a busca pelo divino.",
+        "As Taças Derramadas (Waite): A imagem clássica mostra um homem focado em três taças caídas, simbolizando o luto por fracassos, enquanto ignora as duas taças cheias atrás dele e a ponte para a estabilidade ao fundo.",
+      ],
+    },
+    {
+      title: "O Cinco de Copas em Leituras",
+      content: [
+        "Positivo (Em pé): Indica um período de fervor espiritual ou o início de uma cura emocional onde se deve aprender a perdoar a si mesmo e focar no que restou de positivo.",
+        "Negativo (Invertido/Desafiador): Sinaliza a superação de uma situação dolorosa, a aceitação de lições cármicas e a prontidão para deixar o passado para trás e ver novas oportunidades. Na saúde, pode estar associado a quadros de anemia, depressão, má circulação e baixa pressão arterial.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, o Cinco representa o Grau 5 (ponte e passagem), situado no centro da série decimal.",
+        "No centro Emocional, ele rompe a estabilidade do Quatro de Copas para buscar uma dimensão amorosa ou mística superior, correspondendo simbolicamente à mediação do Hierofante (V) e à profundidade do Diabo (XV) nos Arcanos Maiores.",
+      ],
+    },
+  ],
+  "seis-de-copas": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Nostalgia e Infância: Representa memórias felizes do passado, sentimentos de liberdade, alegria e otimismo típicos da infância.",
+        "Encontro com a Alma Gêmea: Simboliza o encontro com o outro no sentido de \"espelho\", onde se descobre sentimentos de estima, fidelidade, prazer e sensualidade.",
+        "Amor por Si Mesmo: Em um nível elevado, indica a aceitação e o contato interior com o amor divino e a realização da plenitude afetiva.",
+        "Palavras-chave: Nostalgia, infância, inocência, alma gêmea, alegria, memórias felizes e amor-próprio.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "O Eixo Espelhado: No Tarot de Marselha, a carta apresenta duas colunas de três copas que se enfrentam em torno de um eixo central que funciona como um espelho.",
+        "As Crianças (Estilo Waite): A presença de duas crianças em baralhos modernos é um sinal claro de inocência e da pureza dos sentimentos.",
+        "Direção das Hachuras: Sendo uma carta do \"quadrado Céu\", as linhas dentro das copas sobem da esquerda para a direita, indicando que as energias terrestres estão sendo extraídas para se elevarem ao amor espiritual.",
+      ],
+    },
+    {
+      title: "O Seis de Copas em Leituras",
+      content: [
+        "Positivo (Em pé): Indica um período de paz emocional, reconciliação ou o retorno de alguém do passado (um amor ou amigo de infância). Sugere que o consultante deve se conectar com sua criança interior para encontrar alegria.",
+        "Negativo (Invertido/Desafiador): Alerta para o perigo de viver no passado, recusando-se a aceitar novas oportunidades ou amadurecer. Pode sinalizar também um amor excessivamente narcísico, onde o casal se isola do mundo em sua própria complacência.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, o Seis representa o Grau 6 (prazer, beleza e a descoberta do outro).",
+        "É o primeiro passo no quadrado Céu, marcando o momento em que se deixa de apenas imaginar o amor (Grau 2) para começar a viver aquilo que se ama verdadeiramente.",
+        "Corresponde simbolicamente às energias d'O Namorado (VI) e d'A Torre (XVI) nos Arcanos Maiores.",
+      ],
+    },
+  ],
+  "sete-de-copas": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Amor em Ação: Representa o momento em que o amor deixa de ser apenas um sentimento interno para agir concretamente no mundo, como em obras humanitárias.",
+        "Escolhas e Ilusões: No cotidiano, pode sinalizar que o consulente está diante de múltiplas opções ou oportunidades, mas corre o risco de estar preso em ilusões ou sonhos irrealistas.",
+        "Indecisão: Frequentemente indica uma dificuldade de focar em um único objetivo devido ao excesso de pensamentos e desejos simultâneos.",
+        "Palavras-chave: Amor ativo, humanismo, doação, ilusão, múltiplas escolhas, indecisão e imaginação.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "Eixo de Três Copas (Marselha): Apresenta três copas centrais que formam um caminho evolutivo: a copa da base representa a criação ativa do mundo emocional com aspiração ao céu; a copa central simboliza o amor em gestação, íntimo e secreto; a copa superior representa o amor que chega aos confins do universo, a doação total.",
+        "Copas nas Nuvens (Waite): Ilustra as diversas opções como visões flutuantes, sugerindo que essas oportunidades podem ser apenas frutos da imaginação do consulente.",
+      ],
+    },
+    {
+      title: "O Sete de Copas em Leituras",
+      content: [
+        "Positivo (Em pé): Indica um período de grande generosidade, altruísmo e o desejo de ajudar os outros sem esperar nada em troca. É a descoberta da força do amor consciente.",
+        "Negativo (Desafiador): Alerta para o perigo de se perder em fantasias impraticáveis ou de ser incapaz de tomar uma decisão real. Em um nível energético, se a imensa força do número 7 for mal empregada, ela pode se tornar destrutiva.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, o Sete representa o Grau 7 (ação no mundo), o número mais ativo da série decimal.",
+        "No centro Emocional, ele marca a transição para uma espiritualidade prática, correspondendo simbolicamente ao O Carro (VII) e à A Estrela (XVII) nos Arcanos Maiores.",
+        "Enquanto O Carro conquista, o Sete de Copas irriga o mundo com afeto.",
+      ],
+    },
+  ],
+  "oito-de-copas": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Plenitude e Harmonia: Simboliza um coração inteiramente pleno, capaz de amar o presente, o passado e o futuro sem exigências.",
+        "Abandono e Partida: Em leituras modernas (estilo Waite), indica o momento de deixar para trás uma situação (relacionamento ou carreira) que não traz mais preenchimento, apesar dos esforços feitos para que funcionasse.",
+        "Paz e Graça: Representa a paz do coração e a união profunda com o amor divino.",
+        "Palavras-chave: Plenitude, harmonia, amor universal, despedida, introspecção e sacrifício do ego.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "Estrutura de Preenchimento (Marselha): É a carta mais \"cheia\" de sua série, com copas, flores e folhagens ocupando todo o espaço disponível.",
+        "O Centro Ativo: Possui um círculo central que representa um olho ou testemunho ativo, cercado por pétalas que sugerem um movimento dinâmico similar a uma suástica.",
+        "Eixo Vertical: As copas dispostas verticalmente simbolizam o amor pela terra (na base) e o amor pelo cosmos (no topo).",
+        "A Figura que se Afasta (Rider-Waite): Mostra um homem caminhando para longe de oito taças empilhadas, sob uma lua que parece triste, simbolizando que ele percebeu que a melhor ação é ir embora.",
+      ],
+    },
+    {
+      title: "O Oito de Copas em Leituras",
+      content: [
+        "Positivo (Em pé): Indica um período de paz emocional total e equilíbrio, onde a pessoa se torna apenas amor e doação. É o sinal de que se está pronto para abandonar o que não serve mais e buscar algo mais profundo.",
+        "Negativo (Desafiador/Invertido): Alerta para a insatisfação perpétua e a carência (\"sentir falta\"), mesmo quando tudo parece estar bem. Pode indicar a incapacidade de caminhar para frente ou a resistência em abandonar uma situação tóxica. Na saúde, pode estar associado a quadros de fadiga, insônia, inchaço, sonambulismo e até tendências de isolamento ou autismo.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, o Oito representa o Grau 8 (perfeição receptiva e equilíbrio total).",
+        "No centro Emocional, ele corresponde simbolicamente à retidão d'A Justiça (VIII) e à receptividade d'A Lua (XVIII) nos Arcanos Maiores.",
+        "Ele personifica o ideal crístico do coração em chamas, agindo com caridade pura: \"nada para mim que não seja para os outros\".",
+      ],
+    },
+  ],
+  "nove-de-copas": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Satisfação e Orgulho: Indica um momento em que o consultente se sente feliz, pleno e orgulhoso de suas conquistas e do trabalho árduo realizado até então.",
+        "Transição Afetiva: Simboliza o desprendimento de um mundo afetivo antigo para fundar um novo, exigindo sabedoria e abnegação.",
+        "Palavras-chave: Realização, contentamento, desapego emocional, \"vontade atendida\", sabedoria e transição.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "Despojamento e Renovação (Marselha): Apresenta-se como uma estrutura de [6 + 3]. As três copas inferiores, onde as folhagens parecem murchas, representam o passado que deve ser sacrificado. As seis copas superiores são exaltadas, apontando para dimensões emocionais mais amplas e universais.",
+        "Abundância e Sucesso (Rider-Waite): Mostra um homem sentado confortavelmente à frente de nove taças cheias, simbolizando que ele superou as decepções anteriores (do Oito de Copas) e agora desfruta de uma situação positiva e feliz.",
+      ],
+    },
+    {
+      title: "O Nove de Copas em Leituras",
+      content: [
+        "Positivo (Em pé): É um excelente sinal para qualquer pergunta sobre amor, carreira ou finanças. Indica que seus sonhos e manifestações estão sendo concedidos, trazendo paz interior e harmonia. Representa o amor consciente e a capacidade de amar a humanidade além do benefício pessoal.",
+        "Negativo (Invertido/Desafiador): Alerta para uma crise emocional, nostalgia ou medo da perda. Pode sinalizar que, embora o desejo tenha sido realizado, o consultente ainda sente que \"algo está faltando\" ou que seus sonhos ainda estão demorando a se concretizar, gerando frustração.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, o Nove representa o Grau 9 (crise benéfica e desprendimento).",
+        "No centro Emocional, ele marca o estágio de sabedoria onde se aceita o fim de um ciclo afetivo para permitir a evolução.",
+        "Corresponde simbolicamente à sabedoria solitária d'O Eremita (VIIII) e à renovação de O Sol (XVIIII) nos Arcanos Maiores.",
+      ],
+    },
+  ],
+  "dez-de-copas": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Amor Realizado: Indica uma vida amorosa plena e a chegada ao limite máximo do desenvolvimento emocional.",
+        "Sublimação e Santidade: Representa o ideal de que o coração, estando transbordante, torna-se uma potência de ação altruísta, seguindo o lema: \"Nada para mim que não seja para os outros\".",
+        "Palavras-chave: Conclusão de ciclo, vida amorosa realizada, mutação, plenitude, altruísmo e transição material.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "As Nove Copas e a Décima Selada: A carta apresenta nove copas abertas e cheias, simbolizando a experiência emocional através dos cinco sentidos. A décima copa, posicionada acima das outras, está selada, indicando que a exigência emocional cessou e o coração agora funciona como um instrumento espiritualizado.",
+        "Os Sete Gomos: Enquanto as copas abertas possuem cinco subdivisões, a décima copa possui sete, que correspondem simbolicamente aos sete centros nervosos ou chakras.",
+        "O Germe do Próximo Ciclo: No topo da décima copa, desenha-se uma figura florida dentro de um círculo que lembra uma moeda, anunciando que o Dez de Copas está prestes a se transformar no Ás de Ouros.",
+      ],
+    },
+    {
+      title: "O Dez de Copas em Leituras",
+      content: [
+        "Positivo (Em pé): Sinaliza que a realização emocional foi atingida e que é chegado o momento de passar à ação no mundo. Indica um coração preenchido, pronto para servir e para comunhão.",
+        "Negativo (Desafiador): Alerta para o bloqueio e a recusa em evoluir. Pode representar uma pessoa que se nega a passar para um novo estágio onde voltará a ser principiante, ou sinais de venalidade e não aceitação de si mesmo.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na estrutura do Tarot, o Dez de Copas marca o ponto em que as emoções atingem tal maturidade que precisam se manifestar na matéria viva.",
+        "Este processo de engendramento cíclico mostra que o intelecto (Espadas) leva ao amor (Copas), o amor leva à matéria (Ouros) e a matéria leva à criatividade (Paus).",
+        "Assim, o Dez de Copas é a \"ponte\" necessária para que o amor deixe de ser apenas um sentimento e passe a produzir vida nova ou ações concretas no mundo.",
+      ],
+    },
+  ],
+  "pajem-de-copas": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Desejo de Amar e Hesitação: Simboliza a dúvida fundamental do coração: \"Amar ou não amar?\". Representa alguém que se prepara para o amor, mas que ainda hesita entre a doação total e o isolamento defensivo.",
+        "Nova Oportunidade Emocional: Sinaliza a chegada de uma mensagem, uma oferta amorosa, um convite para um encontro ou uma nova ideia criativa que traz bem-estar.",
+        "Intuição e Sensibilidade: É um dos maiores indicadores de dons intuitivos, empatia e mediunidade no Tarot.",
+        "Palavras-chave: Desejo de amar, timidez, idealismo romântico, intuição, mensagem amorosa, sensibilidade e imaturidade emocional.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "A Copa com Véu: O pajem segura uma copa aberta, mas a cobre parcialmente com um véu, simbolizando o medo de expor sua sensibilidade ou o desejo de proteger seus sentimentos.",
+        "Cabeça Despida: Diferente dos pajens de outros naipes que usam chapéu, o Pajem de Copas caminha com a cabeça descoberta e coroada de flores, indicando um idealismo puro e uma mente aberta às emoções.",
+        "Direção dos Pés: Seus pés se dirigem para a esquerda (lado da receptividade e do coração), mas seus passos são curtos e tímidos, reforçando a ideia de uma alma que avança com cautela no mundo dos afetos.",
+        "O Peixe na Taça: Em versões como a de Waite, um peixe emerge da taça, simbolizando inspiração, notícias inesperadas ou a própria manifestação da intuição vinda das profundezas do inconsciente.",
+      ],
+    },
+    {
+      title: "O Pajem de Copas em Leituras",
+      content: [
+        "Positivo (Em pé): Indica o início de um romance, um flerte ou uma reconciliação. Pode representar uma criança, um jovem romântico ou uma pessoa de qualquer idade que está redescobrindo sua capacidade de se encantar. Sugere que se deve confiar na intuição e estar aberto a novas experiências emocionais.",
+        "Negativo (Invertido/Desafiador): Alerta para o bloqueio emocional fundamentado em medos infantis ou feridas do passado. Pode sinalizar imaturidade, um \"eterno principiante\" no amor, sofrimento amoroso devido à timidez ou uma pessoa que se perde em devaneios sem concretizar nada.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, os Pajens situam-se entre o Grau 2 (acumulação/gestação) e o Grau 3 (primeira ação/explosão).",
+        "No centro Emocional, o Pajem de Copas simboliza o desejo de ser, amar e sentir, funcionando como um aprendiz que ainda não possui o pleno domínio de suas águas internas.",
+        "Simbolicamente, ele compartilha a energia de juventude e potencialidade presente no arcano O Namorado (VI).",
+      ],
+    },
+  ],
+  "cavaleiro-de-copas": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "O Mestre do Coração: Simboliza alguém que segue os próprios sonhos e o coração com vigor e força, não deixando que nada o detenha.",
+        "Ação e Missão: Representa o amor que se torna uma força concreta, manifestando-se em ações missionárias, atos humanitários ou na reparação de erros passados.",
+        "Proposta Emocional: Indica a chegada de uma oferta amorosa, uma nova experiência emocionante ou alguém que entra na vida do consulente trazendo notícias que tocam a alma.",
+        "Palavras-chave: Amor sincero, seguidor do coração, sonhador ativo, cura, diplomacia, proposta romântica e abnegação.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "A Taça que Guia: No Tarot de Marselha, a copa não é segurada, mas flutua sobre a palma da mão do cavaleiro. Isso simboliza que ele não domina o amor, mas o segue; o coração é o mestre que indica o caminho.",
+        "A Égua Doce: Diferente dos cavaleiros de Paus ou Espadas, que montam garanhões, o de Copas monta uma \"égua doce\", indicando que sua montaria (sua energia vital) é conduzida pela suavidade e não pela força bruta.",
+        "O Cavalo Branco (Estilo Waite): Em versões modernas, o cavalo branco representa poder e pureza, reforçando a ideia de alguém que segue uma causa nobre ou um ideal elevado.",
+      ],
+    },
+    {
+      title: "O Cavaleiro de Copas em Leituras",
+      content: [
+        "Positivo (Em pé): Sinaliza um período de paz e harmonia, o encontro de um amor sincero ou a disposição de se sacrificar por uma causa espiritual. Pode representar um terapeuta, um santo ou alguém que serve ao mundo com caridade.",
+        "Negativo (Invertido/Desafiador): Alerta para alguém que passa tempo demais sonhando e pouco agindo, ou que se sente com o coração partido. Pode indicar também uma pessoa excessivamente sensível, instável ou que usa a sedução de forma manipuladora.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, os Cavaleiros situam-se entre o Grau 8 (perfeição) e o Grau 9 (crise de transição), atuando como mensageiros que levam a energia de seu naipe para fora do \"palácio\".",
+        "O Cavaleiro de Copas marca o final do ciclo emocional e, em sua jornada, ele se dirige ao próximo elemento: o Ás de Ouros, transformando o amor espiritualizado em matéria e vida concreta.",
+      ],
+    },
+  ],
+  "rainha-de-copas": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Maturidade Afetiva: Representa uma pessoa (frequentemente uma figura materna ou amiga próxima) que é amorosa, compassiva e que tem os melhores interesses do consulente em mente.",
+        "Intuição e Sensibilidade: É considerada a mais psíquica de todas as rainhas, agindo como um espelho que reflete as emoções ao seu redor, mas permanecendo incrivelmente centrada.",
+        "Nurturação: Como todas as Rainhas, ela simboliza o estágio de nutrir um projeto ou sentimento que foi iniciado.",
+        "Palavras-chave: Amor incondicional, intuição, dedicação, acolhimento, autocontrole emocional e sabedoria do coração.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "A Copa Fechada: Tanto no Tarot de Marselha quanto no estilo Waite, sua taça possui uma tampa. Isso indica que, embora seja extremamente sensível, ela possui grande autocontrole e guarda seus sentimentos mais profundos sob segredo até que o momento seja o correto.",
+        "O Olhar Fixo: Diferente dos Reis, que olham para o horizonte, a Rainha olha fixamente para sua própria copa, demonstrando estar absorta em sua própria natureza emocional.",
+        "A Espada Sinuosa (Marselha): Jodorowsky destaca que ela segura uma espécie de punhal ou espada de lâmina sinuosa na mão esquerda, simbolizando a defesa de seus sentimentos e uma \"pureza tímida\" que não permite ser usada para outros fins que não o amor.",
+        "Pés no Chão: Apesar de estar rodeada de água (emoções), seu trono e pés estão em terra firme, o que sinaliza que ela não se deixa afogar pelos sentimentos; ela os domina.",
+      ],
+    },
+    {
+      title: "A Rainha de Copas em Leituras",
+      content: [
+        "Positivo (Em pé): Indica uma mulher carinhosa, uma \"boa mãe\" ou uma conselheira paciente no trabalho. Sugere que o consulente deve seguir sua intuição e agir com bondade.",
+        "Negativo (Invertido/Desafiador): Alerta para o perigo do ciúme, da possessividade e de uma afetividade sufocante. Pode representar alguém emocionalmente instável, manipulador ou uma pessoa que se sente drenada por cuidar demais dos outros e negligenciar a si mesma.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, as Rainhas ocupam o Grau 4 (estabilidade), mas com uma tendência ao Grau 5 (novo ideal), situando-se entre uma afeição estável e a aspiração por um amor mais elevado ou espiritual.",
+        "Elementamente, ela é descrita como \"Água de Água\" (o posto de Rainha é água e o naipe de Copas também), o que a torna a personificação máxima da fluidez emocional.",
+        "Ela forma o par ideal com o Rei de Copas, representando a união da receptividade com a autoridade benevolente.",
+      ],
+    },
+  ],
+  "rei-de-copas": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Mestre da Estabilidade Emocional: Simboliza uma pessoa incrivelmente calma, equilibrada e em pleno controle de suas emoções, mesmo quando as situações ao redor são difíceis ou \"águas agitadas\".",
+        "Autoridade Benevolente: Diferente de outros reis mais rígidos, ele governa através do amor, da compaixão e da diplomacia, colocando-se muitas vezes a serviço dos outros.",
+        "Sabedoria e Cura: Representa o \"mestre do coração\" ou um terapeuta nato, alguém que cura através da escuta e da aceitação profunda.",
+        "Palavras-chave: Bondade, calma, proteção, maturidade emocional, diplomacia, cura, altruísmo e santidade.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "O Trono sobre a Água: Em versões como a de Waite, seu trono flutua em águas agitadas, mas sua face permanece completamente serena, simbolizando que ele domina o elemento emocional e não se deixa abalar por crises externas.",
+        "A Copa Aberta: Ao contrário da Rainha de Copas (que mantém sua taça fechada), o Rei segura uma copa aberta e oferecida aos que têm sede de paz, simbolizando que ele já não guarda sentimentos apenas para si, mas os distribui generosamente.",
+        "Peito Largo e Vestes Suaves: Jodorowsky destaca que o lado esquerdo de seu peito é excepcionalmente largo, reforçando sua imensa capacidade de amar, e suas vestes de seda indicam uma natureza espiritualizada e dócil.",
+        "O Olhar para o Horizonte: Como todos os Reis, ele não olha para seu próprio símbolo, mas para o mundo exterior e para o futuro, demonstrando o verdadeiro desprendimento e domínio sobre seu reino.",
+      ],
+    },
+    {
+      title: "O Rei de Copas em Leituras",
+      content: [
+        "Positivo (Em pé): Indica uma pessoa de confiança, um conselheiro sábio, um pai amoroso ou um mestre espiritual. Sugere que o consulente deve agir com compaixão e manter a calma para resolver conflitos. Pode representar também um sucesso fundado em relações humanas calorosas.",
+        "Negativo (Desafiador): Alerta para a manipulação emocional e a instabilidade. Pode representar um perverso narcisista, um hipócrita ou alguém que, por estar amargurado, verte ódio sobre sua família e sobre o mundo. Em casos extremos, sinaliza vícios como o alcoolismo usado para anestesiar a dor.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, os Reis situam-se entre o Grau 6 (prazer e beleza) e o Grau 7 (ação irresistível no mundo).",
+        "O Rei de Copas representa o estágio em que o amor deixa de ser apenas uma emoção privada e se torna uma potência de ação altruísta.",
+        "Ele forma o par ideal com a Rainha de Copas, simbolizando o equilíbrio perfeito entre a recepção dos mistérios do coração e a autoridade benevolente para aplicá-los na realidade.",
+      ],
+    },
+  ],
+  "as-de-espadas": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Clareza e Avanço: Indica um momento de \"estalo\", uma nova ideia ou uma descoberta que traz clareza a uma situação confusa.",
+        "Vitória e Determinação: Simboliza a vitória alcançada através da inteligência, da astúcia e do discernimento. Representa a capacidade de tomar decisões firmes.",
+        "O Verbo e a Lógica: Como símbolo do Verbo, a espada deve ser forjada e afiada como a inteligência. Ela representa a lógica, o pensamento racional e a autoridade intelectual.",
+        "Palavras-chave: Nova ideia, clareza, verdade, vitória, intelecto, decisão e comunicação.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "A Mão e a Nuvem (Marselha): Uma mão surge do exterior de uma nuvem, mostrando o dorso da mão, indicando um impulso que é periférico, formal e reflexivo (diferente do Ás de Paus, que mostra a palma).",
+        "A Coroa: A espada atravessa uma coroa, o que simboliza o mental superando seus limites individuais e racionais para alcançar a Consciência cósmica. No estilo Waite, a coroa com o ramo de oliveira e a palma representa o sucesso e a vitória.",
+        "Natureza de Dois Gumes: O símbolo lembra que a abordagem deve ser feita com boa fé e atitude positiva; se usada de forma destrutiva, a \"arma\" pode se voltar contra o autor.",
+      ],
+    },
+    {
+      title: "O Ás de Espadas em Leituras",
+      content: [
+        "Positivo (Em pé): Confirma que a intuição do consulente sobre outra carta está correta e que o sucesso virá se houver ação. No amor, pode sinalizar o início de uma relação com excelente comunicação e conversas estimulantes. Na carreira, indica uma nova oferta de emprego ou um papel que desafiará o cérebro, algo que exige foco e racionalidade.",
+        "Negativo (Invertido/Desafiador): Sinaliza confusão mental, falta de clareza ou comunicação ríspida e maldosa. Pode indicar agressão verbal, palavras que ferem e uma superestimação perigosa do intelecto em detrimento da matéria.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, o Ás representa o Grau 1 (totalidade em potência) aplicado ao elemento Ar. Ele é o \"germe\" do intelecto que busca a origem e a unidade na consciência.",
+        "Jodorowsky observa que, enquanto o Ás de Paus (fogo) é um chamado do futuro, o Ás de Espadas parte do passado (o punho) para atravessar o presente (a coroa) e retornar à fonte espiritual.",
+      ],
+    },
+  ],
+  "dois-de-espadas": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Impasse e Indecisão: Reflete uma situação de confusão, onde o indivíduo se sente dividido entre duas opções e não sabe qual caminho seguir.",
+        "Bloqueio Mental: Pode indicar que a pessoa está evitando tomar uma decisão deliberadamente (\"colocando a venda em si mesma\") ou que não consegue enxergar a verdade de uma situação.",
+        "Devaneio: Representa uma acumulação de projetos, informações e teorias que ainda não possuem uma estrutura prática ou aplicação real.",
+        "Palavras-chave: Acumulação de pensamentos, impasse, hesitação, preparação, equilíbrio precário e dúvida intelectual.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "A Mulher Vendada (Estilo Waite): Uma figura feminina com os olhos cobertos segura duas espadas cruzadas sobre o peito, simbolizando a incapacidade de ver ou a recusa em encarar a realidade para evitar uma escolha difícil.",
+        "A Flor Gigante (Tarot de Marselha): Apresenta uma flor central exuberante cercada por duas espadas curvas que formam um oval; esta flor simboliza o \"devaneio\" e o caos de ideias que ainda não se estabilizaram.",
+        "As Lâminas Negras: No Tarot de Marselha, as lâminas são predominantemente negras, sugerindo que o objetivo final do mental neste estágio é atingir o vazio através da meditação.",
+        "A Lua e a Intuição: A presença da lua (em versões como a de Waite) simboliza o inconsciente; para acessá-lo, o consultente precisa controlar e acalmar a mente racional.",
+      ],
+    },
+    {
+      title: "O Dois de Espadas em Leituras",
+      content: [
+        "Positivo (Em pé): Funciona como um conselho para aquietar a mente, focar e manter a calma para que a decisão correta se revele naturalmente. Indica que se está em uma fase de preparação e estudo.",
+        "Negativo (Invertido/Desafiador): Sinaliza uma confusão extrema onde todas as opções parecem ruins, ou um estado de pessimismo e preguiça intelectual. Pode representar também desonestidade consigo mesmo ou falta de concentração.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, o Dois representa o Grau 2 (acumulação passiva e gestação) aplicado ao centro Intelectual.",
+        "Ele corresponde simbolicamente à passividade d'A Papisa (II) e d'O Enforcado (XII), indicando um momento em que as ideias estão sendo preparadas, mas ainda não foram postas em prática.",
+        "Este Arcano marca o ponto em que o intelecto é como uma semente que acumula força: se a pessoa permanecer demais neste estado, corre o risco de estagnar e \"apodrecer\" mentalmente. O desafio é lidar com a dualidade dos conceitos sem se deixar paralisar por eles, preparando o terreno para a explosão criativa do próximo grau.",
+      ],
+    },
+  ],
+  "tres-de-espadas": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Dor e Desgosto: É frequentemente descrita como uma das cartas mais tristes do Tarot de Rider-Waite, representando sofrimento, mágoa, traição e rejeição.",
+        "Conflito Verbal: Como o naipe de Espadas rege a mente e as palavras, a dor aqui costuma ser atribuída a alguém que fere o consulente com palavras ou jogos mentais.",
+        "Entusiasmo Intelectual: Em um sentido mais voltado para o pensamento (Marselha), indica uma eclosão fanática de opiniões, paixão pelos estudos e uma atividade mental intensa.",
+        "Palavras-chave: Heartache, traição, sofrimento, luto, entusiasmo intelectual, fanatismo e transformação.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "O Coração Perfurado (Rider-Waite): Três espadas atravessam um coração sob nuvens de tempestade, simbolizando o impacto doloroso do pensamento racional e das palavras sobre o mundo emocional.",
+        "A Espada Central e os Ramos (Marselha): Uma espada vermelha (ativa) ocupa o centro, rodeada por dois ramos com 22 folhas e frutos, que simbolizam a totalidade dos Arcanos Maiores integrados na mente.",
+        "As Quatro Flores: No exterior das espadas entrecruzadas, quatro flores sugerem que todo pensamento, por mais entusiasmado que seja, precisa de um espaço bem orientado (pontos cardeais) para não se perder.",
+      ],
+    },
+    {
+      title: "O Três de Espadas em Leituras",
+      content: [
+        "Positivo (Em pé): Sinaliza a eclosão das primeiras ideias de um projeto, sucesso em exames ou um forte desejo de evolução intelectual. Pode sugerir também a resolução de conflitos através do amor quando a mente se ancora no coração (\"um por todos e todos por um\").",
+        "Negativo (Invertido/Desafiador): Indica o início de uma cura emocional e a liberação da dor. As espadas são simbolicamente retiradas, permitindo a recuperação do sofrimento profundo. Pode também representar dispersão, falta de continuidade nos planos ou teimosia intelectual.",
+        "Uso Prático: No processo criativo, esta carta ajuda a delinear os passos necessários para executar um projeto, oferecendo o discernimento para fazer escolhas críticas.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, o Três é o número da explosão ativa e da adolescência.",
+        "No centro Intelectual, isso se traduz em um intelecto que ainda não diferencia bem entre \"crer\" e \"saber\", agindo com pura espontaneidade e vigor.",
+        "Corresponde simbolicamente à fertilidade de A Imperatriz (III) e à necessidade de limpeza radical do Arcano sem Nome (XIII).",
+        "Astrologicamente, é associado a Saturno em Libra.",
+      ],
+    },
+  ],
+  "quatro-de-espadas": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Repouso e Recuperação: É essencialmente uma carta de descanso, recuperação e tempo de inatividade para restaurar as energias.",
+        "Estabilidade Mental: Indica ideias racionais bem assentadas e uma mente organizada, correspondendo à segurança do Imperador (IIII) e da Temperança (XIIII).",
+        "Introspecção Necessária: Sugere um estágio significativo onde é preciso preservar a energia e se preparar sozinho para o que virá a seguir.",
+        "Palavras-chave: Estabilização, repouso, meditação, ideias racionais, recuperação e isolamento temporário.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "O Homem em Prece (Estilo Waite): A figura de um homem deitado em um túmulo com as mãos em posição de oração não indica morte, mas sim paz profunda e a necessidade de silenciar a mente. Acima dele, três espadas penduradas na parede servem como lembrete das dores passadas.",
+        "A Flor de Marselha: Jodorowsky observa que, no Tarot de Marselha, a flor central desta carta é cortada da direita para a esquerda, distinguindo-a de outras cartas da série e reforçando a ideia de um equilíbrio estável.",
+      ],
+    },
+    {
+      title: "O Quatro de Espadas em Leituras",
+      content: [
+        "Positivo (Em pé): Funciona como um conselho para desacelerar, meditar e reabastecer as próprias forças. Pode indicar que o consulente atingiu um nível de maturidade intelectual onde suas crenças lhe dão base sólida para viver.",
+        "Negativo (Invertido/Desafiador): Sinaliza a falta de tempo para si mesmo ou o ato de evitar momentos de silêncio por medo de encarar os próprios pensamentos. Alerta para o perigo de estagnação intelectual (ficar preso na mesma estrutura sem evoluir) ou um esgotamento iminente (burnout) por não saber descansar.",
+        "Combinações Específicas: Quando combinado com o arcano A Força (XI), pode indicar a doença ou a recuperação de um animal de estimação.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, o nível 4 representa a perfeição do quadrado, ou seja, a estabilidade na matéria e nas ideias.",
+        "No centro intelectual, isso se traduz em um momento de \"não ação\" consciente, onde o indivíduo se retira do caos externo para encontrar clareza interna antes de dar o próximo passo rumo ao ideal do Cinco.",
+      ],
+    },
+  ],
+  "cinco-de-espadas": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Novo Conhecimento e Ideal: Representa a aparição de um novo estudo, uma nova maneira de ver o mundo ou a abertura para um pensamento metafísico que supera o racionalismo do Quatro de Espadas.",
+        "Conflito e Ego: No cotidiano, sinaliza desacordos onde o ego fala mais alto. Alguém deseja vencer a qualquer custo, mesmo que isso envolva táticas cruéis ou vingança.",
+        "Decepção: Pode indicar um comportamento \"obscuro\" (shady), trapaça ou a sensação de que uma vitória não foi conquistada de forma honrosa.",
+        "Palavras-chave: Novo ideal, descoberta intelectual, conflito de ego, decepção, traição e transição.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "O \"Novo Olhar\" (Marselha): Jodorowsky destaca que, no Tarot de Marselha, a ponta da espada central é visível no topo de um oval, atravessando um espaço vazio entre curvas azuis. Esse detalhe simboliza o \"ideal do Cinco\", um novo olhar que surge de dentro da estrutura mental.",
+        "A Vitória Amarga (Waite): A imagem clássica mostra um homem segurando três espadas com um sorriso desdenhoso, enquanto duas figuras derrotadas se afastam ao fundo. Isso sugere que, embora ele tenha vencido a batalha, os meios foram questionáveis e ele perdeu seus aliados.",
+        "As Cores: Na série de Marselha, o Três e o Cinco de Espadas compartilham a cor vermelha, indicando uma atividade mental intensa e apaixonada.",
+      ],
+    },
+    {
+      title: "O Cinco de Espadas em Leituras",
+      content: [
+        "Positivo (Em pé): Pode indicar o início de um aperfeiçoamento intelectual, como retomar estudos ou se especializar em algo. Como conselho, sugere cautela contra a arrogância e a necessidade de alinhar o pensamento com a espiritualidade.",
+        "Carreira e Amor: No trabalho, alerta para fofocas, sabotagem por parte de colegas ou um ambiente altamente competitivo. No amor, indica que o ego está bloqueando o progresso da relação ou que um dos parceiros é excessivamente autocentrado.",
+        "Negativo (Invertido/Desafiador): Pode significar que o conflito ou a traição é pior do que se imaginava. Alternativamente, indica um período de cura e perdão, onde se decide abandonar o rancor e buscar a reconciliação. No plano intelectual, pode representar dogmatismo e opiniões hipócritas.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, o Cinco representa o Grau 5 (ponte e passagem), o ponto médio da série decimal.",
+        "No centro intelectual, ele rompe a estabilidade do Quatro para buscar uma dimensão superior, correspondendo simbolicamente à mediação d'O Papa (V) e à descida às profundezas d'O Diabo (XV) nos Arcanos Maiores.",
+        "Enquanto O Papa indica o ideal espiritual, o Cinco de Espadas tenta aplicar essa nova consciência no plano das ideias e da sociedade.",
+      ],
+    },
+  ],
+  "seis-de-espadas": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Movimento e Mudança: Representa o ato de deixar para trás uma situação que não serve mais (como o drama do Cinco de Espadas) em direção a um futuro mais positivo e tranquilo.",
+        "Refinamento Intelectual: Indica um estado de espírito lúdico, pensamentos originais e a descoberta da beleza através da mente e da poesia.",
+        "Transição Necessária: Embora possa haver uma tristeza residual ao abandonar o passado, a alma compreende que essa mudança é fundamental para o seu bem maior.",
+        "Palavras-chave: Alegria de pensar, transição, viagem por água, mudança de circunstâncias para melhor, refinamento e superação.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "A Flor Central (Marselha): No Tarot de Marselha, a flor do Seis de Espadas se diferencia da do Quatro porque suas pétalas são cortadas da esquerda para a direita, indicando a extração de energias terrestres para elevação espiritual.",
+        "A Jornada no Barco (Rider-Waite): Mostra figuras em um barco atravessando águas que começam agitadas mas tornam-se calmas à frente, simbolizando a jornada em direção a uma \"ilha de paz\".",
+        "As Seis Espadas no Barco: Representam o peso dos pensamentos e experiências que levamos conosco, mas que agora estão organizados para a travessia.",
+      ],
+    },
+    {
+      title: "O Seis de Espadas em Leituras",
+      content: [
+        "Positivo (Em pé): Sinaliza uma mudança benéfica de ambiente ou de estado mental. Pode indicar viagens (especialmente perto ou sobre a água) ou a resolução de problemas através de uma visão objetiva.",
+        "Negativo (Invertido/Desafiador): Alerta para a dificuldade de \"deixar ir\" ou um sentimento de estar preso no passado. Pode indicar que o consulente está tentando fugir de um problema, mas acaba encontrando outro, ou que há falta de confiança em suas próprias ideias.",
+        "Combinações: Quando acompanhado d'O Sol, pode indicar uma mudança para um clima mais quente; com O Eremita, sugere uma viagem solitária para as montanhas.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, o Seis representa o Grau 6 (beleza, prazer e descoberta do outro).",
+        "No centro intelectual, isso se traduz no abandono do racionalismo estrito para abraçar a intuição e o prazer poético.",
+        "Simbolicamente, corresponde às energias d'O Namorado (VI) e d'A Torre (XVI), representando o momento em que a consciência emerge da confusão e se abre para a harmonia.",
+      ],
+    },
+  ],
+  "sete-de-espadas": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Pensamento Receptivo: Representa o intelecto que atinge seu ápice ao deixar de impor suas crenças e passar a observar a realidade de forma objetiva.",
+        "Estratégia e Astúcia: Frequentemente associado a agir de forma furtiva, estratégica ou \"fora da caixa\" para evitar conflitos diretos ou perdas maiores.",
+        "Engano e Traição: Em leituras modernas (estilo Waite), é a carta clássica de trapaça, roubo ou comportamento dissimulado (\"alguém agindo pelas suas costas\").",
+        "Palavras-chave: Pensamento elevado, visão objetiva, estratégia, dissimulação, independência mental e diplomacia.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "A Espada Azul-Celeste (Marselha): No Tarot de Marselha, a espada central é de cor azul-celeste, simbolizando um pensamento que se espiritualizou e que extrai sua força de uma receptividade extrema. Ela está \"presa\" entre talos azuis, sugerindo uma meditação ativa que não se move por impulso, mas por clareza.",
+        "O \"Ladrão\" de Espadas (Rider-Waite): Mostra um homem fugindo de um acampamento com cinco espadas nos braços, deixando duas para trás. O sorriso em seu rosto indica satisfação por \"ter se safado\".",
+        "O Campo de Batalha: Ao fundo da imagem de Waite, há uma guerra ocorrendo; o personagem escolhe não participar da luta direta, mas desarmar o inimigo furtivamente.",
+      ],
+    },
+    {
+      title: "O Sete de Espadas em Leituras",
+      content: [
+        "Positivo (Em pé): Indica o uso da inteligência para resolver problemas complexos sem violência, ou a capacidade de se afastar de opiniões subjetivas para ver a verdade. Pode sinalizar alguém que não segue a \"manada\" e encontra caminhos mais inteligentes para o sucesso.",
+        "Negativo (Invertido/Desafiador): Alerta para calúnia, fofocas e teorias tóxicas que destroem reputações. Pode representar o \"complexo de impostor\" (sentir-se uma fraude), segredos sendo revelados ou o consultante enganando a si mesmo sobre uma situação.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, o Sete representa o Grau 7 (ação máxima), o número mais ativo da série decimal.",
+        "No centro intelectual, ele marca a transição da beleza do pensamento (Seis) para uma espiritualidade prática, correspondendo simbolicamente ao O Carro (VII) e à A Estrela (XVII).",
+        "Enquanto o Sete de Paus busca a conquista criativa, o Sete de Espadas busca a vitória através do discernimento silencioso.",
+      ],
+    },
+  ],
+  "oito-de-espadas": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Vazio Mental e Meditação: Representa o ideal búdico da vacuidade, onde a mente se torna um receptáculo puro, livre de conceitos parasitas.",
+        "Concentração Extrema: Indica um estado de transe ou foco absoluto em que a dualidade dos contrários desaparece, permitindo revelações que estão além da razão.",
+        "Restrição Autoimposta (Estilo Waite): Em baralhos modernos, simboliza sentimentos de isolamento, medo ou a sensação de estar em uma \"prisão\" mental, muitas vezes baseada em padrões de pensamentos negativos e não na realidade.",
+        "Palavras-chave: Vacuidade, meditação, silêncio interno, concentração, restrição, impasse e testemunho impessoal.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "A Flor de Marseille: No Tarot de Marselha, a carta apresenta apenas uma pequena flor azul no centro de um oval vazio, sugerindo que o \"continente\" (o espírito) não está mais preenchido por \"conteúdo\" (pensamentos).",
+        "O Olho e a Receptividade: O miolo da flor contém um ponto vermelho que simboliza o olho ou testemunho impessoal, enquanto as flores externas são azuis, reforçando a natureza espiritual e receptiva deste estágio.",
+        "A Mulher Amarrada (Estilo Waite): Mostra uma figura feminina vendada e cercada por espadas. Embora pareça presa, ela poderia se libertar se retirasse a venda e usasse as espadas ao redor para cortar suas amarras, simbolizando que a mente é sua própria carcereira.",
+      ],
+    },
+    {
+      title: "O Oito de Espadas em Leituras",
+      content: [
+        "Positivo (Em pé): Sinaliza uma mente pacificada e a capacidade de encontrar soluções evidentes através do silêncio interior. No sistema de Waite, serve como um alerta de que os medos do consulente são piores que a realidade e que ele possui a força interna para se libertar.",
+        "Negativo (Invertido/Desafiador): Alerta para bloqueios intelectuais graves, confusão ou medo do vazio. Pode indicar o início da consciência sobre pensamentos autodestrutivos ou o esforço para sair de um estado de isolamento e ansiedade. Na saúde, pode estar associado a quadros de amnésia, estupor, afasia ou lesões cerebrais.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, o Oito representa o Grau 8 (perfeição receptiva e equilíbrio total), situando-se no \"quadrado Céu\".",
+        "No centro intelectual, ele ensina que a maior potência do pensamento não é acumular mais ideias, mas atingir o vazio meditativo.",
+        "Simbolicamente, corresponde à retidão d'A Justiça (VIII) e à profundidade intuitiva d'A Lua (XVIII).",
+      ],
+    },
+  ],
+  "nove-de-espadas": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Iluminação e Nova Luz: Simboliza um momento em que a mente brilha com uma nova compreensão, saindo do isolamento subjetivo para se unir ao mundo e ao 'Outro'.",
+        "Crise e Ansiedade: Em leituras práticas (estilo Waite), é frequentemente associada a estresse intenso, insônia, pesadelos e sofrimento interno; é a carta da 'guerra interna', onde os pensamentos acelerados criam um estado de agonia [2: 1126].",
+        "Sabedoria e Escuta: Marca a descoberta de que o intelecto não é apenas um 'eu', mas um 'eu e você', exigindo a sabedoria de saber escutar os outros .",
+        "Palavras-chave: Iluminação, crise positiva, ansiedade, pensamentos recorrentes, sabedoria, desprendimento e 'noite escura da alma'.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "A Lâmina com Falha (Marselha): A espada central brilha com luminosidade (cor amarela), mas apresenta uma linha quebrada ou falha no meio da lâmina, sugerindo que o intelecto humano é incompleto se não se abrir à percepção externa e à escuta.",
+        "A Figura em Sofrimento (Rider-Waite): Mostra uma pessoa sentada na cama, cobrindo o rosto com as mãos, com nove espadas penduradas na parede acima. As espadas não tocam a pessoa, simbolizando que o sofrimento é puramente mental e interno.",
+      ],
+    },
+    {
+      title: "O Nove de Espadas em Leituras",
+      content: [
+        "Positivo (Em pé): Pode indicar o fim de uma confusão mental e a chegada de uma verdade libertadora. Serve como um conselho para aprender a escutar: 'Suas ideias são uma parte do mundo, mas não a totalidade'.",
+        "Negativo (Invertido/Desafiador): Alerta para uma crise emocional ou depressão profunda. Pode indicar que o consulente está começando a buscar ajuda profissional ou de entes queridos para lidar com sua ansiedade. Em termos de saúde, pode sinalizar senilidade ou lesões cerebrais devido à falha na lâmina.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, o Nove representa o Grau 9 (crise benéfica e desprendimento), situando-se no final da série decimal e representando um movimento de superação do perfeito para a construção de um mundo novo.",
+        "No centro intelectual, corresponde simbolicamente à sabedoria solitária d'O Eremita (VIIII) e à clareza regeneradora d'O Sol (XVIIII). Enquanto o Oito de Espadas buscava o vazio meditativo, o Nove expande esse vazio em direção à luz consciente.",
+      ],
+    },
+  ],
+  "dez-de-espadas": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "Fim de um Ciclo e 'Fundo do Poço': Representa um término definitivo, muitas vezes doloroso, de uma situação. É o momento em que se atinge o limite do sofrimento, onde não é possível cair mais, restando apenas a opção de se levantar e recomeçar.",
+        "A Descoberta do Outro: O intelecto atinge tal maturidade que deixa de ser um 'eu' isolado; aparece a recepção de uma voz externa e o início da relação emocional.",
+        "Palavras-chave: Conclusão, ponto crítico, traição, escuta, bênção disfarçada, nova era e mutação.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "O Homem Alvejado (Rider-Waite): Mostra um homem caído com dez espadas cravadas nas costas, sugerindo derrota total ou traição inesperada. Sua mão faz um gesto de bênção, indicando que este fim, embora brutal, é necessário para o crescimento da alma.",
+        "O Oval de Espadas (Marselha): O trabalho intelectual se concretiza em uma 'solidão positiva' ou meditação profunda; a entrada de espadas vindas do exterior no oval simboliza que o mental chegou à unidade e agora é capaz de integrar o masculino e o feminino.",
+        "Transição de Naipes: A carta contém o germe do Ás de Copas, indicando que o intelecto plenamente desenvolvido agora necessita da energia do amor.",
+      ],
+    },
+    {
+      title: "O Dez de Espadas em Leituras",
+      content: [
+        "Positivo (Em pé): Sinaliza o fim de um problema de longo prazo ou de um sofrimento prolongado. Indica que o consultante adquiriu uma visão total da realidade e uma mente 'amante', pronta para passar à ação emocional.",
+        "Negativo (Invertido/Desafiador): Representa a cura após um fim doloroso, com as espadas simbolicamente caindo das costas do personagem. Pode também indicar resistência a um encerramento inevitável, medo de ser ferido ou bloqueios intelectuais que geram conflito e ingratidão.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Evolutivo",
+      content: [
+        "Na numerologia do Tarot, o Dez representa a totalidade completa e a interrupção da atividade para que algo novo surja. No plano intelectual, corresponde ao nascimento de uma nova consciência e ao despertar de um desejo irresistível de evolução.",
+        "Enquanto as outras espadas estavam presas em seus conceitos, o Dez de Espadas é o milagre da mente que se abre para o mundo, preparando a transição rumo ao centro emocional.",
+      ],
+    },
+  ],
+  "pajem-de-espadas": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "O Espião ou Investigador: É frequentemente visto como o 'espião' do Tarot, alguém dotado de grande inteligência, habilidade para pesquisa e um foco obstinado em descobrir a verdade.",
+        "Dualidade e Hesitação: Simboliza a dúvida intelectual fundamental: 'Ser ou não ser?'. Possui muitos conhecimentos e teorias, mas ainda hesita sobre como usá-los na prática.",
+        "Novas Ideias e Mensagens: Representa o surgimento de um novo projeto intelectual ou a chegada de notícias e informações que podem ser diretas e 'frias'.",
+        "Palavras-chave: Desejo de ser, vigilância, curiosidade, intelecto aguçado, espionagem, diplomacia e imaturidade mental.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "A Espada no Chapéu (Marselha): No Tarot de Marselha, a ponta de sua espada está apoiada em seu chapéu, indicando que seus pensamentos ainda estão em fase de teste e que ele duvida se deve ou não agir.",
+        "Direção dos Pés: Seus pés apontam para direções opostas, simbolizando um estado de hesitação em que o pensamento é contraditório e ainda não se decidiu por um engajamento total.",
+        "Espada Azul (Receptiva): A espada é inicialmente azul, sugerindo que o intelecto do Pajem ainda é mais receptivo e acumulador de informações do que propriamente ativo.",
+        "O Jovem Vigilante (Waite): Em versões modernas, ele é retratado em um terreno elevado e ventoso, segurando a espada com as duas mãos, pronto para se defender ou atacar, enfatizando sua natureza alerta e defensiva.",
+      ],
+    },
+    {
+      title: "O Pajem de Espadas em Leituras",
+      content: [
+        "Positivo (Em pé): Indica uma mente ágil, um estudante talentoso ou alguém capaz de usar a diplomacia e a estratégia para lidar com situações complexas. Sugere que o consulente está animado com uma nova empreitada ou recebendo comunicações importantes.",
+        "Negativo (Invertido/Desafiador): Alerta para a mentira, a agressão verbal e a confusão intelectual. Pode indicar uma pessoa manipuladora, sem empatia, ou alguém que 'fala muito mas não age'. Também sinaliza falhas na comunicação e falta de clareza sobre a verdade dos fatos.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, os Pajens situam-se no Grau 2/3, marcando a transição entre a acumulação de conhecimento (gestação) e a primeira ação intelectual explosiva [1: 171-172].",
+        "No centro Intelectual, o Pajem de Espadas representa o aprendizado da linguagem e a forja da inteligência: possui o potencial infinito do Ás de Espadas, mas ainda precisa aprender a 'cortar' e a discernir o que é útil.",
+      ],
+    },
+  ],
+  "cavaleiro-de-espadas": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "O Cavaleiro de Espadas representa a maturidade do intelecto e a prontidão para agir com base na lógica e na coragem, funcionando como um mensageiro ou profeta que leva a energia do pensamento para além de seus próprios limites [1: 170, 799-800]. No Tarot, ele é frequentemente considerado o mais rápido de todos os Cavaleiros, simbolizando um ímpeto que nada pode deter [2: 1290-1291].",
+        "Missão e Determinação: Simboliza alguém que está em uma missão de nível elevado, utilizando a inteligência e a lógica para alcançar objetivos com vigor inabalável.",
+        "O Verbo se torna Amor: Na visão de Jodorowsky, este cavaleiro sacrificou seu 'desejo de ser' para entrar em um estado de abnegação sagrada, onde o pensamento se torna amor e serviço ao outro.",
+        "Mensagens Inesperadas: Pode indicar a chegada súbita de notícias ou informações que, embora chocantes ou diretas, trazem clareza a uma situação.",
+        "Palavras-chave: Inteligência ativa, coragem, lógica, rapidez, profecia, determinação e mensagens inesperadas.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "A Espada-Lança (Marselha): No Tarot de Marselha, sua espada é longa como uma lança e de cor vermelha, apontada para o cosmos para 'transpassar o coração dos outros' com a vida do espírito.",
+        "Aura de Santidade: Ele possui uma aura amarela em seu elmo, indicando que suas ações intelectuais são guiadas por uma consciência espiritual superior.",
+        "A Carga do Cavaleiro (Waite): Em baralhos modernos, ele é retratado galopando em alta velocidade, vestido com armadura e capacete, demonstrando que o espírito e o cavalo (sua energia vital) formam um único corpo em ação.",
+        "Vencer a Gravidade: O salto do cavalo simboliza que o intelecto venceu seus limites racionais e a força da gravidade para se fundir com o infinito.",
+      ],
+    },
+    {
+      title: "O Cavaleiro de Espadas em Leituras",
+      content: [
+        "Positivo (Em pé): Indica um sucesso alcançado através da ambição e da mente afiada. Em questões de carreira, sugere que o consulente tem determinação para superar qualquer desafio. No amor, representa alguém intelectualmente maduro que diz a verdade, embora possa ter dificuldade em seguir apenas o coração.",
+        "Negativo (Invertido/Desafiador): Alerta para a impaciência, a pressa excessiva e a impulsividade. Pode sinalizar pensamentos dispersos, decisões precipitadas ou uma pessoa que 'fala muito mas não pensa', gerando conflitos desnecessários.",
+        "Conselho: O Arcano sugere eliminar o medo e a esperança (conceitos parasitas) para agir com foco total no presente .",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Evolutivo",
+      content: [
+        "Na numerologia do Tarot, os Cavaleiros situam-se entre o Grau 8 (perfeição) e o Grau 9 (crise de transição). O Cavaleiro de Espadas marca o fim do ciclo puramente mental e, em sua jornada, ele se dirige ao elemento seguinte: o Ás de Copas, transformando o intelecto em energia emocional e amorosa.",
+        "Ele é o mensageiro que anuncia que o pensamento, ao atingir sua plenitude, deve agora abrir caminho para o coração",
+      ],
+    },
+  ],
+  "rei-de-espadas": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "O Rei de Espadas representa o ápice do domínio intelectual, simbolizando a inteligência, a lógica, o discernimento e a autoridade baseada na verdade e na lei. Ele é o 'Rei da Lei e da Ordem', agindo com uma mente afiada e estratégica para organizar a realidade.",
+        "Mestre do Intelecto: Representa alguém que controla o conhecimento e a sabedoria com facilidade, sendo capaz de tomar decisões difíceis de forma imparcial e justa.",
+        "Autoridade e Estratégia: Diferente de outros reis que usam a força bruta, ele reina através das leis, das reformas e do verbo; seus trunfos são as artimanhas da estratégia e a ironia.",
+        "Conselheiro e Especialista: Frequentemente simboliza profissionais qualificados, como advogados, juízes, consultores ou médicos — pessoas que oferecem conselhos baseados em fatos e lógica.",
+        "Palavras-chave: Lógica, inteligência ativa, justiça, estratégia, clareza, retidão e poder intelectual.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "O Olhar para o Futuro: Como todos os Reis, ele não olha fixamente para seu próprio símbolo, mas para o horizonte, demonstrando domínio total sobre seu reino e consciência do mundo exterior.",
+        "As Meias-Luas nos Ombros: Assim como n'O Carro (VII), ele possui dois rostos em forma de meia-lua sobre os ombros, reforçando sua conexão com a ação vitoriosa no mundo.",
+        "A Régua de Medida (Marselha): Na mão esquerda, ele segura uma unidade de medida com 22 traços gravados, simbolizando a totalidade dos Arcanos Maiores aplicada à realidade concreta.",
+        "Postura Refinada: Não está vestido para a guerra, mas para a corte, utilizando roupas leves e elegantes que indicam um pensamento sofisticado e metarracional.",
+      ],
+    },
+    {
+      title: "O Rei de Espadas em Leituras",
+      content: [
+        "Positivo (Em pé): Indica um sucesso alcançado pelo uso da razão e da determinação. Sugere que o consulente deve falar sua verdade com firmeza e buscar clareza absoluta antes de agir. No campo profissional, aponta para alguém ambicioso e focado que atinge seus objetivos.",
+        "Negativo (Invertido/Desafiador): Alerta para o uso egoísta e abusivo da inteligência. Pode representar uma pessoa cruel, manipuladora, hipócrita ou um 'tirano intelectual' que impõe sua visão sem piedade. Também pode sinalizar indecisão ou incapacidade de pensar racionalmente devido à incerteza.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, os Reis situam-se entre o Grau 6 (prazer e beleza) e o Grau 7 (ação irresistível). O Rei de Espadas marca o estágio em que o pensamento atinge tal maturidade que se torna capaz de promulgar decretos que mudam o mundo.",
+        "Forma par ideal com a Rainha de Espadas, embora ambos possam manter certa distância emocional mútua, focando-se no domínio do espírito e da inteligência. Astrologicamente, é frequentemente associado ao signo de Aquário.",
+      ],
+    },
+  ],
+  "pajem-de-ouros": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "O Pajem de Ouros (ou Valete de Ouros) representa o estado inicial da energia no centro material, caracterizando-se por um desejo de viver, pelo aprendizado prático e por uma dualidade entre a poupança e o investimento. Na estrutura do Tarot, ele personifica o estudante dedicado ou o jovem profissional que começa a lidar com as realidades concretas do mundo.",
+        "Gestação e Início: Indica o início de um projeto concreto, uma nova carreira ou a retomada de estudos técnicos.",
+        "Hesitação Material: Representa a dúvida fundamental sobre como gerir recursos: 'Guardar ou gastar? Economizar ou investir?'.",
+        "O Estudante: Simboliza alguém que está em fase de treinamento, demonstrando diligência, ambição e foco em aprender novas habilidades.",
+        "Palavras-chave: Desejo de viver, diligência, potencial material, estudo, vigilância, praticidade e novas oportunidades financeiras.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "As Duas Moedas (Marselha): O Pajem contempla uma moeda de ouro em sua mão, mas parece ignorar (ou hesitar sobre) uma segunda moeda que ainda está enterrada como um tesouro no solo.",
+        "Direção dos Pés: Seus pés apontam para direções opostas, qualifica-o como 'receptivo/ativo' — conectado à terra (passado/tradição) e pronto para o movimento (futuro/ação).",
+        "Conexão com O Mundo: Devido ao seu caráter 'receptivo para a terra', ele se assemelha simbolicamente ao boi/cavalo cor de carne presente no Arcano O Mundo (XXI).",
+        "Postura de Estudo (Rider-Waite): Em versões modernas, ele é retratado em um campo fértil, segurando a moeda com cuidado e observando-a atentamente.",
+      ],
+    },
+    {
+      title: "O Pajem de Ouros em Leituras",
+      content: [
+        "Positivo (Em pé): Sinaliza uma mente prática, um estagiário talentoso ou alguém capaz de usar a estratégia para prosperar. Indica que o consulente tem os meios para começar uma nova empreitada ou que receberá notícias positivas sobre dinheiro e trabalho.",
+        "Negativo (Invertido/Desafiador): Alerta para a preguiça, falta de foco e desorganização. Pode indicar alguém que 'sonha alto' mas não coloca os pés no chão, ou que está desperdiçando recursos por falta de experiência.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, os Pajens situam-se no Grau 2/3, marcando a transição entre a acumulação passiva de recursos (gestação) e a primeira ação material explosiva. O Pajem de Ouros representa a forja da inteligência aplicada à matéria: possui o potencial do Ás de Ouros, mas ainda precisa decidir como transformar esse potencial em uma realidade estável.",
+        "Na jornada evolutiva, ele é aquele que entra no 'palácio' material para eventualmente se tornar a Rainha e o Rei.",
+      ],
+    },
+  ],
+  "cavaleiro-de-ouros": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "O Cavaleiro de Ouros representa a maturidade do centro material e a superação da perfeição física para atingir uma nova dimensão espiritual e criativa. Na jornada do Tarot, ele atua como um mensageiro que leva a energia da matéria (Ouros) em direção ao elemento seguinte, a energia sexual e criativa (Paus).",
+        "Espiritualização da Matéria: Simboliza o estágio em que a matéria atinge tal pureza que se torna imortal e se eleva ao centro do Universo.",
+        "Transição de Naipes: Ele marca o fim do ciclo de Ouros, carregando consigo um 'pau' ou bastão que se tornará o Ás de Paus, indicando que a prosperidade material agora deve gerar vida nova e criatividade.",
+        "Androginia e Unidade: Jodorowsky o descreve como um 'hermafrodita' que unifica as polaridades masculina e feminina, vivendo em paz profunda após vencer a ideia da morte.",
+        "Palavras-chave: Saúde, paz infinita, materialização do espírito, transição, maturidade material e progresso seguro.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual (Tarot de Marselha)",
+      content: [
+        "O Astro Flutuante: Diferente do Valete ou do Rei, que seguram moedas físicas, o Cavaleiro segue com o olhar um ouro espiritualizado que flutua no céu como um astro ou estrela.",
+        "A Égua Azul: Ele monta uma égua de cor azul-celeste (receptiva), que representa a sua saúde. Ela caminha a passos precisos e comedidos, simbolizando uma vida sintonizada com o presente.",
+        "O Bastão: Ele segura um bastão verde em sua mão direita, confirmando que ele já está semeando as bases para o próximo ciclo de ação e desejo.",
+      ],
+    },
+    {
+      title: "O Cavaleiro de Ouros em Leituras",
+      content: [
+        "Positivo (Em pé): Indica uma pessoa financeiramente estável ou rica o suficiente para se dedicar a novos objetivos espirituais ou artísticos. Sinaliza um deslocamento benéfico, uma recuperação de saúde ou um sucesso que abre novos horizontes.",
+        "Negativo (Desafiador): O maior perigo é a estagnação na crise ou a incapacidade de se deixar levar pela mudança universal, o que pode gerar bloqueios na realização de novos projetos.",
+        "Tempo: No sistema de leitura de Jodorowsky, o dinamismo do Cavaleiro costuma representar uma mutação rápida na vida do consulente.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Evolutivo",
+      content: [
+        "Na numerologia do Tarot, os Cavaleiros situam-se entre o Grau 8 (perfeição) e o Grau 9 (crise de transição). Simbolicamente, o Cavaleiro de Ouros corresponde ao animal cor de carne (boi ou cavalo) presente no arcano O Mundo.",
+        "Ele representa a energia corporal purificada que, ao chegar ao seu limite de recepção, se prepara para se tornar ação pura.",
+      ],
+    },
+  ],
+  "rainha-de-ouros": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "A Rainha de Ouros (ou Rainha de Denários) representa a maturidade e a plena posse do centro material, simbolizando uma figura pragmática, ativa e profundamente conectada com a realidade física, a economia e a saúde. Ela é a 'Dona da Casa' no plano material, vivendo como uma proprietária que gerencia com segurança o que conquistou.",
+        "Abundância e Prosperidade: É considerada a 'Rainha do Dinheiro', sinalizando sucesso financeiro, riqueza duradoura e a capacidade de prover para os outros.",
+        "Inteligência Prática: Representa alguém que faz planos realistas e investe sua energia para concretizar sonhos através de métodos concretos.",
+        "Imanência: Diferente de outras figuras que buscam o divino no 'além', a Rainha de Ouros encontra a superação e o sagrado no centro da matéria e do cotidiano.",
+        "Palavras-chave: Economia, investimento, segurança material, saúde, pragmatismo, fertilidade, estabilidade e nutrição.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "O Olhar Fixo (Marselha): Ela segura uma moeda de ouro (maior que a do Pajem) e olha fixamente para ela; esse gesto pode indicar uma meditação profunda sobre o valor das coisas.",
+        "A Guardiã (Marselha): Descrita como a 'cadela que defende o solo oculto no coração', a guardiã ferrenha de seu território e de seu tesouro interno.",
+        "A Rainha da Terra (Rider-Waite): Retratada em um ambiente fértil, cercada pela natureza, segurando o pentáculo com carinho, reforçando seu caráter maternal e nutridor.",
+        "O Trono: Situada no interior de seu 'palácio', ela está absorta por seu próprio elemento, demonstrando total identificação com o mundo físico.",
+      ],
+    },
+    {
+      title: "A Rainha de Ouros em Leituras",
+      content: [
+        "Positivo (Em pé): Sinaliza que o consulente tem os meios para garantir sua segurança e saúde. Indica uma fase de equilíbrio, onde se cuida bem do corpo, da alimentação e do ambiente doméstico.",
+        "Negativo (Desafiador): Alerta para a avareza, a teimosia e o egoísmo; pode representar alguém que não consegue enxergar além das necessidades materiais.",
+        "Conselho: Use a estabilidade material para nutrir e proteger, sem permitir que o apego impeça o crescimento espiritual.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Evolutivo",
+      content: [
+        "Na numerologia do Tarot, a Rainha de Ouros situa-se entre o Grau 4 (estabilidade) e o Grau 5 (novo ideal). Ela domina a técnica do investimento e da economia, mas já sente o chamado para usar essa base material em prol de algo maior.",
+        "Na jornada das figuras, ela transforma a hesitação do Valete em uma posse ativa e pragmática, preparando o terreno para que o Rei de Ouros possa, eventualmente, desapegar-se dessa riqueza em direção ao mundo.",
+      ],
+    },
+  ],
+  "rainha-de-ouros": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "A Rainha de Ouros (ou Rainha de Denários) representa a maturidade e a plena posse do centro material, simbolizando uma figura pragmática, ativa e profundamente conectada com a realidade física, a economia e a saúde. Ela é a 'Dona da Casa' no plano material, vivendo como uma proprietária que gerencia com segurança o que conquistou.",
+        "Abundância e Prosperidade: É considerada a 'Rainha do Dinheiro', sinalizando sucesso financeiro, riqueza duradoura e a capacidade de prover para os outros.",
+        "Inteligência Prática: Representa alguém que faz planos realistas e investe sua energia para concretizar sonhos através de métodos concretos.",
+        "Imanência: Diferente de outras figuras que buscam o divino no 'além', a Rainha de Ouros encontra a superação e o sagrado no centro da matéria e do cotidiano.",
+        "Palavras-chave: Economia, investimento, segurança material, saúde, pragmatismo, fertilidade, estabilidade e nutrição.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "O Olhar Fixo (Marselha): Ela segura uma moeda de ouro e olha fixamente para ela, um gesto que pode indicar meditação profunda sobre o valor das coisas.",
+        "A Guardiã (Marselha): Descrita como a 'cadela que defende o solo oculto no coração', a guardiã ferrenha de seu território e de seu tesouro interno.",
+        "A Rainha da Terra (Rider-Waite): É retratada em um ambiente fértil, cercada pela natureza, e segura o pentáculo com carinho, reforçando seu caráter maternal e nutridor.",
+        "O Trono: Situada no interior de seu 'palácio', ela está absorta por seu próprio elemento, demonstrando total identificação com o mundo físico.",
+      ],
+    },
+    {
+      title: "A Rainha de Ouros em Leituras",
+      content: [
+        "Positivo (Em pé): Sinaliza que o consulente tem os meios para garantir sua segurança e saúde. Indica uma fase de equilíbrio, onde se cuida bem do corpo, da alimentação e do ambiente doméstico.",
+        "Negativo (Desafiador): Alerta para a avareza, a teimosia e o egoísmo. Pode representar alguém que não consegue enxergar além das necessidades materiais, ignorando a vida espiritual ou emocional.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Evolutivo",
+      content: [
+        "Na numerologia do Tarot, a Rainha de Ouros situa-se entre o Grau 4 (estabilidade) e o Grau 5 (novo ideal). Domina a técnica do investimento e da economia, mas já sente o chamado para usar essa base material em prol de algo maior.",
+      ],
+    },
+  ],
+  "rei-de-ouros": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "O Rei de Ouros (ou Rei de Denários) representa o ápice do domínio sobre o mundo material, simbolizando a prosperidade, a segurança financeira, a sabedoria prática e a capacidade de ser um provedor e protetor. Enquanto a Rainha foca na nutrição do lar, o Rei expande essa energia para o mundo, agindo como um mestre da abundância.",
+        "Mestre da Realidade: Representa alguém que atingiu sucesso duradouro através do trabalho árduo, sendo estável, confiável e generoso.",
+        "Sabedoria e Não Agir: Este rei atinge tal maturidade que reina através do 'não agir', aceitando as mudanças do universo com a paz de quem já conquistou tudo no plano físico.",
+        "O Provedor: Frequentemente associado a mentores, empresários de sucesso ou figuras paternas que oferecem segurança e suporte prático.",
+        "Palavras-chave: Prosperidade, estabilidade, pragmatismo, segurança, liderança, riqueza espiritualizada e sucesso material.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "O Chapéu e a Natureza (Marselha): Ele troca a coroa por um chapéu e seu trono está situado em plena natureza, indicando que seu reino é o planeta inteiro e que vive do próprio trabalho em contato com a terra.",
+        "O Ouro Duplo: Segura uma moeda na mão enquanto seu olhar segue outra que flutua no céu, simbolizando que a matéria em suas mãos já se tornou espiritualizada.",
+        "Abundância e Touros (Rider-Waite): Retratado cercado por uvas e com um trono decorado por touros, reforçando sua conexão com o signo de Touro.",
+      ],
+    },
+    {
+      title: "O Rei de Ouros em Leituras",
+      content: [
+        "Positivo (Em pé): Sinaliza sucesso nos negócios, estabilidade financeira e a realização de objetivos práticos. Indica que o consulente tem os meios para ser generoso e pode agir como um apoio sólido para os outros.",
+        "Negativo (Invertido/Desafiador): Alerta para a instabilidade, a ganância e a corrupção. Pode representar um trapaceiro ou alguém excessivamente materialista.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Astrológico",
+      content: [
+        "Na numerologia do Tarot, os Reis situam-se entre o Grau 6 (prazer e beleza) e o Grau 7 (ação irresistível). O Rei de Ouros marca o estágio em que o prazer da prosperidade se torna uma potência capaz de fundar impérios.",
+        "No sistema astrológico, ele é associado ao signo de Touro e ao elemento Terra.",
+      ],
+    },
+  ],
+  "as-de-ouros": [
+      {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "O Ás de Ouros representa o potencial infinito do centro material e corporal, simbolizando o germe de onde brotam a saúde, o dinheiro, o trabalho e a nossa relação com o território e a abundância. Na estrutura do Tarot, ele é a \"semente\" da vida física e da prosperidade, sendo considerado por Jodorowsky como o \"verdadeiro mestre\" oculto na humildade da matéria.",
+        "Potencialidade Material: Indica o início de um projeto concreto, uma nova oportunidade financeira, um novo emprego ou uma fase de recuperação da saúde.",
+        "A \"Semente\" da Realidade: Representa a matéria viva que contém em seu centro a energia espiritual; é o \"tesouro\" encontrado nas profundezas da terra que se tornará a auréola dos santos.",
+        "Palavras-chave: Prosperidade, saúde, corpo, dinheiro, território, potencial material, novos começos concretos e poder condutor dos elementos.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual (Tarot de Marselha)",
+      content: [
+        "Posição Horizontal: Diferente dos outros Ases que são imaginados \"de pé\", o Ás de Ouros deve ser visualizado deitado no chão, enfatizando sua conexão com a terra e a horizontalidade da vida material.",
+        "A Flor de Lótus e o Diamante: No centro da moeda, há uma flor de lótus (símbolo do desabrochar espiritual no lodo da matéria). O círculo vermelho central contém doze pontos que, se unidos, desenham um diamante, representando a consciência impessoal e o Deus interior oculto no físico.",
+        "Cores e Energias: Os ramos verdes indicam a inteligência prática, os triângulos laranja simbolizam a vida em todas as formas, e o vermelho representa o amor que é a essência da matéria.",
+        "Relação com o Todo: Os 12 pontos no centro também remetem à soma dos números de 1 a 12, que resulta em 78, o total de cartas do Tarot, indicando que a totalidade reside no coração da matéria.",
+      ],
+    },
+    {
+      title: "O Ás de Ouros em Leituras",
+      content: [
+        "Positivo (Em pé): Sinaliza sucesso em questões materiais, boa saúde e a satisfação de necessidades de forma harmoniosa. Confirma que o consulente tem os meios para concretizar seus sonhos.",
+        "Negativo (Invertido/Desafiador): Alerta para o perigo de permanecer apenas no plano virtual ou potencial, sem dar o primeiro passo na realidade. Pode indicar também problemas financeiros, avareza, preocupação excessiva com posses ou negligência com o corpo.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Evolutivo",
+      content: [
+        "Na numerologia do Tarot, o Ás é o Grau 1 (totalidade em potência) aplicado ao elemento Terra. Existe um processo cíclico de engendramento: o Dez de Copas (amor realizado) traz em seu topo o disco florida que se torna o Ás de Ouros, significando que o amor pleno deve agora produzir vida nova ou ação concreta.",
+        "Por sua vez, o desenvolvimento do Ás de Ouros acabará por gerar a energia sexual e criativa do Ás de Paus.",
+      ],
+    },
+  ],
+    "seis-de-ouros": [
+      {
+        title: "Significados Gerais e Palavras-Chave",
+        content: [
+          "O Seis de Ouros representa o Grau 6 do centro material, simbolizando um estágio de prosperidade plena, generosidade e a descoberta da beleza no mundo físico. Na numerologia do Tarot, o número seis marca o primeiro passo no 'quadrado Céu', onde o indivíduo deixa de focar apenas em necessidades básicas para buscar o prazer e a harmonia naquilo que faz.",
+          "Generosidade e Assistência: Em leituras práticas, é a carta da caridade e do auxílio mútuo. Indica tanto o ato de dar ajuda financeira ou suporte quanto o de recebê-los quando mais se necessita.",
+          "Equilíbrio e Harmonia: Simboliza uma situação em que os recursos são distribuídos de forma justa, refletindo paz e estabilidade nas relações materiais.",
+          "O Prazer da Prosperidade: Representa a satisfação de desfrutar do que se conquistou, celebrando a abundância e o bem-estar corporal.",
+          "Palavras-chave: Caridade, equilíbrio, prosperidade, apoio, ensino, generosidade e espiritualização da matéria.",
+        ],
+      },
+      {
+        title: "Simbolismo Visual",
+        content: [
+          "O Benfeitor (Estilo Waite): A imagem clássica mostra um homem com uma balança em uma mão, distribuindo moedas a necessitados com a outra. A balança é o símbolo central da justiça e medida, indicando que a ajuda é dada com discernimento.",
+          "Verticalidade Extática (Marselha): Jodorowsky descreve a estrutura desta carta como um conjunto de quatro moedas centrais (estabilidade material) que se abrem para cima e para baixo em direção a dois extremos [1: 670-671]. Isso sugere que a pessoa está enraizada na Terra, mas com o espírito elevado ao Céu, realizando a 'Grande Obra' de unir matéria e espírito.",
+          "Espiritualização da Matéria: Diferente dos graus anteriores (como o Quatro de Ouros, onde as moedas estão isoladas nos cantos), no Seis a matéria começa a se 'espiritualizar' e a se abrir para o outro.",
+        ],
+      },
+      {
+        title: "O Seis de Ouros em Leituras",
+        content: [
+          "Positivo (Em pé): Sinaliza sucesso nos negócios que se ama, obtenção de financiamentos ou bolsas de estudo, e a capacidade de ser um mentor ou professor para outros. É uma carta de gratidão e troca justa.",
+          "Negativo (Invertido/Desafiador): Alerta para o desequilíbrio nas relações, onde uma pessoa dá muito mais do que recebe. Pode indicar abuso de poder, manipulação financeira, ganância, ou dívidas mal geridas. No plano pessoal, pode refletir um excesso de preocupação com as aparências (narcisismo físico) em detrimento do ser interior.",
+        ],
+      },
+      {
+        title: "Contexto Numerológico e Evolutivo",
+        content: [
+          "O Seis de Ouros corresponde simbolicamente às energias d'O Namorado (VI) e d'A Torre (XVI), Arcanos que lidam com a alegria, a união e a liberação de energias presas.",
+          "Este grau ensina que o dinheiro e a saúde não devem ser fins em si mesmos, mas meios para expressar amor e generosidade no mundo. Sua evolução natural conduz ao Sete de Ouros, onde o espírito entra plenamente em ação na matéria para transformá-la.",
+        ],
+      },
+    ],
+
+    "sete-de-ouros": [
+      {
+        title: "Significados Gerais e Palavras-Chave",
+        content: [
+          "O Sete de Ouros representa o Grau 7 do centro material, simbolizando a ação máxima do espírito na matéria e a necessidade de paciência e perseverança para colher os frutos do trabalho. Na numerologia do Tarot, o sete é o número mais ativo da série decimal, representando a transição do prazer (Seis) para uma espiritualidade prática e transformadora.",
+          "Paciência e Colheita: Indica que as \"sementes\" foram plantadas e as raízes estão crescendo; é um lembrete de que coisas boas levam tempo e que a abundância está quase madura para ser colhida.",
+          "Obra Alquímica: Representa a materialização do espírito e a espiritualização da matéria, onde a consciência penetra no centro da vida física e celular.",
+          "Sucesso Financeiro e Saúde: Sinaliza o sucesso nos negócios através de ideias que produzem dinheiro, generosidade, e uma recuperação triunfante da saúde.",
+          "Palavras-chave: Paciência, perseverança, ação consciente na matéria, investimento a longo prazo, espírito em gestação e sucesso material fundado na consciência.",
+        ],
+      },
+      {
+        title: "Simbolismo Visual",
+        content: [
+          "O Triângulo no Quadrado (Marselha): Apresenta três moedas centrais formando um triângulo (espírito) cercado por quatro moedas nos cantos (matéria). Essa geometria simboliza o espírito em gestação no centro da realidade concreta.",
+          "O Lavrador (Rider-Waite): Mostra um homem apoiado em sua enxada, observando o crescimento de sete ouros. Seu semblante pode sugerir cansaço ou tédio, mas ele reflete sobre o esforço e a energia depositados na colheita que virá.",
+          "Níveis de Ação: Diferente do Sete de Paus, que se abre para o mundo, o Sete de Ouros foca na gestação de um ideal interno dentro da própria estrutura material.",
+        ],
+      },
+      {
+        title: "O Sete de Ouros em Leituras",
+        content: [
+          "Positivo (Em pé): Confirma que o consultante possui os meios e a inteligência para fazer sua realidade prosperar [1: 745]. Sugere que o trabalho duro logo será visível e que é preciso confiar no processo natural do tempo.",
+          "Negativo (Invertido/Desafiador): Alerta para a fratura entre corpo e espírito, onde o materialismo cego despreza a vida interior [1: 746]. Pode indicar impaciência, má gestão de recursos, ganância ou a sensação de que o esforço não está sendo recompensado conforme o esperado.",
+          "Carreira e Negócios: Pode representar um empresário humanista, um gênio dos negócios ou o sucesso mundial de uma empresa que coloca sua potência a serviço da evolução humana.",
+        ],
+      },
+      {
+        title: "Contexto Numerológico e Evolutivo",
+        content: [
+          "Na numerologia do Tarot, o Grau 7 marca o ponto de ação irresistível, correspondendo simbolicamente ao O Carro (VII) e à A Estrela (XVII). Enquanto O Carro conquista territórios e A Estrela purifica o ambiente, o Sete de Ouros transforma a própria matéria a partir de dentro.",
+          "Sua evolução natural conduz ao Oito de Ouros, onde se atinge a perfeição da saúde e a abundância equilibrada.",
+        ],
+      },
+    ],
+
+      "oito-de-ouros": [
+        {
+          title: "Significados Gerais e Palavras-Chave",
+          content: [
+            "O Oito de Ouros representa o estado de perfeição do centro material, simbolizando a abundância equilibrada, a saúde plena e a harmonia em todas as necessidades físicas e financeiras. Na numerologia do Tarot, o nível 8 é o ápice da recepção e do equilíbrio, funcionando como um 'duplo quadrado' que une a estabilidade terrestre à perfeição espiritual.",
+            "Prosperidade e Saúde: Indica uma fase de prosperidade sã, em que o corpo está em pleno equilíbrio e todas as necessidades materiais são satisfeitas de forma harmoniosa.",
+            "Paraíso Terrestre: Evoca a imagem do planeta visto como um jardim florido, onde existe entendimento familiar e cada um possui seu espaço.",
+            "Fluxo de Energia: Representa o fluxo constante e equilibrado das energias vitais.",
+            "Palavras-chave: Perfeição material, abundância, saúde, harmonia familiar, plenitude próspera e estabilidade espiritual na matéria.",
+          ],
+        },
+        {
+          title: "Simbolismo Visual (Tarot de Marselha)",
+          content: [
+            "A Flor Central Consciente: No centro da carta, há uma flor com o miolo amarelo marcado por uma cruz. Isso simboliza que, no coração da matéria, reside a consciência da eternidade e do infinito.",
+            "Geometria da Estabilidade: A disposição das moedas forma dois quadrados: um externo nos quatro cantos (segurança material) e um interno no centro (espiritualidade).",
+            "Exuberância Vegetal: Diferente do Oito de Espadas, o Oito de Ouros é profuso em folhagens que se estendem em todas as direções, indicando que a perfeição material é 'cheia' e fértil.",
+          ],
+        },
+        {
+          title: "O Oito de Ouros em Leituras",
+          content: [
+            "Positivo (Em pé): Confirma o sucesso material fundamentado na sabedoria. Sinaliza um lar onde reina a paz e uma situação financeira em que não falta nada. Indica que o consulente atingiu um nível de maestria ou qualidade em sua vida física.",
+            "Negativo (Invertido/Desafiador): Alerta para o desequilíbrio corporal, a avareza ou uma visão paralisante do dinheiro. Pode indicar que a pessoa vê a pobreza como uma fatalidade ou que caiu no perfeccionismo extremo, que impede a fluidez da vida e gera rigidez.",
+            "Perigo da Perfeição: O Tarot adverte que o estado de perfeição do 8 pode levar à imobilidade; se nada mais pode ser mudado, corre-se o risco de cair na estagnação ou na loucura.",
+          ],
+        },
+        {
+          title: "Contexto Numerológico e Evolutivo",
+          content: [
+            "O Oito de Ouros situa-se no 'quadrado Céu' da numerologia, correspondendo simbolicamente à retidão d'A Justiça e ao mistério intuitivo d'A Lua. Enquanto a Justiça pesa o necessário e a Lua reflete a luz cósmica, o Oito de Ouros manifesta essa perfeição na carne e no território.",
+            "Sua evolução natural conduz ao Nove de Ouros, onde ocorre o desprendimento ou o nascimento de uma nova dimensão material.",
+          ],
+        },
+      ],
+
+        "nove-de-ouros": [
+          {
+            title: "Significados Gerais e Palavras-Chave",
+            content: [
+              "O Nove de Ouros representa o Grau 9 do centro material, simbolizando um estágio de nascimento, crise benéfica e desprendimento necessário para o fim de um ciclo. Na numerologia do Tarot, o nove é um número andrógino — ativo em relação ao oito e receptivo em relação ao dez —, marcando a transição para uma nova dimensão da realidade física e econômica.",
+              "Nascimento e Renovação: Representa o surgimento de novas condições materiais, como um novo trabalho, uma herança, um golpe de sorte ou a recuperação da saúde.",
+              "Fim de um Mundo: Simboliza o desprendimento material, o momento em que se abandona o que já foi vivido para fundar algo novo.",
+              "Sabedoria na Matéria: Indica uma etapa de sabedoria em que se aceita o fim de um ciclo material com desapego e abnegação.",
+              "Palavras-chave: Nascimento, mutação financeira, desprendimento, crise positiva, nova construção e precaução.",
+            ],
+          },
+          {
+            title: "Simbolismo Visual (Tarot de Marselha)",
+            content: [
+              "A Moeda-Bebê: Jodorowsky destaca que a moeda central da carta assemelha-se à cabeça de um bebê saindo da matriz (um oval azul e vermelho formado por folhagens).",
+              "Perfeição Circundante: Este nascimento ocorre no centro da perfeição das outras oito moedas, sugerindo que a nova vida surge de um estado de equilíbrio pleno.",
+              "Despojamento: Ao contrário de graus anteriores mais ornamentados, o Nove foca no essencial do processo de parto e mudança.",
+            ],
+          },
+          {
+            title: "O Nove de Ouros em Leituras",
+            content: [
+              "Positivo (Em pé): Sinaliza a chegada iminente de mudanças benéficas. É um aviso para não se distrair: como em um parto real, o menor erro ou falta de foco pode comprometer o resultado final do novo projeto. Representa o sucesso que leva a uma nova construção.",
+              "Negativo (Invertido/Desafiador): Alerta para uma crise econômica sofrida, roubos, demissões ou mudanças forçadas. Pode indicar uma 'velhice sofrida', problemas de herança, exílio ou a sensação de fracasso diante de uma perda inevitável.",
+            ],
+          },
+          {
+            title: "Contexto Numerológico e Evolutivo",
+            content: [
+              "O Nove situa-se no final da série material, correspondendo simbolicamente à sabedoria d'O Eremita e à clareza d'O Sol. Enquanto O Eremita retira-se do mundo e O Sol inicia uma nova construção, o Nove de Ouros realiza essa mutação na carne e nas posses.",
+              "Sua evolução natural conduz ao Dez de Ouros, onde o ciclo material se completa e a energia prepara-se para se tornar criatividade pura (Ás de Paus).",
+            ],
+          },
+        ],
+
+        "dez-de-ouros": [
+          {
+            title: "Significados Gerais e Palavras-Chave",
+            content: [
+              "O Dez de Ouros representa o ápice da prosperidade e o encerramento do ciclo material, simbolizando a segurança total, a herança e a fundação de um legado que transcende o indivíduo. Na numerologia do Tarot, o dez marca a totalidade completa e a mutação para um novo ciclo, onde a abundância física se prepara para se transformar em energia criativa.",
+              "Prosperidade e Império: É considerada a carta da 'Prosperidade Suprema', indicando a construção de um 'império', riqueza duradoura e sucesso a longo prazo.",
+              "Legado e Tradição: Reflete não apenas a riqueza financeira, mas a transmissão de tradições, valores, crenças e bens através das gerações.",
+              "Estabilidade Total: Indica uma situação de estabilidade emocional, física e financeira, onde os recursos foram usados sabiamente no passado para criar conforto duradouro.",
+              "Palavras-chave: Prosperidade plena, legado familiar, riqueza geracional, completude material, tradição e transição para a criatividade.",
+            ],
+          },
+          {
+            title: "Simbolismo Visual",
+            content: [
+              "A Geometria da Realização (Marselha): Quatro moedas nos cantos formam um 'quadrado material' enquanto as seis moedas centrais desenham um oval que lembra a mandorla do arcano O Mundo.",
+              "O Eixo Branco: Pela primeira vez na série, aparecem moedas unidas por um eixo branco vertical, sinalizando que a energia material está imobilizada e pronta para passar a uma dimensão de consciência pura.",
+              "A Árvore da Vida (Rider-Waite): As dez moedas estão arranjadas no formato da Árvore da Vida, representando a conexão com os ancestrais, o universo e o crescimento tanto físico quanto espiritual.",
+              "As Três Gerações: A imagem de um idoso, um casal e uma criança com cães simboliza a continuidade da linhagem e a segurança que abrange toda a família.",
+            ],
+          },
+          {
+            title: "O Dez de Ouros em Leituras",
+            content: [
+              "Positivo (Em pé): Sinaliza que o consulente está no caminho certo para criar algo permanente. Indica que a realização material foi atingida e que é hora de usar essa base para projetos maiores ou espirituais.",
+              "Negativo (Invertido/Desafiador): Pode indicar alguém que possui sucesso na carreira, mas ainda sente um vazio ou falta de propósito na vida. Também alerta para o desejo de posses materiais que não se pode custear ou uma resistência em encerrar um ciclo material para evoluir.",
+              "Transição: No sistema evolutivo, o Dez de Ouros 'anuncia' o Ás de Paus, significando que a matéria, ao chegar ao limite de sua recepção, deve agora se tornar criatividade e ação.",
+            ],
+          },
+          {
+            title: "Contexto Numerológico e Espiritual",
+            content: [
+              "Na numerologia do Tarot, o Dez representa o Grau 10, o fim do percurso que retornará à unidade em um plano superior. O Dez de Ouros ensina que a verdadeira riqueza deve ser empregada para exaltar a vida, caso contrário, pode levar à estagnação ou destruição.",
+            ],
+          },
+        ],
+
+        "quatro-de-ouros": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "O Quatro de Ouros representa a estabilidade, a segurança e o domínio total sobre o mundo material, sendo o ápice da perfeição terrestre dentro da numerologia do Tarot. Enquanto o Arcano anterior (Três de Ouros) trazia a explosão vital e o investimento inicial, o Quatro simboliza o momento em que os projetos se consolidam em uma base sólida e inabalável.",
+        "Segurança Material: Indica uma situação financeira estável, um emprego seguro, um salário suficiente ou uma empresa bem administrada.",
+        "Saúde e Equilíbrio: No plano físico, representa um corpo bem cuidado e em boa saúde, funcionando como o pilar da realidade do indivíduo.",
+        "Domínio do Território: Simboliza o senhor (ou senhora) da vida material que tomou nas mãos os meios para garantir sua própria segurança e a de sua família.",
+        "Palavras-chave: Estabilidade, segurança, prosperidade, saúde sólida, base firme, construção duradoura e posse.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "Os Quatro Cantos (Marselha): As quatro moedas são posicionadas nos cantos da carta, como pontos cardeais que definem um mundo equilibrado e 'quadrado'.",
+        "A Fênix Central: No centro da carta, há um brasão com uma Fênix amarela que se consome no fogo para renascer das cinzas [1: 546, 621]. Isso simboliza que, mesmo na maior estabilidade, existe a renovação celular constante e a impermanência sagrada.",
+        "O Homem e suas Moedas (Rider-Waite): Nesta versão, um homem segura uma moeda firmemente contra o peito, tem duas sob os pés e uma sobre a coroa, destacando a atitude de quem protege o que conquistou.",
+      ],
+    },
+    {
+      title: "O Quatro de Ouros em Leituras",
+      content: [
+        "Positivo (Em pé): Sinaliza sucesso em empreendimentos, boa saúde e a fundação de um lar ou base estável. Representa a capacidade de gerir recursos com responsabilidade.",
+        "Negativo (Invertido/Desafiador): O maior perigo é a estagnação e a avareza. Pode indicar uma pessoa excessivamente possessiva ou gananciosa, ou problemas de saúde relacionados ao excesso.",
+        "Conselho: A estabilidade é necessária como base, mas não deve se tornar um fim em si mesma; o 'quadrado' deve eventualmente se abrir para a evolução do grau cinco.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Evolutivo",
+      content: [
+        "Na numerologia do Tarot, o Grau 4 representa o 'quadrado Terra' — a perfeição na matéria. No nível do Quadrado Humano, simboliza o ser adulto e estável, capaz de suprir suas necessidades.",
+        "Sua evolução natural levará ao Cinco de Ouros, onde uma nova consciência ou ideal espiritual penetra a rigidez material para expandir horizontes.",
+      ],
+    },
+  ],
+  "cinco-de-ouros": [
+    {
+      title: "Significados Gerais e Palavras-Chave",
+      content: [
+        "O Cinco de Ouros representa o Grau 5 do centro material, simbolizando a emergência de um novo ideal ou de uma nova consciência dentro da matéria. Enquanto o Quatro de Ouros trazia a segurança absoluta, o Cinco atua como uma ponte, introduzindo uma aspiração que supera o plano puramente físico ou econômico.",
+        "Nova Consciência na Matéria: Indica a introdução de uma dimensão espiritual, planetária ou cósmica na vida material.",
+        "Procura por Alternativas: Pode representar o interesse por métodos de cura além da medicina oficial ou uma mudança de regime alimentar.",
+        "Inovação nos Negócios: Simboliza a criação de uma nova seção em uma empresa ou o investimento em energias 'limpas' e produtos orgânicos.",
+        "Palavras-chave: Novo ideal material, consciência corporal, expansão de horizontes, transição e projeto inovador.",
+      ],
+    },
+    {
+      title: "Simbolismo Visual",
+      content: [
+        "Ramos e Moedas (Marselha): Até o grau cinco, as moedas de ouro são rodeadas por ramos que as isolam nas bordas da carta; a estrutura começa a se preparar para a espiritualização que ocorrerá no grau seis.",
+        "Visão de Rider-Waite: Diferente da visão evolutiva de Jodorowsky, o Tarot de Waite retrata o Cinco de Ouros com imagens de mendigos, simbolizando desordem, caos, ruína e dificuldades financeiras.",
+      ],
+    },
+    {
+      title: "O Cinco de Ouros em Leituras",
+      content: [
+        "Positivo (Em pé): Sinaliza que o consulente está pronto para ir além da simples segurança e buscar um propósito maior em seu trabalho ou saúde. Indica uma vontade de progredir e de não estagnar no 'adquirido'.",
+        "Negativo (Invertido/Desafiador): O maior perigo é a mentira, a traição ou a promessa vazia. Pode indicar revés da sorte, falência, desemprego ou depressão ligada à instabilidade material.",
+      ],
+    },
+    {
+      title: "Contexto Numerológico e Energético",
+      content: [
+        "Na numerologia do Tarot, o Cinco rompe a estabilidade do Quatro para buscar uma dimensão superior, funcionando como um mediador.",
+        "Corresponde simbolicamente ao Arcano O Papa (V) e ao Arcano O Diabo (XV), tentando aplicar esse ideal no plano prático e terreno.",
+      ],
+    },
+  ],
 }
 
 // Adicione aqui o nome (sem extensão) de cada imagem disponível em /public/images/arcanos_menores/
@@ -2013,7 +3487,49 @@ const minorArcanaImages = new Set<string>([
   "pajemdepaus",
   "cavaleirodepaus",
   "rainhadepaus",
-  "reidepaus"
+  "reidepaus",
+  "asdecopas",
+  "doisdecopas",
+  "tresdecopas",
+  "quatrodecopas",
+  "cincodecopas",
+  "seisdecopas",
+  "setedecopas",
+  "oitodecopas",
+  "novedecopas",
+  "dezdecopas",
+  "pajemdecopas",
+  "cavaleirodecopas",
+  "rainhadecopas",
+  "reidecopas",
+  "asdeespadas",
+  "doisdeespadas",
+  "tresdeespadas",
+  "quatrodeespadas",
+  "cincodeespadas",
+  "seisdeespadas",
+  "setedeespadas",
+  "oitodeespadas",
+  "novedeespadas",
+  "dezdeespadas",
+  "pajemdeespadas",
+  "cavaleirodeespadas",
+  "rainhadeespadas",
+  "reideespadas",
+  "asdeouros",
+  "doisdeouros",
+  "tresdeouros",
+  "quatrodeouros",
+  "cincodeouros",
+  "seisdeouros",
+  "setedeouros",
+  "oitodeouros",
+  "novedeouros",
+  "dezdeouros",
+  "pajemdeouros",
+  "cavaleirodeouros",
+  "rainhadeouros",
+  "reideouros",
 ])
 
 function buildMinorArcana(): TarotCard[] {

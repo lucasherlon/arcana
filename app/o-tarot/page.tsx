@@ -24,10 +24,14 @@ export default function OTarotPage() {
           <div className="space-y-12 font-serif text-lg leading-relaxed text-muted-foreground">
             <section>
               <p>
-                O Tarot é definido nas fontes como um sistema complexo de 78 cartas ou lâminas, que funciona tanto como uma {"\"catedral nômade\""} quanto como uma enciclopédia de símbolos. Mais do que um simples jogo, ele é considerado uma linguagem óptica e uma ferramenta visual de desenvolvimento pessoal e espiritual.
+                O Tarot é definido como um sistema complexo de 78 cartas ou lâminas, que funciona tanto como uma {"\"catedral nômade\""} quanto como uma enciclopédia de símbolos. Mais do que um simples jogo, ele é considerado uma linguagem óptica e uma ferramenta visual de desenvolvimento pessoal e espiritual.
+                Surgido na Europa no século XIV, o Tarot evoluiu de um passatempo para um instrumento de introspecção, estudo simbólico e autoconhecimento, sendo utilizado por místicos, filósofos e artistas ao longo dos séculos.
+              </p>
+              <p>
+                Jodorowsky, um dos maiores estudiosos do Tarot e principal fonte deste site, destaca que ele é uma {"\"máquina filosófica\""} e uma gramática de perguntas e respostas que permite a comunicação com o Divino e a exploração da psique. Ele é visto como um espelho da alma, onde cada carta se torna aquilo que o observador vê, permitindo que o inconsciente se manifeste através das imagens.
               </p>
               <p className="mt-4">
-                Abaixo, detalho o que compõe o Tarot e como ele é compreendido segundo as fontes:
+                Abaixo, detalho o que compõe o Tarot e como ele é compreendido em diferentes tradições e abordagens, destacando sua estrutura, simbolismo e as diversas formas de uso.:
               </p>
             </section>
 
@@ -96,6 +100,13 @@ export default function OTarotPage() {
               </p>
               <p className="mt-4">
                 Seus criadores, embora anônimos, teriam depositado nessas cartas um tesouro espiritual para preservar conhecimentos de grandes tradições religiosas (cristianismo, judaísmo e islamismo) através dos tempos.
+              </p>
+            </section>
+
+            <section>
+              <h2 className="font-heading text-2xl text-foreground">5. Marselha ou Raider-White</h2>
+              <p className="mt-4">
+                O Tarot de Marselha e o Rider‑Waite‑Smith distinguem‑se principalmente pela ilustração dos Arcanos Menores, pela numeração de certas cartas e pela nomenclatura de figuras religiosas: o Marselha apresenta desenhos geométricos e repetitivos nos Menores, exigindo uma leitura mais numerológica e analítica, enquanto Waite introduziu cenas ilustradas com figuras humanas para todos os Menores, tornando as leituras mais narrativas e acessíveis; Waite também inverteu a ordem de Força e Justiça para alinhar a tradição cabalística, renomeou a Papisa como Alta Sacerdotisa e o Papa como Hierofante, e consolidou o Arcano XIII como A Morte; além disso, as cortes e suas hierarquias podem variar entre os sistemas e o estilo de interpretação difere — Marselha privilegia sinais sutis e uma leitura óptica detalhista, enquanto o Rider‑Waite favorece clareza simbólica e facilidade para iniciantes.
               </p>
             </section>
           </div>

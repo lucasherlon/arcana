@@ -67,7 +67,7 @@ export default function HomePage() {
               </h2>
               <div className="mt-6 space-y-4 font-serif text-lg leading-relaxed text-muted-foreground">
                 <p>
-                  O tarot é um baralho de 78 cartas repletas de símbolos. Surgido na Europa no século XV
+                  O tarot é um baralho de 78 cartas repletas de símbolos. Surgido na Europa no século XIV
                   como jogo, tornou-se ao longo dos séculos um instrumento de introspecção, estudo
                   simbólico e autoconhecimento.
                 </p>

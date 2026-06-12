@@ -48,7 +48,7 @@ export function SiteFooter() {
       <div className="border-t border-border/60 px-6 py-6">
         <p className="mx-auto max-w-6xl text-center font-serif text-sm text-muted-foreground">
           {"© "}
-          {new Date().getFullYear()} Arcana · Conteúdo educativo sobre tarot. Apenas para fins de estudo e reflexão.
+          {new Date().getFullYear()} Arcana · Criado por Lucas Herlon · Conteúdo educativo sobre tarot. Apenas para fins de estudo e reflexão.
         </p>
       </div>
     </footer>

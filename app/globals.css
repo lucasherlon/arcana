@@ -128,7 +128,14 @@
   }
   html {
     @apply font-sans;
+    /* Slightly larger base font for improved readability */
+    font-size: 18px;
   }
+}
+
+/* Slight increase for text inside cards to improve legibility */
+.bg-card {
+  font-size: 1.0625rem; /* ~19px when base is 18px */
 }
 
 @utility font-heading {

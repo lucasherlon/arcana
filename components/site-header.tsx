@@ -9,6 +9,7 @@ import { cn } from "@/lib/utils"
 const links = [
   { href: "/", label: "Início" },
   { href: "/o-tarot", label: "O Tarot" },
+  { href: "/o-zodiaco", label: "O Zodíaco" },
   { href: "/arcanos", label: "Os Arcanos" },
   { href: "/arcanos/maiores", label: "Arcanos Maiores" },
   { href: "/arcanos/menores", label: "Arcanos Menores" },

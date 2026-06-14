@@ -75,6 +75,7 @@ export default function OZodiacoPage() {
           description="Como o tarot e a astrologia se entrelaçam através dos arcanos, dos planetas e dos quatro elementos."
           image="/images/hero-o-zodiaco.png"
           imageAlt="Roda astrológica antiga com signos do zodíaco e constelações douradas"
+          blurDataURL={'data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80"><rect width="120" height="80" fill="%23c9b39f"/></svg>'}
         />
 
         <article className="mx-auto max-w-3xl px-6 py-16">

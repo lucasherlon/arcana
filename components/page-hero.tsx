@@ -6,24 +6,34 @@ export function PageHero({
   description,
   image,
   imageAlt,
+  blurDataURL,
 }: {
   eyebrow: string
   title: string
   description?: string
   image?: string
   imageAlt?: string
+  blurDataURL?: string
 }) {
   return (
     <section className="relative overflow-hidden border-b border-border/60 bg-card/30">
       {image && (
         <div className="absolute inset-0">
-          <Image
-            src={image || "/placeholder.svg"}
-            alt={imageAlt ?? ""}
-            fill
-            priority
-            className="object-cover opacity-40"
-          />
+          <picture>
+            {/* Prefer AVIF, then WebP, fallback to the provided image via Next/Image */}
+            <source srcSet={image.replace(/\.[^/.]+$/, ".avif")} type="image/avif" />
+            <source srcSet={image.replace(/\.[^/.]+$/, ".webp")} type="image/webp" />
+            <Image
+              src={image || "/placeholder.svg"}
+              alt={imageAlt ?? ""}
+              fill
+              priority
+              sizes="100vw"
+              placeholder={blurDataURL ? "blur" : undefined}
+              blurDataURL={blurDataURL}
+              className="object-cover opacity-40"
+            />
+          </picture>
           <div className="absolute inset-0 bg-gradient-to-t from-background via-background/70 to-background/40" />
         </div>
       )}

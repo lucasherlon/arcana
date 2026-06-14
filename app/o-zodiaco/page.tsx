@@ -39,25 +39,25 @@ const planetCorrespondences = [
 
 const suits = [
   {
-    name: "Paus (Wands)",
+    name: "Paus",
     element: "Fogo",
     signs: "Áries, Leão, Sagitário",
     meaning: "Representa energia, motivação e força interior.",
   },
   {
-    name: "Espadas (Swords)",
+    name: "Espadas",
     element: "Ar",
     signs: "Gêmeos, Libra, Aquário",
     meaning: "Representa o plano mental, pensamentos e consciência superior.",
   },
   {
-    name: "Copas (Cups)",
+    name: "Copas",
     element: "Água",
     signs: "Câncer, Escorpião, Peixes",
     meaning: "Representa o plano emocional, sentimentos e alma.",
   },
   {
-    name: "Ouros (Pentacles)",
+    name: "Ouros",
     element: "Terra",
     signs: "Touro, Virgem, Capricórnio",
     meaning: "Representa o plano material, corpo físico, trabalho e carreira.",
@@ -164,13 +164,6 @@ export default function OZodiacoPage() {
               <h2 className="font-heading text-2xl text-foreground">5. A Roda Astrológica no Tarot</h2>
               <p className="mt-4">
                 Existe um método de lançamento chamado <strong className="text-foreground">Roda Astrológica</strong>, que utiliza as 12 casas do zodíaco como posições fixas para as cartas. Cada {"\"casa\""} da roda representa uma área da vida (como a Casa 1 para o eu/presente, a Casa 2 para finanças, a Casa 10 para destino/carreira), permitindo uma análise holística do consulente baseada na estrutura do mapa natal.
-              </p>
-            </section>
-
-            <section>
-              <h2 className="font-heading text-2xl text-foreground">A Visão de Jodorowsky</h2>
-              <p className="mt-4">
-                Embora Alejandro Jodorowsky reconheça que o Tarot foi assimilado por estruturas como a astrologia ao longo dos séculos, ele defende que o Tarot possui uma organização numerológica própria e original. No entanto, ele utiliza os {"\"quatro trios do Zodíaco\""} como uma fórmula válida para organizar os quatro temperamentos humanos dentro de sua mandala do Tarot.
               </p>
             </section>
           </div>

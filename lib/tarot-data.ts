@@ -571,8 +571,7 @@ export const majorArcana: TarotCard[] = [
           "A Lanterna: Simboliza a luz velada da sabedoria ou o \"Selo de Salomão\", representando um conhecimento que deve ser digerido internamente. Ela ilumina o passado para que se possa aprender com ele.",
           "O Bastão: Representa o apoio na caminhada, um \"eixo do mundo\" ou uma arma mágica contra a injustiça e o erro. Nas versões de Marseille, o bastão vermelho conduzido por uma mão azul sugere uma ação instintiva guiada por uma recepção espiritual.",
           "O Manto e as Camadas de Roupa: Sugerem o frio da solidão do iniciado, mas também as \"camadas\" da experiência vivida e a proteção da vida interior. A cor azul-escuro externa simboliza humildade, enquanto o interior cor de carne ou verde remete à experiência orgânica e eterna.",
-          "Caminhada de Costas: O Eremita é frequentemente descrito como alguém que avança andando de costas, contemplando o caminho já percorrido para criar a realidade do presente passo a passo.",
-          "As Rugas na Testa: Indicam atividade mental intensa e o peso da memória e do conhecimento acumulado."
+          "Caminhada de Costas: O Eremita é frequentemente descrito como alguém que avança andando de costas, contemplando o caminho já percorrido para criar a realidade do presente passo a passo."
         ]
       },
       {
@@ -586,7 +585,7 @@ export const majorArcana: TarotCard[] = [
         title: "A Jornada Espiritual",
         content: [
           "Na estrutura do Tarot, o Eremita é o grau 9, o número das gestações (como os 9 meses de gravidez) e do coroamento dos esforços.",
-          "Ele aparece após a perfeição da Justiça (VIII); ele ensina que a perfeição estática pode ser opressiva e que o ser deve entrar em crise para evoluir para um novo ciclo, representado pela Roda da Fortuna (X). Na \"Jornada do Herói\", ele representa o momento em que o buscador reconhece tanto sua luz quanto sua sombra, tornando-se um modelo e guia para os outros a partir de sua própria pureza e integridade. Astrologicamente, as fontes o associam frequentemente ao signo de Virgem."
+          "Ele aparece após a perfeição da Justiça (VIII); ele ensina que a perfeição estática pode ser opressiva e que o ser deve entrar em crise para evoluir para um novo ciclo, representado pela Roda da Fortuna (X). Na \"Jornada do Herói\", ele representa o momento em que o buscador reconhece tanto sua luz quanto sua sombra, tornando-se um modelo e guia para os outros a partir de sua própria pureza e integridade. Astrologicamente, a tradição o associa frequentemente ao signo de Virgem."
         ]
       }
     ]

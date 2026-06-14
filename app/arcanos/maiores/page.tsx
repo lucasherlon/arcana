@@ -8,7 +8,7 @@ import { majorArcana } from "@/lib/tarot-data"
 export const metadata: Metadata = {
   title: "Arcanos Maiores · A Jornada do Louco · Arcana",
   description:
-    "Os 22 arcanos maiores do tarot, de 0 a 21, narram a jornada da alma. Conheça cada carta.",
+    "Os 22 arcanos maiores do tarot, de 0 a 21, narram a jornada da alma.",
 }
 
 export default function ArcanosMaioresPage() {
@@ -19,7 +19,7 @@ export default function ArcanosMaioresPage() {
         <PageHero
           eyebrow="22 CARTAS"
           title="Arcanos Maiores"
-          description="A Jornada do Louco — do número 0 ao 21, cada carta marca uma grande lição da alma."
+          description="A Jornada do Louco — do número 0 ao 21, cada carta marca uma grande lição da alma. Clique nos cards para detalhes, significados e interpretações. "
         />
         <div className="mx-auto max-w-6xl px-6 py-12">
           <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">

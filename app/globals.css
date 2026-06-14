@@ -129,7 +129,7 @@
   html {
     @apply font-sans;
     /* Slightly larger base font for improved readability */
-    font-size: 18px;
+    font-size: 17px;
   }
 }
 

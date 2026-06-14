@@ -19,7 +19,7 @@ export default function ArcanosMenoresPage() {
         <PageHero
           eyebrow="56 CARTAS"
           title="Arcanos Menores"
-          description="Quatro naipes que refletem as experiências do cotidiano: emoções, ações, pensamentos e o mundo material."
+          description="Quatro naipes que refletem as experiências do cotidiano: emoções, ações, pensamentos e o mundo material. Clique nos cards para detalhes, significados e interpretações. "
         />
         <div className="mx-auto max-w-6xl px-6 py-12">
           {(Object.keys(suitInfo) as MinorSuit[]).map((suit) => {

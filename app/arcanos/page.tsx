@@ -17,7 +17,7 @@ export default function ArcanosPage() {
         <PageHero
           eyebrow="O BARALHO COMPLETO"
           title="Os 78 Arcanos"
-          description="Explore cada uma das cartas do tarot. Busque por nome ou tema e filtre por categoria."
+          description="Explore cada uma das cartas do tarot. Busque por nome ou tema e filtre por categoria. Clique nos cards para detalhes, significados e interpretações."
         />
         <ArcanaExplorer />
       </main>

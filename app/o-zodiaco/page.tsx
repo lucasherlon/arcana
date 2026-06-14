@@ -73,6 +73,8 @@ export default function OZodiacoPage() {
           eyebrow="TAROT E ASTROLOGIA"
           title="O Zodíaco"
           description="Como o tarot e a astrologia se entrelaçam através dos arcanos, dos planetas e dos quatro elementos."
+          image="/images/hero-o-zodiaco.png"
+          imageAlt="Roda astrológica antiga com signos do zodíaco e constelações douradas"
         />
 
         <article className="mx-auto max-w-3xl px-6 py-16">

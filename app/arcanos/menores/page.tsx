@@ -20,6 +20,8 @@ export default function ArcanosMenoresPage() {
           eyebrow="56 CARTAS"
           title="Arcanos Menores"
           description="Quatro naipes que refletem as experiências do cotidiano: emoções, ações, pensamentos e o mundo material. Clique nos cards para detalhes, significados e interpretações. "
+          image="/images/hero-menores.png"
+          imageAlt="Cartas dos arcanos menores do tarot com os quatro naipes à luz de velas"
         />
         <div className="mx-auto max-w-6xl px-6 py-12">
           {(Object.keys(suitInfo) as MinorSuit[]).map((suit) => {

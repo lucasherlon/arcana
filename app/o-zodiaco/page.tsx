@@ -10,13 +10,13 @@ export const metadata: Metadata = {
 }
 
 const signCorrespondences = [
-  { sign: "Áries", note: "Carneiro", arcana: "O Imperador (IV)" },
+  { sign: "Áries", note: "", arcana: "O Imperador (IV)" },
   { sign: "Touro", note: "", arcana: "O Hierofante (V)" },
   { sign: "Gêmeos", note: "", arcana: "Os Enamorados (VI)" },
-  { sign: "Câncer", note: "Caranguejo", arcana: "O Carro (VII)" },
+  { sign: "Câncer", note: "", arcana: "O Carro (VII)" },
   { sign: "Leão", note: "", arcana: "A Força (VIII ou XI)" },
   { sign: "Virgem", note: "", arcana: "O Eremita (VIIII)" },
-  { sign: "Libra", note: "Balança", arcana: "A Justiça (VIII ou XI)" },
+  { sign: "Libra", note: "", arcana: "A Justiça (VIII ou XI)" },
   { sign: "Escorpião", note: "", arcana: "A Morte (XIII)" },
   { sign: "Sagitário", note: "", arcana: "A Temperança (XIIII)" },
   { sign: "Capricórnio", note: "", arcana: "O Diabo (XV)" },

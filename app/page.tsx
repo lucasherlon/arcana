@@ -33,7 +33,7 @@ export default function HomePage() {
               O UNIVERSO SIMBÓLICO DO TAROT
             </span>
             <h1 className="mt-6 text-balance font-heading text-4xl leading-tight text-foreground md:text-6xl">
-              A jornada da alma contada em 78 arcanos
+              A jornada do Louco contada em 78 arcanos
             </h1>
             <p className="mt-6 max-w-2xl text-pretty font-serif text-xl leading-relaxed text-muted-foreground">
               Explore as origens, os símbolos e os significados do tarot. Um guia contemplativo para

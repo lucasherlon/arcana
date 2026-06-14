@@ -18,6 +18,8 @@ export default function ArcanosPage() {
           eyebrow="O BARALHO COMPLETO"
           title="Os 78 Arcanos"
           description="Explore cada uma das cartas do tarot. Busque por nome ou tema e filtre por categoria. Clique nos cards para detalhes, significados e interpretações."
+          image="/images/hero-arcanos.png"
+          imageAlt="Baralho completo de tarot espalhado sobre veludo à luz de velas"
         />
         <ArcanaExplorer />
       </main>

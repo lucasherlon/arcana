@@ -18,6 +18,8 @@ export default function OTarotPage() {
           eyebrow="A ARTE DO TAROT"
           title="O que é o tarot?"
           description="Uma introdução às origens, à estrutura e ao simbolismo das 78 cartas."
+          image="/images/hero-o-tarot.png"
+          imageAlt="Cartas de tarot antigas dispostas sobre veludo à luz de velas"
         />
 
         <article className="mx-auto max-w-3xl px-6 py-16">

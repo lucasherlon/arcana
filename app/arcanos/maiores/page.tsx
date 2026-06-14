@@ -20,6 +20,8 @@ export default function ArcanosMaioresPage() {
           eyebrow="22 CARTAS"
           title="Arcanos Maiores"
           description="A Jornada do Louco — do número 0 ao 21, cada carta marca uma grande lição da alma. Clique nos cards para detalhes, significados e interpretações. "
+          image="/images/hero-maiores.png"
+          imageAlt="Cartas dos arcanos maiores do tarot dispostas à luz de velas"
         />
         <div className="mx-auto max-w-6xl px-6 py-12">
           <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">

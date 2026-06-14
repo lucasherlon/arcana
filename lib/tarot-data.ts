@@ -78,11 +78,14 @@ export const majorArcana: TarotCard[] = [
       {
         title: "Simbolismo Visual",
         content: [
-          "A Caminhada: O Louco é o eterno viajante. Ele caminha decididamente com sapatos vermelhos (energia vital) e finca um bastão vermelho na terra para avançar.",
+          "O Precipício: O Louco está prestes a caminhar para além da borda de um penhasco. Isso simboliza o salto no desconhecido, a imprevisibilidade da vida e a disposição de correr riscos sem o peso do medo ou do passado.",
+          "O Olhar para o Alto: Ele não olha para onde pisa, mas sim para o céu. Isso reflete o seu idealismo, a conexão com o divino e uma mente voltada para aspirações espirituais. Por outro lado, também avisa sobre a falta de aterramento e o perigo de ignorar a realidade material.",
+          "A Túnica Colorida: Coberta de flores e padrões geométricos, representa a juventude, a criatividade e a espontaneidade. É a personificação do caos alegre antes da ordem ser estabelecida.",
           "A Trouxa: Representa o substrato útil da experiência e a luz da consciência, carregando apenas o essencial.",
           "O Animal (Cão): Interpreta-se como o passado que empurra o indivíduo para frente ou como o instinto domado (o ego) que agora colabora com o ser essencial. Também é visto como um símbolo de proteção e fidelidade durante a jornada.",
           "A Rosa Branca: Presente em algumas versões (como o Tarot de Waite), simboliza a inocência, pureza e a inexperiência juvenil.",
-          "O Precipício: Sugere que ele está prestes a entrar no desconhecido, muitas vezes sem consciência dos perigos ou obstáculos materiais, focado apenas no céu (espiritualidade)."
+          "As Montanhas de Gelo: Ao fundo, picos gelados e afiados representam os desafios intelectuais, as provações e a sabedoria fria que o aguardam no futuro. Elas lembram que a jornada espiritual exige esforço e superação."
+          
         ]
       },
       {
@@ -241,11 +244,12 @@ export const majorArcana: TarotCard[] = [
       {
         title: "Simbolismo Visual",
         content: [
-          "O Cetro e a Folhinha Verde: Ela segura um cetro apoiado na região do sexo, indicando que seu poder criativo nasce de sua natureza instintiva; a folha verde que brota dele simboliza a primavera perpétua da vida.",
-          "O Escudo com a Águia: Em algumas versões, ela segura um escudo com uma águia macho ainda em formação, sugerindo que, no coração da maior feminilidade, existe um núcleo masculino ativo (Yang dentro do Yin).",
-          "A Coroa de Estrelas: Suas doze estrelas brancas representam os signos do zodíaco e a conexão da inteligência humana com o plano cósmico e a pureza espiritual.",
+          "O Cetro de Globo: Na mão direita, ela ergue um cetro encimado por uma esfera, que representa a Terra ou o mundo material. Ela governa sobre a criação física com graça e autoridade natural, não pela força.",
+          "A Coroa de Doze Estrelas: Na cabeça, ela usa uma coroa com 12 estrelas. Elas representam os doze signos do zodíaco e os doze meses do ano. Isso simboliza que, embora ela reine na Terra, seu poder tem origem e conexão direta com os ciclos cósmicos e o tempo astrológico.",
           "Trigo, Frutos e Rio: Cercada por trigo e vestida com estampas de romãs ou frutos, ela simboliza a colheita pronta e a riqueza material; o rio que flui ao fundo indica que sua energia está em constante movimento.",
-          "Serpente Branca e Pomo de Adão: Jodorowsky destaca uma serpente aos seus pés (libido dominada) e um pomo de Adão em seu pescoço, reforçando seu papel como uma entidade andrógina criativa."
+          "O Vestido de Romãs: O padrão em sua túnica fluida é composto por romãs. Historicamente, a romã é um símbolo ancestral de fertilidade, sexualidade e do útero materno (uma alusão também à deusa Perséfone/Deméter). O corte folgado do vestido também costuma sugerir uma gravidez em curso.",
+          "As Almofadas de Veludo Vermelho: Ela senta-se confortavelmente em um trono cercado por ricas almofadas vermelhas. Isso reflete o apreço pelo conforto, o prazer dos sentidos, a hospitalidade e o aspecto acolhedor do amor materno.",
+          "O Escudo em Forma de Coração: Apoiado ao lado do trono, há um escudo cinza com o formato de um coração gravado com o símbolo astrológico de Vênus ($\ venus$). Vênus é o planeta do amor, da beleza, da harmonia, da criatividade e da atração. O escudo indica que o amor e a beleza são as suas maiores forças de proteção."
         ]
       },
       {
@@ -297,9 +301,9 @@ export const majorArcana: TarotCard[] = [
         content: [
           "O Trono e as Cabeças de Carneiro: Sentado em um trono rígido e cinza (cor do concreto), ele demonstra solidez e frieza estratégica. As cabeças de carneiro (signo de Áries) simbolizam a força vital do grande iniciador e o poder soberano.",
           "O Cetro e o Globo: Ele segura um cetro (frequentemente a cruz Ankh) que representa o poder sobre a vida e as leis cósmicas, enquanto o globo em sua mão simboliza seu domínio total sobre o território manifestado.",
-          "A Águia e o Ovo: Jodorowsky destaca um detalhe fundamental: a águia do seu escudo é fêmea e incuba um ovo, sugerindo que, no coração do poder material, existe um núcleo de sabedoria e gestação espiritual.",
-          "Postura das Pernas: Suas pernas cruzadas desenham um quadrado, reforçando visualmente sua ancoragem na matéria e sua estabilidade terrestre.",
-          "Cores Vermelho e Azul: Suas vestes vermelhas simbolizam vitalidade, fogo e ação vitoriosa. No entanto, sua armadura, barba e cabelos azul-celeste indicam que sua autoridade é equilibrada por uma profunda espiritualidade e receptividade emocional."
+          "A Armadura sob o Manto: Por baixo de sua túnica real vermelha, o Imperador veste uma armadura de ferro completa. Isso indica que ele está sempre pronto para a batalha e para defender o que construiu. Mostra uma postura defensiva, controle emocional e a necessidade de se proteger contra vulnerabilidades externas. O vermelho de suas vestes reforça a paixão pelo poder, o comando e a energia marciana.",
+          "As Montanhas Rochosas: Ao fundo, as montanhas são áridas, afiadas e desprovidas de vegetação (um contraste brutal com as florestas da Imperatriz). Elas simbolizam a ambição, as duras realidades do governo, a imutabilidade e os desafios estruturais.",
+          "A Barba Branca e a Coroa: Sua longa barba branca simboliza a sabedoria acumulada pelo tempo, a experiência de vida e a ancestralidade. A coroa de ouro cravejada de joias sinaliza que sua autoridade é legítima e reconhecida."
         ]
       },
       {
@@ -354,7 +358,7 @@ export const majorArcana: TarotCard[] = [
           "As Duas Chaves: Situadas aos seus pés, representam o poder de \"ligar e desligar\" (abrir ou fechar) o acesso ao conhecimento e ao reino dos céus.",
           "Gesto de Bênção: Com a mão direita, ele abençoa e sinaliza que o conhecimento deve ser compartilhado com os discípulos.",
           "Os Dois Discípulos: Representam a via do estudo e do esforço (via seca) e a via da iluminação e revelação direta (via úmida).",
-          "Luva Azul e Broche: Jodorowsky destaca uma luva azul (receptividade espiritual na ação) e um broche no pescoço que simboliza o ser essencial iluminado dentro do indivíduo."
+          "O Manto Vermelho: Simboliza a paixão pelo conhecimento e a energia vital que o sustenta, enquanto o branco da túnica representa a pureza de intenção e a conexão com o divino."
         ]
       },
       {
@@ -459,12 +463,12 @@ export const majorArcana: TarotCard[] = [
       {
         title: "Simbolismo Visual",
         content: [
-          "O Veículo (Quadrado): Um carro cor de carne fincado na terra, sugerindo que ele não desliza, mas segue o movimento de rotação do próprio planeta. Seu formato quadrado representa a estabilidade na matéria.",
-          "O Príncipe e a Geometria: O condutor forma um triângulo (espírito) dentro do quadrado do veículo (matéria), simbolizando a materialização do espírito ou o espírito atuando sobre o mundo físico.",
-          "Os Cavalos (ou Esfinges): Geralmente representados nas cores azul-celeste (animalidade espiritualizada). Um cavalo é feminino (olho fechado e cílios longos) e o outro masculino, simbolizando a união dos opostos que trabalham juntos para um objetivo comum. Eles trazem o símbolo do ouro alquímico no peito.",
+          "O Veículo Cúbico: O carro em si é um bloco de pedra cinza maciça, de formato cúbico. Isso reforça que, embora esteja em movimento, o guerreiro carrega consigo a estabilidade da matéria e a firmeza de propósito. Ele está blindado contra as distrações externas.",
+          "As Esfinges: Em vez de cavalos, o veículo é puxado por duas esfinges míticas, uma preta e a outra branca. Elas personificam forças opostas e complementares: luz e sombra, razão e emoção, o consciente e o inconsciente, ou os impulsos positivos e negativos.",
           "O Dossel e as Estrelas: Coberto por um manto com doze estrelas, indicando que o condutor trabalha em harmonia com as forças cósmicas e o zodíaco.",
           "As Máscaras nos Ombros: Representam o passado e o futuro, ou as polaridades positiva e negativa, que o príncipe equilibra ao agir no presente.",
-          "A Gota Verde: Um detalhe central que simboliza o germe da imortalidade e a consciência impessoal dentro da matéria perecível."
+          "O Disco Alado: Na frente do carro, há uma esfera com asas, um antigo símbolo egípcio (associado a Hórus/Rá) que representa a alma elevada, a inspiração espiritual e o triunfo do espírito sobre a matéria.",
+          "O Lingam-Yoni: Logo abaixo do disco, há um símbolo vermelho que se assemelha a uma ferramenta ou dobradiça, mas que na tradição esotérica representa o Lingam e a Yoni (a união sagrada das energias masculina e feminina). Isso enfatiza a perfeita união de polaridades necessária para gerar movimento."
         ]
       },
       {
@@ -568,10 +572,13 @@ export const majorArcana: TarotCard[] = [
       {
         title: "Simbolismo Visual",
         content: [
-          "A Lanterna: Simboliza a luz velada da sabedoria ou o \"Selo de Salomão\", representando um conhecimento que deve ser digerido internamente. Ela ilumina o passado para que se possa aprender com ele.",
-          "O Bastão: Representa o apoio na caminhada, um \"eixo do mundo\" ou uma arma mágica contra a injustiça e o erro. Nas versões de Marseille, o bastão vermelho conduzido por uma mão azul sugere uma ação instintiva guiada por uma recepção espiritual.",
-          "O Manto e as Camadas de Roupa: Sugerem o frio da solidão do iniciado, mas também as \"camadas\" da experiência vivida e a proteção da vida interior. A cor azul-escuro externa simboliza humildade, enquanto o interior cor de carne ou verde remete à experiência orgânica e eterna.",
-          "Caminhada de Costas: O Eremita é frequentemente descrito como alguém que avança andando de costas, contemplando o caminho já percorrido para criar a realidade do presente passo a passo."
+          "A Lanterna Erguida: O Eremita segura a lanterna bem alto na mão direita, o lado associado à ação consciente e à razão. Ele não usa a luz para ver o horizonte distante, mas para iluminar o próximo passo com prudência.",
+          "A Estrela de Seis Pontas: Dentro da lanterna, a fonte de luz é uma estrela dourada de seis pontas. Esse é um símbolo alquímico e místico profundo, formado pelo entrelaçamento do triângulo da água (voltado para baixo) e o triângulo do fogo (voltado para cima). Representa o equilíbrio perfeito entre o macrocosmo e o microcosmo, o divino e o humano. A mensagem aqui é clara: a única luz capaz de guiar a alma na escuridão vem de dentro, do conhecimento das leis universais.",
+          "O Cajado: Na mão esquerda (associada à intuição e ao subconsciente), ele segura um longo cajado de madeira. Este cajado é o símbolo de sua autoridade espiritual, estabilidade e autoconfiança. Diferente do cetro real do Imperador, o cajado do Eremita serve de apoio e proteção na caminhada árdua. Representa também a coluna vertebral e o canal por onde a energia espiritual ascende.",
+          "O Manto com Capuz: Ele veste uma capa cinza que cobre todo o seu corpo, funcionando como um casulo protetor. O cinza é a cor da neutralidade, do desapego do mundo material, da discrição e da modéstia. O manto simboliza a invisibilidade do sábio diante das distrações profanas.",
+          "A Postura Curvada e o Olhar para Baixo: O homem idoso, de longa barba branca (símbolo de maturidade e do tempo cronológico), olha para baixo. Sua cabeça inclinada reflete o estado de profunda meditação e respeito pelo solo que pisa. Ele caminha devagar, medindo cada escolha.",
+          "Caminhada de Costas: O Eremita é frequentemente descrito como alguém que avança andando de costas, contemplando o caminho já percorrido para criar a realidade do presente passo a passo.",
+          "O Topo da Montanha Nevada: O Eremita está de pé, sozinho, no cume de uma montanha coberta de neve. As montanhas nevadas representam o isolamento necessário para alcançar os níveis mais altos de consciência. A neve simboliza a pureza do pensamento desprovido de paixões mundanas. Estar no topo significa que ele já completou grande parte de sua jornada intelectual e espiritual e agora está pronto para compartilhar sua luz com aqueles que ainda estão no vale abaixo, funcionando como um farol para outros buscadores."
         ]
       },
       {
@@ -620,11 +627,10 @@ export const majorArcana: TarotCard[] = [
       {
         title: "Simbolismo Visual",
         content: [
-          "A Roda: No Tarot de Marselha, a roda é dupla (círculos vermelho e amarelo), representando a dualidade entre a natureza animal e a espiritual do ser humano. No centro exato da carta está o eixo de rotação, símbolo do mistério divino e do ponto imutável no meio do caos.",
-          "A Esfinge: Situada no topo da roda, segura uma espada e representa a sabedoria, a força e o equilíbrio em meio ao movimento. Ela é frequentemente vista como um enigma emocional que precisa ser resolvido para o ciclo avançar.",
-          "Os Animais: Um animal sobe (intelecto/aspiração) e outro desce (matéria/encarnação), simbolizando a lei da alternância e do renascimento.",
-          "A Manivela: Indica a necessidade de uma ajuda externa ou providência divina para fazer a roda girar; numerologicamente, é a energia d'A Força (XI) que aciona esse movimento.",
-          "Os Quatro Seres: Em versões como a de Waite, os quatro seres nos cantos estão associados aos signos fixos do zodíaco: Aquário (Anjo), Escorpião (Águia), Touro (Touro) e Leão (Leão)."
+          "As Letras na Roda (Os Quatro Mistérios): No círculo externo da grande roda alaranjada encontramos dois conjuntos de caracteres. As Letras Latinas (T - A - R - O): lidas no sentido horário a partir do topo formam TARO; dependendo do ponto de partida geram o anagrama místico TARO / ROTA / ORAT / TORA, e aludem também a Ator (Hathor). O ocultista Paul Foster Case sintetizou essa sequência na frase 'Rota Taro Orat Tora Ator' — a Roda do Tarot proclama a Lei de Hathor. Intercaladas com as latinas estão as Letras Hebraicas (יהוה), o Tetragrammaton (Yod‑He‑Vav‑He), indicando a assinatura divina por trás dos movimentos do destino.",
+          "Os Símbolos Alquímicos Centrais: Nos raios internos da roda aparecem quatro símbolos alquímicos que regem o plano material e a estabilidade da vida: no topo, Mercúrio (a mente, a fluidez); à direita, Enxofre (paixão, energia ativa); à esquerda, Sal (inércia, cristalização material); na base, um símbolo de dissolução/água (fluxo e transformação). Esses signos indicam as forças que estruturam a matéria e tornam a roda operacional.",
+          "As Três Criaturas (Ciclos da Matéria): Três figuras mitológicas interagem com a roda e representam fases da evolução: a Esfinge Azul (no topo) sentada com uma espada, símbolo do equilíbrio e da mente racional superior; Anúbis/Hermanúbis (à direita), a criatura que sobe, representando ascensão, crescimento e inteligência em expansão; e Tifão/A Serpente (à esquerda), que desce simbolizando involução, decadência material e as forças destrutivas que precipitam a mudança.",
+          "Os Quatro Querubins (Os Quatro Evangelistas): Nos quatro cantos da carta flutuam figuras aladas — o Anjo/Homem (superior esquerdo, Aquário / Ar / Evangelista Mateus), a Águia (superior direito, Escorpião em sua oitava superior / Água / Evangelista João), o Touro (inferior esquerdo, Touro / Terra / Evangelista Lucas) e o Leão (inferior direito, Leão / Fogo / Evangelista Marcos). Todos seguram livros abertos, lendo a Lei Cósmica: apesar da aparência caótica das mudanças, existe uma ordem universal inscrita que pode ser percebida pelo espírito."
         ]
       },
       {
@@ -782,11 +788,16 @@ export const majorArcana: TarotCard[] = [
       {
         title: "Simbolismo Visual",
         content: [
-          "O Esqueleto Cor de Carne: Diferente de um esqueleto branco de ossos secos, ele é representado na cor da carne viva (em versões como Marselha), indicando que se trata de uma força viva e ativa de transformação em movimento.",
-          "O Alfanje (Foice): Possui cabo amarelo (inteligência) e lâmina vermelha e azul-celeste, simbolizando uma semeadura espiritual e uma ação vital que corta o que é subjetivo ou inútil.",
-          "O Solo Negro: Representa o nigredo da alquimia ou o inconsciente profundo; dele brotam cabeças (conceitos dos pais), pés e mãos, indicando que o novo ser já está aflorando à superfície.",
-          "A Rosa Branca (em versões como Waite): Simboliza a imortalidade, pureza e purificação, reforçando que a morte é apenas o prelúdio de um novo nascimento.",
-          "O Cavalo Branco (Waite): Filho da noite e do mistério, representa a passagem do espírito através da morte para a ressurreição."
+          "O Esqueleto: A Morte é representada por um esqueleto vivo montado em um cavalo. O esqueleto é o que resta quando tudo o que é supérfluo (a carne, o ego, as aparências) é desintegrado. Ele simboliza a fundação indestrutível da vida e a verdade nua e crua.",
+          "A Armadura Negra: Diferente do guerreiro do Carro ou do Imperador, sua armadura é preta e opaca. O preto aqui simboliza a ausência de luz que precede a criação, o mistério do invisível e a natureza implacável dessa transição. A armadura mostra que essa força é blindada contra qualquer apelo ou suborno humano.",
+          "O Cavalo Branco: O cavalo não é assustador; é um animal imponente e puramente branco. O branco é a cor da pureza e da iluminação. Isso indica que a Morte atua como uma força purificadora, removendo o que está estagnado para restaurar a inocência original da alma (lembrando o cão branco do Louco e a rosa da Imperatriz).",
+          "A Rosa Branca de 5 Pétalas: Na mão esquerda, o cavaleiro carrega uma bandeira preta ostentando uma rosa branca heráldica (associada à rosa dos York e à tradição Rosacruz). Suas cinco pétalas simbolizam os cinco sentidos e a imortalidade da alma através da mudança. Ela é o símbolo vivo da vida que brota da própria destruição.",
+          "O Rei Morto: Caído no chão, com sua coroa de ouro jogada na lama. Isso demonstra que o poder temporal, a riqueza e o status são inúteis diante da transformação. Ninguém, por mais poderoso que seja, pode impedir o avanço do tempo.",
+          "O Sacerdote: Vestido com trajes dourados, ele permanece de pé, de mãos postas, enfrentando o cavaleiro diretamente. Ele representa a fé, a religião estruturada e o conhecimento espiritual. Ele aceita o destino com reverência e submissão consciente, sabendo que a morte faz parte do plano divino.",
+          "A Jovem Mulher: Ela vira o rosto e se ajoelha na lama, em um misto de tristeza e negação. Representa a beleza, a juventude e o desejo humano de se apegar ao que é passageiro, sofrendo pela resistência em aceitar o fim das coisas.",
+          "A Criança: Pequena e inocente, ela se ajoelha de frente para o cavaleiro, entregando-lhe flores. A criança não tem preconceitos, medo do futuro ou apego ao passado. Ela encara a Morte com curiosidade e aceitação pura, simbolizando a mente livre que compreende intuitivamente que o fim é apenas o começo de uma nova brincadeira.",
+          "O Barco no Rio: À esquerda, no rio que corre ao fundo (o rio da vida e da memória), há um pequeno barco navegando. Isso alude ao mito de Caronte e à travessia das almas, reforçando que a vida continua fluindo e se movimentando mesmo durante as transições mais sombrias.",
+          "As Duas Torres e o Sol Nascente: No canto superior direito, o sol amarelo brilhante está nascendo (ou se pondo) entre duas grandes torres de pedra (as mesmas torres que reaparecerão mais tarde na carta da Lua e da Morte). Esse sol representa a imortalidade, a iluminação espiritual e a promessa do amanhecer. Ele deixa claro que, além do portal escuro das torres da transformação, a luz da nova vida já está garantida."
         ]
       },
       {
@@ -836,11 +847,12 @@ export const majorArcana: TarotCard[] = [
       {
         title: "Simbolismo Visual",
         content: [
-          "O Anjo e as Asas: Representa um ser intermediário (frequentemente identificado como o Arcanjo Miguel) cujas asas azul-celeste indicam espiritualidade e capacidade de voar para regiões sutis, embora permaneça enraizado na terra.",
-          "As Duas Urnas (Vasos): O anjo verte um líquido de um vaso para outro sem perder nenhuma gota, simbolizando a eterna circulação da vida, a comunicação interior e a união de elementos diferentes para criar algo novo.",
-          "Os Pés e o Solo: Nas fontes, um pé pode estar sobre a rocha (estabilidade) e outro na água (fluxo). Jodorowsky destaca o sapato roxo, que simboliza a união mística entre a ação (vermelho) e a recepção (azul).",
-          "As Serpentes aos Pés: Representam a libido e as energias telúricas que foram dominadas e sublimadas em direção às asas e ao espírito.",
-          "O Símbolo no Peito: Quatro triângulos amarelos representam os centros intelectual, emocional, sexual e corporal, harmonizados por um círculo central que é a quintessência ou ser essencial."
+          "O Anjo Andrógino: A figura central é um anjo, tradicionalmente associado ao Arcanjo Miguel ou a um guia solar. Ele possui feições andróginas (nem puramente masculinas, nem femininas), o que simboliza a união perfeita de todas as polaridades (razão e intuição, ação e receptividade).",
+          "As Grandes Asas Vermelhas: As asas vermelhas representam o fogo espiritual, a paixão divina elevada e a imensa força vital que sustenta o processo de cura.",
+          "O Fluxo Impossível: O anjo segura duas taças douradas e transfere água de uma para a outra. O detalhe mágico é que o líquido flui em um ângulo quase diagonal, desafiando a gravidade. Isso simboliza a alquimia mística, o ato de combinar elementos opostos para criar uma substância nova e equilibrada (o caminho do meio). Representa também o fluxo constante do subconsciente sendo refinado pela consciência.",
+          "Um Pé na Água, Um Pé na Terra: O anjo mantém o pé esquerdo imerso na água azul e o pé direito apoiado na terra firme. A água representa as emoções, a intuição e o inconsciente, já a terra representa a matéria, a realidade física e o consciente. Essa postura única mostra que o ser iluminado sabe navegar no mundo dos sentimentos sem se afogar, mantendo-se devidamente aterrado na realidade prática. É a perfeita definição de inteligência emocional.",
+          "O Símbolo nas Vestes: No peito de sua túnica branca, há um triângulo laranja inscrito dentro de um quadrado branco. O quadrado representa a Terra, as leis materiais e a estrutura do mundo físico. O triângulo representa o divino, o espírito e a trindade sagrada. Esse símbolo indica que o espírito divino (triângulo) está encarnado e operando de forma equilibrada dentro das limitações da matéria (quadrado).",
+          "O Sol Metamórfico: No final do caminho, acima das montanhas, brilha um sol nascente em forma de coroa dourada. Essa coroa simboliza o objetivo final da jornada alquímica: a iluminação espiritual, a conquista da Grande Obra e o despertar da consciência superior."
         ]
       },
       {
@@ -894,8 +906,8 @@ export const majorArcana: TarotCard[] = [
           "A Figura Andrógina: O personagem principal mistura traços humanos e animais (como asas de morcego e chifres), representando as potências primitivas e a libido universal que reside no sistema nervoso humano.",
           "A Tocha: Segura na mão esquerda, indica o desejo de levar a luz da consciência para as trevas da matéria ou do inconsciente.",
           "Os Personagens Acorrentados: Um homem e uma mulher (ou dois diabretes) estão presos a um pedestal, o que simboliza a escravidão ao instinto ou uma co-dependência onde as mãos estão escondidas nas costas, indicando falta de ação livre.",
-          "Rostos no Corpo: Olhos ou rostos situados nos joelhos e no ventre sugerem que o Diabo vê em todos os níveis e que seus desejos são manifestados sem hipocrisia.",
-          "O Pedestal e o Solo Negro: O solo representa o nigredo da alquimia ou o magma criativo das profundezas onde toda a vida germina antes de emergir para a luz.",
+          "O Segredo das Correntes: Este é o detalhe mais importante da carta: as correntes em volta dos pescoços deles são visivelmente largas e folgadas. Eles poderiam facilmente passar as mãos pela cabeça e se libertar a qualquer momento. No entanto, eles permanecem ali, estáticos. Isso simboliza que o aprisionamento é voluntário e psicológico. O Diabo não os segura pela força; eles estão presos pelo próprio conforto, medo ou negação.",
+          "O Bloco Retangular: O Diabo senta-se em um meio-cubo preto de pedra. Enquanto o carro cúbico e o trono do Imperador representavam a estabilidade estrutural saudável, este bloco estreito representa uma fundação incompleta, cega e sufocante. O fundo inteiramente preto reforça o estado de ignorância espiritual e a falta de visão além da matéria.",
           "O Pentagrama Invertido: Às vezes presente na testa, simboliza a inteligência voltada para a matéria ou para forças destrutivas quando mal canalizada."
         ]
       },

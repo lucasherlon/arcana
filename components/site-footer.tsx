@@ -25,6 +25,11 @@ export function SiteFooter() {
               </Link>
             </li>
             <li>
+              <Link href="/o-zodiaco" className="transition-colors hover:text-primary">
+                O Zodíaco
+              </Link>
+            </li>
+            <li>
               <Link href="/arcanos" className="transition-colors hover:text-primary">
                 Todos os Arcanos
               </Link>

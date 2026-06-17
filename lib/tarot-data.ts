@@ -959,12 +959,12 @@ export const majorArcana: TarotCard[] = [
       {
         title: "Simbolismo Visual",
         content: [
-          "A Torre (O Corpo): Os tijolos cor de carne indicam que a torre simboliza o corpo humano, que é a verdadeira \"Casa de Deus\", contendo a divindade em seu interior.",
-          "A Coroa: Representa a vontade humana racional ou as ambições. O fato de ser atingida ou \"arrancada\" sugere que o poder material deve ser transformado em fulguração espiritual.",
-          "O Raio (Energia Divina): Simboliza a intervenção direta do Divino (Fohat) que penetra na matéria para transformá-la. É uma força tanto criadora quanto destruidora que consagra o que atinge.",
-          "Os Degraus Iniciáticos: A restauração do Tarot de Marselha revelou três degraus que conduzem à porta da torre, simbolizando as etapas de aceitar o conhecimento, conservá-lo e, finalmente, abrir mão dele.",
-          "Os Personagens: Em vez de caírem em desgraça, os personagens são vistos como iniciados que saem alegremente para honrar a terra. Seus cabelos amarelos simbolizam iluminação e um deles parece caminhar com as mãos, vendo o mundo de forma nova.",
-          "As Gotas Coloridas: Representam concentrações de energia e a dança da alegria cósmica, indicando que as estrelas e as forças universais são aliadas da consciência humana."
+          "A Torre (O Corpo): A torre é feita de tijolos cinzentos e sólidos, construída no topo de uma montanha rochosa e íngreme. Ela representa as estruturas mentais rígidas, os dogmas, as falsas seguranças e as defesas psicológicas que erguemos para nos isolar do fluxo da vida.",
+          "O Fogo e a Escuridão: Labaredas de fogo saem das janelas, mostrando que a destruição consome a estrutura de dentro para fora. O fundo completamente preto (o mesmo do Diabo) reforça que essa crise acontece em um momento de profunda escuridão espiritual, funcionando como um despertar forçado.",
+          "O Raio: Um relâmpago massivo corta o céu escuro e atinge o topo da torre. Esse raio simboliza a intervenção divina súbita, um lampejo de verdade ou um insight espiritual violento que destrói a ignorância. Ele vem de fora e de cima, escapando totalmente ao controle humano.",
+          "A Queda da Coroa: O impacto do raio arranca uma grande coroa dourada que servia de teto para a torre. A coroa representa o ego humano, a arrogância, o orgulho e a falsa crença de que estamos acima das leis naturais ou divinas (relembrando a coroa do Rei que caiu na lama na carta da Morte). Simboliza também a queda do poder temporal e intelectual que se julgava absoluto.",
+          "Os Personagens: Duas pessoas (um homem e uma mulher, novamente ecoando o casal de Os Amantes e O Diabo) são ejetadas e caem de cabeça para baixo em direção ao abismo. Cair de cabeça para baixo simboliza uma mudança radical e dolorosa de perspectiva. Tudo o que eles conheciam e o chão onde pisavam desapareceu. A queda representa o colapso do status, do conforto ilusório e o choque de realidade que acompanha as grandes perdas materiais ou quebras de expectativa.",
+          "As Gotas Douradas: Flutuando no ar, ao lado da torre, há 22 faíscas ou gotas douradas que parecem folhas. Na tradição esotérica, elas têm o formato da letra hebraica Yod, que é a primeira letra do nome de Deus (Tetragrammaton) e representa a centelha divina de criação. Há exatamente 22 dessas gotas na imagem, o que corresponde perfeitamente ao número total de Arcanos Maiores do Tarot e às 22 trilhas da Árvore da Vida cabalística. Isso envia uma mensagem oculta crucial: mesmo no caos e na destruição aparente, a graça divina e a luz espiritual estão presentes. A destruição não é um castigo cruel, mas um ato de misericórdia para libertar a alma de sua própria prisão."
         ]
       },
       {
@@ -1014,11 +1014,11 @@ export const majorArcana: TarotCard[] = [
       {
         title: "Simbolismo Visual",
         content: [
-          "A Mulher Nua e Ajoelhada: Representa a alma em estado de receptividade total e humildade, honrando a terra onde se estabelece. Ela mantém um pé na água e outro na terra, sinalizando o equilíbrio entre a intuição e o lado prático/terreno.",
-          "As Oito Estrelas: A estrela central maior representa a individualidade e o núcleo do ser, enquanto as sete estrelas menores ao redor podem simbolizar os sete chakras ou os centros de energia do corpo.",
-          "Os Dois Vasos: A mulher derrama água de dois jarros; um vaso está ligado ao seu corpo (receptivo) e o outro derrama energia no rio e na terra, simbolizando a materialização do espírito e a circulação da vida.",
-          "O Pássaro Negro: Pousado em uma árvore, representa a alma ou o ego humano que foi reduzido ao essencial e se prepara para voar em direção ao cosmos.",
-          "O Rio Azul: Representa a corrente do passado sendo purificada pela ação da Estrela para nutrir o futuro."
+          "A Sereia de Duas Caudas: Em vez de estar com os pés na terra e na água, a figura central emerge inteiramente do mar. A sereia representa uma imersão total nas águas profundas do inconsciente coletivo, das emoções puras e do mistério psíquico. Segurar as duas caudas abertas simboliza o domínio sobre as polaridades da matéria e do espírito. Ela está em perfeito equilíbrio com sua natureza animal/instintiva e sua consciência espiritual.",
+          "O Leite e o Sangue: De seus seios, a sereia jorra dois líquidos diretamente no oceano: um fluxo vermelho (à esquerda) e um fluxo branco (à direita). Isso faz alusão direta à alquimia mística: o fluxo vermelho representa o princípio ativo, solar, masculino (o enxofre alquímico ou a força vital); o fluxo branco representa o princípio receptivo, lunar, feminino (o mercúrio alquímico ou a pureza espiritual). Ao jorrar ambos no mar, ela está fertilizando e renovando a matriz da vida.",
+          "O Olho de Hórus: No topo, há uma estrela central de oito pontas, mas com um formato alongado e radiante. No centro dela, há um losango vermelho contendo o Olho que Tudo Vê (ou o Olho de Hórus). Isso simboliza a onisciência divina, o despertar do terceiro olho e a percepção da verdade nua e crua após a queda da Torre. É a mente divina iluminando a noite da alma.",
+          "As Estrelas Periféricas: Ao redor da estrela central, encontram-se 6 estrelas menores (completando o número tradicional de 7 estrelas no céu da carta, excluindo o Sol e a Lua literais que foram inseridos nas laterais). Cada estrela de seis pontas (Hexagrama) traz um símbolo astrológico clássico da tradição hermética representando os planetas Marte, Mercúrio, Vênus, Saturno e Urano, além do Sol e da Lua.",
+          "A Pomba Branca: No canto direito, uma pomba branca voa em direção ao centro. Diferente do tradicional pássaro Íbis que repousa na árvore do Rider-Waite-Smith, a pomba é o símbolo universal da paz, do Espírito Santo, da entrega de uma promessa cumprida (como a pomba da Arca de Noé que anuncia o fim do dilúvio) e da descida da graça divina sobre a Terra."
         ]
       },
       {
@@ -1125,7 +1125,7 @@ export const majorArcana: TarotCard[] = [
           "O Astro Radiante: O Sol olha diretamente para o observador (como a Justiça e o Julgamento), sinalizando que ele revela a verdade sem disfarces. Seus raios representam a irradiação da energia vital e da consciência espiritual.",
           "Os Gêmeos (ou a Criança): No Tarot de Marselha, dois personagens se ajudam a atravessar um rio, simbolizando a parte consciente do ser guiando a parte animal/primitiva em direção à alegria. Na versão de Waite, uma criança nua sobre um cavalo branco representa a inocência, a pureza e a força vitoriosa do espírito.",
           "O Muro de Tijolos: Marca o limite do domínio humano e funciona como uma proteção contra as amarras do passado, permitindo a construção de um \"mundo novo\".",
-          "O Rio Azul-claro: Simboliza a vida eterna e a circulação harmoniosa das energias entre o plano celeste e o terrestre.",
+          "O Estandarte Vermelho: A criança segura com a mão esquerda um enorme estandarte ou bandeira de tecido vermelho vivo que flui dinamicamente ao seu redor. O vermelho é a cor da ação, do sangue, da paixão pela vida e da energia solar manifestada. O estandarte simboliza a vitória, o triunfo público e a renovação da força vital que agora corre livre e desimpedida pelo ser..",
           "Girassóis: Sinais de crescimento, nutrição e o alimento da imortalidade que cresce em direção à luz."
         ]
       },
@@ -1176,12 +1176,17 @@ export const majorArcana: TarotCard[] = [
       {
         title: "Simbolismo Visual",
         content: [
-          "O Anjo e a Trombeta: O Arcanjo (frequentemente identificado como Gabriel) sopra uma trombeta de ouro, simbolizando a voz divina e o anúncio de um despertar espiritual que ressoa em todo o ser.",
-          "A Bandeira com a Cruz: A bandeira laranja com uma cruz cor de carne representa a união do humano com o divino, indicando a vocação de viver em harmonia tanto no plano material (horizontal) quanto no espiritual (vertical).",
-          "As Figuras que Ressuscitam: Um homem, uma mulher e um menino (ou ser azul) surgem de suas tumbas, representando a integração do passado e a cura de feridas geracionais ou familiares para o nascimento de uma nova consciência.",
-          "A Nuvem Azul-Celeste: Envolve o anjo e simboliza a abertura mental e a pureza de pensamento alcançada nesta etapa.",
-          "O Túmulo: Funciona como uma câmara de reflexão e transmutação, afirmando que a vida persiste através das transformações e que a morte iniciática é necessária para a evolução."
-        ]
+          "O Anjo nas Nuvens: Emergindo dos céus cercado por nuvens cinzentas, o Arcanjo Gabriel personifica o chamado da consciência superior ou a voz do divino. Ele não está ali para castigar, mas para despertar.",
+          "As Asas Vermelhas: Assim como na Temperança, as asas vermelhas simbolizam o fogo do espírito, a energia vital e a paixão divina que impulsionam a transformação.",
+          "A Trombeta de Ouro com Sete Raios: Da boca da trombeta saem linhas retas que representam os raios de som e vibração cósmica. O som da trombeta é a verdade que ecoa e quebra o transe da ignorância material.",
+          "A Bandeira com a Cruz Vermelha: Presa à trombeta, há uma bandeira branca com uma cruz vermelha simétrica (a Cruz de São Jorge). Este é um símbolo esotérico universal de equilíbrio e união de opostos (horizontal e vertical, matéria e espírito). Representa também o ponto de encontro onde a dualidade é superada.",
+          "Os Caixões de Pedra Cinza: Os caixões abertos não representam a morte física literal, mas sim as antigas prisões mentais, os velhos hábitos, o passado kármico e o estado de morte em vida (viver no piloto automático). Emergir deles significa que a alma finalmente se libertou do que a mantinha estagnada.",
+          "A Nudez: Assim como no Sol e nas Estrelas, as figuras estão completamente nuas. Diante do Julgamento final da própria consciência, não há espaço para máscaras, status social, roupas ou defesas egoicas. É a vulnerabilidade e a verdade essencial do ser.",
+          "A Atitude de Reverência: O homem, a mulher e a criança encaram o anjo de braços abertos ou mãos postas. Seus rostos expressam adoração, alívio e aceitação. Eles acolhem o chamado espiritual com prontidão, prontos para a transição definitiva.",
+          "O Casal e a Criança: Em primeiro plano, vemos um homem (à esquerda), uma mulher (à direita) e uma criança de costas (no centro). Esta trindade representa os três aspectos da mente humana: o consciente, o subconsciente e o superconsciente (a criança, que unifica ambos).",
+          "As Figuras ao Fundo: Mais atrás, há outro grupo de três pessoas na mesma posição, sugerindo que este processo de redescoberta e ressurreição é universal e coletivo, afetando toda a humanidade e todas as dimensões do ser.",
+          "O Mar Azul: Os caixões flutuam sobre um oceano calmo e azul. A água aqui representa o grande repositório das emoções humanas e do inconsciente coletivo. O fato de os caixões estarem abertos sobre a água indica que os segredos e traumas guardados no fundo da mente foram trazidos à superfície e purificados.",
+          "As Montanhas de Gelo ao Fundo: No horizonte, vemos imensas cordilheiras nevadas e pontiagudas (as mesmas montanhas que o Louco avistava de longe e onde o Eremita buscou isolamento). Aqui, as montanhas representam os limites do pensamento abstrato e os picos da realização intelectual. Elas sugerem que o julgamento e o chamado vêm de um lugar imutável, elevado e eterno."]
       },
       {
         title: "O Julgamento em Leituras",
@@ -1230,11 +1235,13 @@ export const majorArcana: TarotCard[] = [
       {
         title: "Simbolismo Visual",
         content: [
-          "A Mulher Dançante: No centro, uma figura feminina nua (ou andrógino realizado) dança, simbolizando a alma humana em estado de liberdade total e alegria cósmica.",
-          "A Guirlanda ou Mandorla: O oval de folhas que a rodeia representa o ovo cósmico ou o sexo feminino universal, simbolizando a vida eterna e a conclusão da Grande Obra.",
+          "A Mulher Dançante: Uma mulher — frequentemente interpretada na tradição esotérica como um ser andrógino ou a Anima Mundi (a alma do mundo) — dança livremente no centro da carta. Ela flutua, sugerindo que superou o peso e as limitações puramente materiais, movendo-se em sincronia com o ritmo do cosmos.",
+          "O Manto Roxo: Um tecido purpúreo envolve suavemente o corpo da mulher. O roxo é a cor da realeza, da espiritualidade elevada e da transmutação, cobrindo o ponto de encontro das polaridades físicas.",
+          "A Guirlanda ou Mandorla: A dançarina está cercada por uma grande guirlanda de folhas de louro em formato oval (ou de uma Mandorla). O louro é o símbolo clássico da vitória, do triunfo e da conquista eterna. O formato oval representa o ovo cósmico, o útero da criação e o portal por onde a consciência entra e sai dos ciclos da existência.",
+          "Os Laços em Forma de Infinito: No topo e na base da guirlanda, o arranjo é amarrado por fitas vermelhas cruzadas que imitam perfeitamente o símbolo do infinito ou a lemniscata ($\infty$). Isso indica que, embora um ciclo tenha se encerrado (o fim do baralho), a vida opera em uma espiral eterna de evolução contínua.",
           "As Quatro Figuras (Tetramorfo): Nos cantos da carta, aparecem o Anjo, a Águia, o Touro e o Leão, que representam os quatro Evangelistas, os quatro elementos (Água, Ar, Terra, Fogo) e as quatro energias humanas (emocional, intelectual, material e criativa) plenamente realizadas.",
-          "As Duas Varinhas ou Objetos: A figura central segura um bastão (ativo) e um frasco (receptivo), demonstrando que ela domina e harmoniza as polaridades masculina e feminina.",
-          "O Pé Apoiado: A personagem toca o chão levemente, indicando que ela está enraizada na realidade material, mas pronta para a transcendência espiritual."
+          "As Duas Varinhas: Na mão esquerda e na mão direita, ela segura dois pequenos bastões brancos idênticos. Eles representam as duas polaridades da energia universal (ativo/passivo, masculino/feminino, macrocosmo/microcosmo). Ao contrário do Mago (Arcano I), que tinha apenas um bastão voltado para o céu para canalizar a energia, a figura do Mundo possui maestria sobre as duas forças simultaneamente, equilibrando-as com naturalidade na própria vida.",
+          "A Pernas da Dançarina: Suas pernas formam uma cruz (a perna direita cruza por trás da esquerda), uma postura que espelha exatamente (mas de forma invertida e livre) a posição do Enforcado (Arcano XII). Enquanto o Enforcado estava preso de cabeça para baixo em sacrifício e estagnação, a dançarina do Mundo está de pé e flutuando, mostrando que o aprendizado foi integrado e o sacrifício transformou-se em liberdade de movimento."
         ]
       },
       {
@@ -1554,9 +1561,10 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       title: "Simbolismo Visual",
       content: [
         "A Mão e a Nuvem: Uma mão, surgindo de uma nuvem, segura o bastão pela parte mais fina; o fato de mostrar a palma indica um impulso central e puro.",
-        "O Bastão Verde: Simboliza a força da natureza que cresce; sua ponta alargada evoca o sexo feminino, sugerindo que a energia criativa é andrógina.",
+        "A Dádiva Divina: O fato de a mão sair do nada (das nuvens) indica que essa nova energia, ideia ou oportunidade é um vislumbre de inspiração que vem de uma força superior ou do inconsciente. Não é algo planejado logicamente, mas sim um impulso ou um estalo intuitivo que nos convida à ação.",
+        "O Bastão Vermelho: Simboliza a força da natureza que cresce; sua ponta alargada evoca o sexo feminino, sugerindo que a energia criativa é andrógina.",
         "Marcas de Cortes: Os galhos cortados ao longo do bastão indicam que a energia não pode ser fabricada, apenas canalizada através de escolhas conscientes.",
-        "Luz Amarela: Representa a sublimação da energia orgânica em inteligência ou espírito.",
+        "O Castelo no Topo da Colina: Bem ao fundo, à esquerda, avista-se um castelo fortificado em uma montanha íngreme. O castelo simboliza a meta de longo prazo, a estabilidade, a ambição arquitetada e o sucesso que pode ser alcançado se a energia do bastão for canalizada com foco e determinação. É o destino final da jornada que está apenas começando.",
       ],
     },
     {
@@ -1689,10 +1697,13 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "Bulbo Azul-claro: Na base das flores, indica a acumulação passiva de desejos e sonhos.",
-        "Talo Vermelho e Pétalas Amarelas: A energia vital (vermelha) que flui para despertar a consciência e a inteligência (amarela).",
-        "Flores Laranja no Cruzamento: Duas flores de três pétalas cada sugerem que a meta final dessa energia é o prazer e a beleza (associados ao número 6 na numerologia do Tarot).",
-        "Centro Azul-escuro: Representa a inspiração que é recebida do cosmos e que o indivíduo apenas canaliza.",
+        "A Postura do Governante: No centro da carta, um homem em uma posição de destaque observa a paisagem do alto. Ele não está no meio da batalha, mas em um lugar de autoridade e segurança.",
+        "A Túnica Vermelha e o Chapéu: Ele usa um chapéu e uma túnica vermelha vibrante. O vermelho remete diretamente ao elemento Fogo de Paus, denotando paixão, coragem, iniciativa e poder pessoal. Debandando sob a túnica, nota-se uma veste de tom ocre ou terroso, o que sugere que sua ambição ardente está contida por uma base prática e racional.",
+        "O Globo Terrestre: Na mão direita, o homem segura um pequeno globo terrestre. Este é um dos símbolos mais poderosos da carta: representa que \"o mundo está em suas mãos\". Ele possui o controle de sua vida corrente e tem a capacidade de conceber grandes planos de expansão. No entanto, o tamanho reduzido do globo também aponta que o que ele detém agora é apenas um microcosmo, uma promessa do vasto mundo real que o espera lá fora.",
+        "O Bastão Seguro (À Esquerda): O homem segura firmemente com a mão esquerda um dos bastões, que está fixado acima da amurada. Esse bastão representa as conquistas atuais, a estabilidade e o território seguro. É o porto seguro do qual ele não abriu mão ainda.",
+        "O Bastão Livre (À Direita): O segundo bastão está preso por um suporte metálico na parede, posicionado logo atrás do homem. Ele representa o potencial futuro, as novas parcerias e os caminhos ainda não explorados. Ele está ali, pronto para ser empunhado assim que a decisão for tomada.",
+        "O Olhar Direcionado ao Mar: O homem ignora a segurança da sua vila fortificada imediatamente abaixo e foca seu olhar no horizonte longínquo, onde um rio ou braço de mar encontra a terra. A água em movimento simboliza as infinitas possibilidades do inconsciente e das novas jornadas.",
+        "As Montanhas Áridas: Ao fundo, erguem-se grandes montanhas rochosas de coloração avermelhada e roxa. Elas representam os desafios, as grandes metas e os obstáculos que ele sabe que terá de enfrentar se decidir sair de sua zona de conforto e cruzar o mar em busca de novos horizontes."
       ],
     },
     {
@@ -1729,10 +1740,14 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "Eixo Central e Cruzamento: Os paus se cruzam formando um centro que expressa o desejo de expansão.",
-        "Folhagens Laterais: Folhas amarelas e vibrantes abrem-se para os lados, simbolizando a explosão do prazer e o enriquecimento do mundo através da energia vital.",
-        "Pontas Negras: As extremidades dos paus são pretas, sugerindo que a essência da energia criativa é, no fundo, impessoal e espiritual.",
-        "Centro Azul-Escuro: Indica que, embora a ação seja externa, a inspiração original é recebida do cosmos.",
+        "Olhar para o Futuro: O homem agora está de costas para nós. Essa quebra de perspectiva visual é muito significativa: significa que ele virou as costas para o passado, para a segurança antiga e para as dúvidas. Todo o seu foco e energia estão concentrados inteiramente no que está por vir, no horizonte.",
+        "As Vestes de Parceria e Equilíbrio: Ele usa um manto vermelho ornamentado com detalhes pretos e dourados, combinado com uma capa verde sobre o ombro esquerdo. O vermelho mantém a chama da paixão e da ambição do elemento Fogo ativa. O verde adiciona a energia do crescimento, da fertilidade e da esperança de que seus projetos deem frutos.",
+        "A Fita na Cabeça: Ele usa uma faixa ou tiara ao redor da cabeça. Diferente do chapéu imponente de governante do Dois de Paus, a faixa sugere prontidão mental, foco inabalável e a mente direcionada a um único objetivo de longo prazo.",
+        "Bastões Fixados na Terra: Dois bastões estão cravados firmemente no chão rochoso, posicionados atrás dele. O terceiro bastão está à sua direita, e ele apoia a mão suavemente nele para se estabilizar enquanto observa o horizonte.",
+        "Abertura e Liberdade: O homem não está mais confinado por muros cinzentos de pedra. Ele está livre na encosta da montanha, e os três bastões formam uma espécie de portal aberto ou estrutura de suporte. Todos eles continuam a brotar folhas verdes, provando que a energia vital continua se multiplicando à medida que ele avança.",
+        "O Mar de Fogo: O oceano abaixo não é azul, mas brilha em um tom amarelo-alaranjado sob a luz do sol. Esse mar dourado simboliza que o próprio elemento Água (as emoções e o inconsciente) foi infundido pelo Fogo de Paus. O caminho agora é luminoso, próspero e propício para grandes empreendimentos.",
+        "Os Navios Flutuantes: Ao longe, pequenas silhuetas de embarcações navegam pelas águas douradas. Esses barcos representam os seus pensamentos, investimentos, projetos ou ideias que foram colocados em movimento no mundo exterior. Ele não está mais especulando; suas ações já estão navegando e ele aguarda o retorno comercial ou espiritual de seus esforços.",
+        "O Terreno Elevado: O homem encontra-se em um penhasco ou terreno elevado que supervisiona o mar. Essa altitude reforça a ideia de visão estratégica e maturidade. Ele tem uma perspectiva privilegiada da vida e dos negócios, conseguindo enxergar as oportunidades e antecipar os problemas muito antes que eles cheguem à praia."
       ],
     },
     {

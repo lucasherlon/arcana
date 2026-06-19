@@ -1777,8 +1777,13 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "Estrutura em Cruz: No Tarot de Marselha, os quatro paus formam um quadrado ou cruz, simbolizando a perfeição e a segurança do mundo material aplicadas ao centro sexual e criativo.",
-        "Flores e Folhagens: As ilustrações sugerem uma floração estável; no estilo Waite, pessoas dançando e um castelo ao fundo reforçam a ideia de celebração e proteção.",
+        "A Estrutura de Proteção: Em primeiro plano, quatro grandes bastões de madeira estão cravados firmemente no chão. Na geometria sagrada e na numerologia, o número quatro (lembrando o Arcano IV, O Imperador) está associado à estrutura, fundação, ordem e solidez.",
+        "O Portal Aberto: Ao contrário do Dois de Paus, onde os muros limitavam a visão, aqui os quatro bastões formam um portal aberto e receptivo. Não há portas fechadas; o ambiente é de celebração pública e inclusão. Os bastões continuam exibindo brotos verdes, mostrando que mesmo na estabilidade a energia criativa continua viva.",
+        "A Guirlanda de Flores e Frutos: A guirlanda simboliza a fertilidade materializada, a beleza e a recompensa pelo esforço investido. Ela serve como uma cobertura sagrada sob a qual a comunidade se reúne, consagrando o espaço como um solo de paz e alegria.",
+        "Os Dançarinos com Buquês: Ao fundo, logo após o portal, vemos duas figuras humanas vestindo túnicas em tons de branco, azul e purpúra. Elas estão com os braços erguidos, agitando buquês de flores em sinal de triunfo e celebração. Mais à esquerda, perto da muralha, nota-se um pequeno grupo de pessoas reunidas. A presença desse coletivo reforça que a alegria do Quatro de Paus não é um sucesso solitário (como o do Três), mas uma felicidade que se expande e é compartilhada com o clã, com a família ou com os parceiros de jornada",
+        "O Lar/Refúgio Seguro: Mais ao fundo, destaca-se a silhueta de um grande castelo com torres pontiagudas e telhados vermelhos. Esse castelo representa o lar estabelecido, a comunidade protetora e a segurança de longo prazo que foi construída. O portal de bastões está posicionado fora das muralhas, sugerindo que as pessoas se sentem tão seguras e em paz que podem festejar a céu aberto, sem medo de ameaças externas.",
+        "O Céu Dourado: O fundo da carta é inteiramente amarelo brilhante. Esse tom solar e luminoso banha toda a cena com vitalidade, otimismo, clareza mental e a bênção da luz divina (ecoando o calor do Arcano XIX, O Sol)."
+
       ],
     },
     {
@@ -1808,8 +1813,11 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "Cruzamento Central: No Tarot de Marselha, o elemento central no encontro dos paus manifesta um \"novo olhar\" ou um novo ponto de vista, simbolizando o ideal que surge para o consulente.",
-        "Cores e Movimento: A interação das cores e o formato dos paus indicam uma energia que busca superar limites, podendo representar tanto uma evolução criativa profunda quanto uma tensão entre instinto e espírito.",
+        "A Batalha de Bastões: A carta mostra cinco figuras humanas em uma espécie de luta ou competição, cada uma segurando um bastão. Eles parecem estar em um confronto caótico, simbolizando a tensão e o desafio que surgem quando um novo desejo ou ideal começa a se manifestar.",
+        "O Desalinhamento dos Bastões: Ao contrário das cartas anteriores onde os bastões eram simétricos e organizados, aqui eles formam uma malha caótica no céu. Cada jovem puxa ou empurra em uma direção diferente, mostrando uma total falta de cooperação ou de um objetivo comum. Cada um está focado exclusivamente em defender seu próprio ponto de vista ou testar sua própria força.",
+        "A Variedade das Vestimentas: O fato de não haver uniformes reforça que não existem lados definidos nessa disputa. Não é o exército A contra o exército B. É cada um por si. Essa mistura cromática representa a diversidade de opiniões, origens e motivações que geram o ruído na comunicação.",
+        "O Terreno Irregular: O combate acontece sobre um solo verdejante, porém visivelmente irregular, acidentado e ondulado. Esse relevo instável reflete a falta de base firme para se chegar a um acordo no momento.",
+        "O Céu Claro e Limpo: Ao fundo, o céu está completamente limpo e azul claro. Não há nuvens de tempestade, fumaça ou indícios de destruição (como vemos na carta da Torre, por exemplo). Esse céu pacífico traz uma mensagem oculta reconfortante: o conflito do Cinco de Paus é superficial e passageiro. É uma fricção necessária para o amadurecimento. O Fogo precisa de atrito para continuar aceso e se espalhar, e esse caos serve justamente para filtrar quem tem os melhores argumentos ou a maior resiliência antes do próximo passo da jornada."
       ],
     },
     {
@@ -1839,9 +1847,13 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "Centro Ardente: No Tarot de Marselha, os quatro losangos vermelhos centrais representam um fogo vital que se expande em folhas sensuais para os quatro cantos do mundo.",
-        "Flores Complementares: O eixo vertical apresenta duas flores cortadas que se complementam — uma com folhas curvas (receptiva) e outra com folhas pontudas (ativa) —, simbolizando a beleza do encontro sexual e criativo.",
-        "O Louro da Vitória: Em versões como a de Waite, a coroa de louros na cabeça do cavaleiro e no próprio bastão reforçam o caráter triunfante e de celebridade da carta.",
+         "A Postura Elevada do Cavaleiro: No centro da cena, um homem monta um cavalo branco. O fato de estar montado o coloca em uma posição fisicamente mais alta que as demais pessoas, simbolizando status, liderança, sucesso e o fato de ter superado os obstáculos recentes. Ele atrai todos os olhares.",
+         "A Coroa de Louros na Cabeça: O cavaleiro usa uma coroa feita de folhas de louro na cabeça, o símbolo máximo de vitória, glória e conquista desde a antiguidade clássica (ecoando também o topo da guirlanda da carta do Mundo).",
+         "A Capa Púrpura: O cavaleiro veste um manto em tons de roxo ou púrpura. Historicamente, a púrpura é a cor da realeza, do poder supremo, da dignidade e da espiritualidade elevada, reforçando que o seu triunfo é legítimo e reconhecido por todos.",
+         "O Bastão com Folhagem: O cavaleiro segura um bastão que está decorado com folhas verdes, simbolizando que sua vitória é fruto de um esforço criativo e vital, e que essa energia continua a crescer mesmo após o sucesso.",
+         "O Cavalo Branco: O cavalo puramente branco simboliza a força física direcionada, os instintos purificados e a energia vital que foi domada com sucesso para servir a um propósito nobre (ecoando a pureza do cavalo no Arcano XIX, O Sol).",
+         "A Manta Verde Inteira: O animal está quase que completamente coberto por uma manta verde longa que toca o chão. O verde representa a cura, o crescimento e a certeza de que a vitória trará prosperidade material e renovação. Mostra também que a força bruta (o cavalo) está elegantemente vestida e integrada às leis da civilidade.",
+          "A Multidão Aclamando: Ao fundo, uma multidão de pessoas acena e aplaude o cavaleiro, reforçando a ideia de reconhecimento público e aclamação social. Ele não é apenas um vencedor solitário, mas alguém que é celebrado por sua comunidade ou sociedade.",
       ],
     },
     {
@@ -1872,11 +1884,10 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "Energia em Expansão: No Tarot de Marselha, a estrutura parte de um losango central vermelho (fogo vital) que, através de articulações amarelas (inteligência), se expande em uma grande ação vermelha direcionada ao exterior.",
-        "Pontas Negras: As 14 pontas negras simbolizam uma ação impessoal e espiritual, indicando que a energia criativa está disponível para quem souber canalizá-la.",
-        "Folhagens Triunfais: Folhas amarelas de talos vermelhos abrem-se para os lados, expressando a explosão do prazer sem entraves.",
-        "O Defensor (Estilo Waite): A imagem de um homem no topo de uma colina enfrentando oponentes reforça o aspecto de bravura e resistência sob pressão.",
-      ],
+        "A Vantagem do Terreno Elevado: No centro da carta, um homem está posicionado no topo de uma colina ou penhasco. Ele empunha um bastão de madeira com as duas mãos, usando-o como barreira e ferramenta de defesa. Embora ele esteja sob ataque, o fato de estar em um terreno elevado lhe dá uma imensa vantagem tática. Ele detém a autoridade, a clareza e a gravidade a seu favor. Quem ataca de baixo para cima gasta muito mais energia.",
+        "Inimigos Invisíveis: Emergindo da parte inferior da carta, vemos as pontas de outros seis bastões apontados diretamente para o homem. É fascinante notar que os donos desses bastões não aparecem na imagem. Isso simboliza que as ameaças podem ser pressões externas abstratas (críticas, concorrência, excesso de demandas) ou até mesmo batalhas internas (dúvidas, medos e cobranças do próprio ego). Eles criam uma parede de oposição, mas o homem permanece firme, bloqueando o avanço deles.",
+        "Os Sapatos Descombinados: O homem está usando dois sapatos diferentes (um sapato/bota escura no pé esquerdo e um calçado mais claro e folgado no pé direito). Esse detalhe mostra que ele está operando em bases diferentes ou lidando com uma situação onde seu posicionamento ainda está dividido (um pé na razão, outro na emoção, ou um pé no velho padrão e outro no novo). Apesar da óbvia falta de prontidão ou do terreno instável, ele não recua.",
+        "A Expressão de Foco: Sua expressão facial é de intenso esforço, raiva e determinação feroz. Não há medo em seu rosto, mas sim a garra de um guerreiro que decidiu que não vai ceder um centímetro do seu espaço."    ],
     },
     {
       title: "O Sete de Paus em Leituras",
@@ -1907,8 +1918,10 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "Despojamento e Foco: No Tarot de Marselha, o Oito de Paus abandona as folhagens e flores exuberantes dos graus anteriores (6 e 7), focando-se apenas na estrutura dos paus para simbolizar a sublimação e concentração da libido.",
-        "Ação no Ar: Em versões como a de Waite, os oito paus são vistos voando pelo céu, reforçando a ideia de uma energia emocionante e positiva que \"ataca\" ou avança sem hesitação.",
+        "A Trajetória Descendente dos Bastões: O fato de estarem voando em direção à terra sugere que ideias abstratas, projetos ou mensagens que estavam pairando no ar estão prestes a aterrissar e se manifestar na realidade prática. Os brotos verdes continuam nascendo na madeira, indicando que o movimento carrega vida e potencial criativo.",
+        "O Céu Limpo: O fundo da carta é um céu azul claro, sem nuvens ou obstáculos. Isso sugere que o caminho está livre e que não há impedimentos para a manifestação rápida do que se deseja.",
+        "A Ausência de Personagens: Diferente das cartas anteriores, o Oito de Paus não apresenta figuras humanas. Isso reforça a ideia de que a energia está tão concentrada e fluida que não há espaço para distrações ou interferências externas. A ação é pura e direta, sem a necessidade de mediação humana.",
+         "A Simetria dos Bastões: Os bastões estão organizados de maneira simétrica, o que simboliza a perfeição energética e a harmonia necessária para que a magia aconteça. Eles formam um padrão ordenado, indicando que a energia está sob controle e direcionada para um propósito específico.",
       ],
     },
     {
@@ -1939,8 +1952,11 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "Despojamento Monástico: No Tarot de Marselha, o Nove de Paus é caracterizado pela ausência total de flores e folhagens, simbolizando uma extrema concentração de energia e o abandono de ornamentos superficiais.",
-        "Eixo Central: Os paus se unem em um entrelaçamento vermelho e azul no centro, indicando que o elemento atingiu um domínio implacável sobre si mesmo, focando apenas no essencial.",
+        "A Faixa na Cabeça: O homem no centro da imagem usa uma faixa branca amarrada na cabeça. Ela cobre uma ferida real obtida nas batalhas anteriores (como as do Cinco e do Sete). Esse detalhe visual deixa claro que ele passou por testes severos; ele carrega cicatrizes, mas continua de pé.",
+        "A Postura Defensiva: Ele segura um bastão com as duas mãos, apoiando-o firmemente no chão à sua frente. Seu corpo está ligeiramente inclinado para trás e seu olhar é desconfiado, voltado para o lado esquerdo. Ele não está atacando, mas está em total estado de alerta, esperando o próximo movimento do ambiente.",
+        "A Barreira de Bastões: Atrás dele, oito bastões estão cravados no chão, formando uma barreira que o protege. Eles simbolizam a experiência adquirida e a força acumulada ao longo das batalhas anteriores. Ele está cercado por desafios, mas mantém sua posição firme.",
+        "A Linha Divisória no Chão: O homem pisa em um solo cinza e plano, mas logo atrás dele há uma linha horizontal bem demarcada que o separa da área gramada onde os oito bastões estão fincados. Essa divisão visual reforça a ideia de limites geográficos e territoriais. Ele estabeleceu uma linha na areia: dali ninguém passa. É a preservação da própria integridade e individualidade a qualquer custo.",
+        "A Colinas Verdes e o Céu Azul: Ao fundo, por trás da paliçada, avistamos colinas verdes onduladas sob um céu azul claro e sem nuvens. O clima no horizonte está limpo e pacífico. Isso traz um contraste psicológico profundo com a expressão tensa e desconfiada do personagem. O perigo real pode já ter passado, mas a mente do herói ainda está presa no modo de sobrevivência. Ele vigia um horizonte que, visualmente, está em paz."
       ],
     },
     {
@@ -1970,8 +1986,11 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "Eixo Branco: No Tarot de Marselha, o pau central se desdobra para revelar um eixo branco, que simboliza a pureza e a sublimação final da energia de Paus.",
-        "Estrutura em Asa: A disposição dos elementos pode lembrar uma entidade angelical, sugerindo que os instintos agora estão em comunhão com o plano superior.",
+        "A Postura de Esmagamento: O centro da carta é dominado por um homem que caminha curvado, quase dobrado ao meio pelo peso que carrega. Ele tenta segurar e abraçar todos os dez bastões de madeira de uma única vez. Sua postura corporal exala cansaço extremo e opressão física.",
+        "Abraçando Além da Conta: O fato de ele carregar os bastões à frente do corpo, tentando cercá-los com os braços, mostra que esse fardo não foi imposto externamente por correntes — ele próprio escolheu pegar, carregar e manter cada uma dessas responsabilidades. É a representação visual do \"centralizador\" que não sabe delegar.",
+        "A Visão Obstruída Pelos Bastões: Uma das sacadas visuais mais profundas desta ilustração é que a disposição dos dez bastões esconde completamente o rosto e bloqueia a visão do homem. Ele não consegue olhar para frente, para os lados ou para o céu. Ele só consegue ver o chão imediatamente sob seus pés e a própria madeira que o esmaga. Isso simboliza a perda de perspectiva e de propósito. Quando estamos sobrecarregados, esquecemos o porquê começamos a caminhar; a rotina e o peso nos impedem de ver o panorama geral.",
+        "A Proximidade do Destino (O Castelo ao Fundo): No canto inferior direito da imagem, vemos uma cidade fortificada ou um castelo aconchegante, cercado por árvores verdes. É o mesmo lar seguro ou comunidade que foi vislumbrado no Quatro de Paus. Este detalhe traz um duplo significado crucial. Por um lado, mostra que o homem está muito perto de chegar ao seu destino e concluir sua tarefa. Falta pouco para descarregar o fardo. Por outro lado, mostra o isolamento psicológico: a segurança e o conforto do lar estão logo ali, mas ele está tão focado no peso que não consegue sequer erguer a cabeça para perceber que a jornada está terminando.",
+        "O Solo Amarelo e Plano: O homem caminha sobre um solo plano e de um amarelo intenso. Ao contrário das cartas de conflito ou defesa (como o Cinco e o Sete), não há relevos acidentados, pedras ou inimigos no caminho. A estrada em si é fácil e o céu acima dele está limpo. Isso reforça que o único obstáculo real na cena é o próprio peso que ele escolheu carregar. A resistência não vem do mundo exterior, vem da sua incapacidade de soltar alguns bastões ao longo do caminho."
       ],
     },
     {
@@ -2002,9 +2021,10 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "O Bastão Rústico: Diferente das figuras de maior hierarquia (como o Rei ou a Rainha), o pajem segura um pau grosseiro e lavrado de forma rudimentar, indicando uma força animal que ainda precisa ser canalizada.",
-        "Posição de Perfil: Ele é representado de pé e de perfil, com ambas as mãos no bastão, simbolizando uma prontidão que ainda avalia se deve ou não entrar em ação.",
-        "Conexão com a Terra: Seu símbolo está apoiado no chão, o que o assemelha numericamente e simbolicamente ao leão do arcano O Mundo (XXI), representando uma energia ativa voltada para a realidade terrestre.",
+        "O Olhar Direcionado ao Topo: Ao contrário do Dois ou Três de Paus, que olhavam para o horizonte distante, o Pajem inclina a cabeça ligeiramente para trás e fixa os olhos diretamente no topo de seu próprio bastão. Ele observa com admiração e curiosidade os pequenos brotos verdes que nascem dali. Essa imagem reforça que ele está fascinado pelo potencial de sua nova ideia ou projeto; ele está na fase de descobrir suas próprias capacidades e talentos.",
+        "O Padrão das Salamandras: Estampadas por toda a sua túnica, encontramos pequenas figuras pretas de lagartos. Na tradição esotérica e alquímica, as salamandras são os elementais do Fogo — criaturas mitológicas que conseguem viver dentro das chamas sem serem consumidas.",
+        "O Chapéu com Pena Vermelha: Na cabeça, ele usa um chapéu verde macio, encimado por uma vibrante pena vermelha erguida. A pena vermelha é um link simbólico direto com o Louco (Arcano 0) e com a criança do Sol (Arcano XIX). Ela representa a força vital, a paixão indomável, o espírito de aventura e o otimismo cego que o impulsiona a explorar o desconhecido sem medo do fracasso.",
+        "O Deserto Fértil de Ideias: O deserto e as pirâmides remetem a uma terra antiga e mística (frequentemente associada ao Egito hermético). O solo árido mostra que, para o Fogo do Pajem se manifestar, ele precisa trabalhar a terra de forma prática (o aspecto Terra de Paus). As pirâmides ao fundo simbolizam grandes realizações, mistérios a serem desvendados e ambições de longo prazo que o esperam no futuro, servindo de testemunhas silenciosas ao seu potencial latente."
       ],
     },
     {
@@ -2035,9 +2055,12 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "O Cavalo Branco: Símbolo da pureza e da sublimação final dos desejos, indicando que a energia animal foi domesticada pela vontade espiritual.",
-        "O Bastão Atravessado: O bastão parece atravessar a sua mão, o que sugere uma confiança total onde não há mais dualidade entre o indivíduo e sua energia vital.",
-        "Mudança de Direção: Ele faz o cavalo virar da direita para a esquerda, simbolizando a transição da ação pura para a receptividade espiritual.",
+        "A Postura de Arranque: O cavalo cor de canela ou alaranjado está empinado, capturado no meio de um movimento explosivo de avanço. Suas patas dianteiras estão erguidas no ar, mostrando que ele está pronto para romper qualquer barreira.",
+        "A Força dos Instintos: A cor quente do animal (ecoando os tons de fogo) reforça que as paixões, impulsos e a energia vital estão completamente despertos e direcionando a ação. Ao contrário do cavalo pacífico do Seis de Paus, este animal exige controle e exala pressa.",
+        "O Plumeiro de Chamas: No topo do elmo do Cavaleiro e saindo de sua armadura, vemos grandes adereços vermelhos e alaranjados que emulam perfeitamente o formato de labaredas de fogo. Ele não apenas domina o elemento, ele se veste dele.",
+        "As Salamandras Concluídas: O Cavaleiro usa uma túnica amarela sobre a armadura. Assim como no Pajem, ela é estampada com salamandras. No entanto, há uma diferença sutil e crucial: aqui, as salamandras estão desenhadas de forma completa, morde-se a própria cauda formando um círculo perfeito (o Ouroboros). Isso simboliza que o fogo aqui já encontrou sua maturidade e o seu ciclo de poder está completo; ele sabe exatamente o tamanho da sua força.",
+        "A Empunhadura Firme do Bastão: Na mão direita, o guerreiro segura o grande bastão de madeira de forma firme e vertical, erguido ao lado de seu corpo. Os brotos verdes continuam presentes, indicando que a sua missão ainda está ligada ao crescimento, à criatividade e à conquista de novos projetos. Ele carrega sua ferramenta de poder como uma bandeira e uma arma de vanguarda.",
+        "A Conquista do Território: A presença de um cenário árido reitera que o Fogo precisa de espaço aberto para queimar livremente. As pirâmides representam os grandes monumentos e metas que o Cavaleiro pretende alcançar ou deixar para trás com sua velocidade. Ele está cruzando o terreno da matéria de forma rápida e incisiva."
       ],
     },
     {
@@ -2068,10 +2091,13 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "O Bastão Entalhado: Diferente do bastão rústico do Pajem, o da Rainha é trabalhado e esculpido, indicando o refinamento da energia vital.",
-        "As Mãos no Ventre: Ela é representada com as mãos sobre o baixo ventre, o que reforça sua conexão com o centro sexual e criativo.",
-        "A \"Terceira Mão\": Jodorowsky destaca a presença de uma pequena mão artificial amarela, sugerindo uma assistência externa ou um desdobramento de sua capacidade de agir.",
-        "Olhar Interno: Ao contrário dos Reis, que olham para o horizonte, as Rainhas tendem a estar absortas em seu próprio símbolo ou centro interno.",
+        "Pernas Afastadas: A Rainha senta-se no trono com os braços abertos e as pernas visivelmente afastadas sob a túnica amarela. Essa postura, incomum para as figuras femininas da época da ilustração, denota extrema autoconfiança, franqueza, falta de inibição e uma energia acolhedora, porém firmemente estabelecida.",
+        "O Girassol na Mão Esquerda: Na mão esquerda, ela segura um grande girassol. Essa flor é o símbolo máximo da energia solar, da alegria de viver, da fertilidade, da vitalidade e da capacidade de sempre buscar a luz (ecoando a atmosfera vibrante do Arcano XIX, O Sol).",
+        "Os Leões Entalhados no Trono: O trono de pedra traz cabeças de leões entalhadas nos braços. O leão é o rei da selva, associado astrologicamente ao signo de Leão (elemento Fogo), representando a coragem, a nobreza, o orgulho saudável e a autoridade natural.",
+        "A Tapeçaria de Leões e Girassóis: Atrás dela, o estofo ou tapeçaria do trono exibe leões vermelhos rampantes alternados com girassóis. O fundo vermelho da tapeçaria denota a intensidade de sua paixão e força criativa, que servem de apoio para o seu reinado.",
+        "O Gato Preto: O gato preto adiciona uma camada profunda de mistério e intuição à carta. Enquanto o Fogo pode ser puramente extrovertido, o felino conecta a Rainha ao mundo do ocultismo, da magia, dos instintos aguçados e da independência espiritual. Ele simboliza que ela possui um lado invisível, intuitivo e independente que não pode ser facilmente domesticado.",
+        "O Bastão Vivo: Na mão direita, ela segura firmemente o seu longo bastão de madeira, que está apoiado diretamente no solo. Dele brotam folhas verdes, reafirmando que o seu governo gera vida, crescimento e inspiração prática para a comunidade.",
+
       ],
     },
     {
@@ -2103,9 +2129,13 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "O Cetro Gigante: O Rei segura o maior pau de toda a série, que se apoia no chão (no calcanhar) e sobe até tocar seu chapéu, simbolizando a conexão entre a realidade terrestre e a inteligência espiritual.",
-        "A Armadura: Sob o traje real, ele veste uma armadura, indicando que sua natureza fundamental é a de um combatente pronto para a ação.",
-        "O Olhar para o Horizonte: Diferente da Rainha, que olha para o próprio símbolo, o Rei olha para além das fronteiras de seu reino, ciente do mundo exterior onde deve agir.",
+        "Inclinado para a Ação: Ao contrário de outros reis do Tarot que sentam-se de forma estática e frontal, o Rei de Paus está posicionado de perfil/diagonal, com o corpo visivelmente inclinado para a frente.",
+        "O Manto e o Estofo Amarelo: O trono é revestido por uma tapeçaria amarela vibrante, decorada com leões pretos e salamandras. O leão, símbolo astrológico de Fogo, reforça sua coragem indomável e sua realeza natural.",
+        "A Conclusão do Ciclo: Assim como vimos no Cavaleiro, as salamandras na tapeçaria do Rei estão desenhadas de forma circular, mordendo a própria cauda (Ouroboros). Isso demonstra o controle absoluto e maduro que ele possui sobre seus impulsos e sobre o elemento Fogo. Suas paixões não o queimam; elas trabalham para ele.",
+        "A Salamandra no Chão: No canto inferior direito, bem ao lado da base do trono, vemos uma pequena salamandra preta viva caminhando no chão. Esse detalhe conecta o Rei diretamente à natureza essencial e pura do seu elemento. Ele mantém seus pés (sua fundação) próximos à realidade prática e aos elementais que dão vida à sua força criativa. É um lembrete visual de que sua autoridade deriva de uma conexão genuína com sua própria essência instintiva e vital.",
+        "O Manto de Fogo: O Rei veste uma túnica vermelha intensa sob um manto verde e amarelo que cai sobre seus ombros. O vermelho vivo evoca a paixão e o sangue do guerreiro, enquanto o amarelo destaca sua inteligência estratégica e clareza de propósito.",
+        "A Coroa Dourada: Na cabeça, ele ostenta uma coroa dourada com pontas que emulam línguas de fogo estilizadas. Sob ela, uma proteção vermelha cobre sua nuca. Essa coroa simboliza uma mente que é constantemente coroada por ideias brilhantes, ousadas e inspiradoras.",
+        
       ],
     },
     {

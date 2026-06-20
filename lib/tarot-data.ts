@@ -2167,11 +2167,12 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "O Templo/Catedral: No Tarot de Marselha, o Ás de Copas assemelha-se a um edifício sagrado com sete torres, simbolizando que o amor é uma construção cuidadosa.",
-        "Base Cor de Carne: Indica que os sentimentos estão enraizados na carne viva e na experiência humana presente, mantendo-se sempre renovados e \"virgens\".",
-        "A Mão e a Taça Transbordante: Em versões como a de Waite, uma mão sai das nuvens oferecendo uma taça da qual a água transborda, representando o transbordamento da alegria e do afeto.",
-        "A Pomba: Símbolo de paz, amor e espiritualidade que desce sobre o cálice, indicando que a energia emocional é um dom divino.",
-        "Palmas Azuis e Flores: Representam a intuição pura e os cinco sentidos integrados na experiência amorosa.",
+        "A Mão que Surge da Nuvem: Assim como no Ás de Paus, uma grande mão direita e luminosa emerge de uma nuvem angelical no lado direito da imagem. Ela flutua no ar e sustenta a taça, indicando que este novo começo emocional ou espiritual é um presente do invisível, uma dádiva do inconsciente ou do divino.",
+        "O Cálice de Ouro: A taça é imensa, dourada e ornamentada. Na sua parte frontal, há uma gravação que se assemelha a uma letra \"W\" invertida ou a uma representação de três arcos/portais estilizados, frequentemente associada à receptividade pura e ao útero cósmico.",
+        "As Cinco Correntes de Água: Do topo da taça, jorram cinco correntes contínuas de água que caem em direção ao oceano abaixo. Essas cinco correntes simbolizam os cinco sentidos humanos totalmente purificados e preenchidos pela alma. Elas também representam a abundância dos canais emocionais: o sentimento aqui não é contido, regulado ou econômico; ele transborda ativamente para preencher a realidade.",
+        "A Pomba da Paz e a Hóstia: Descendo diretamente do topo da carta, vemos uma pomba branca de asas abertas mergulhando de cabeça em direção ao cálice. Na tradição ocidental, a pomba é o símbolo universal do Espírito Santo, da paz e da pureza divina. Em seu bico, ela carrega uma pequena hóstia ou medalhão marcado com uma cruz, que ela deposita dentro da taça. Esse elemento visual transforma o cálice em uma metáfora do Santo Graal, mostrando que o verdadeiro amor e a empatia genuína descritos nesta carta são vias de iluminação espiritual e transcendência.",
+        "As Gotas de Água Flutuantes: Ao redor da taça e da mão divina, flutuam cerca de 26 gotas de água em formato de faíscas ou da letra hebraica Yod. Essas gotas não estão caindo; elas parecem flutuar no espaço como partículas de pura energia vital e espiritual. Elas representam a fertilidade de ideias, sentimentos e conexões que se espalham pelo ambiente quando nos permitimos abrir o coração.",
+        "O Mar de Lírios d'Água: A base da imagem é dominada por um mar azul e calmo, cuja superfície está repleta de lírios d'água verdes e flores de lótus desabrochando. O lótus e o lírio d'água são plantas que mantêm suas raízes no fundo lamacento, mas crescem através da água para desabrochar de forma imaculada sob a luz do sol. Visualmente, isso simboliza a evolução e o despertar da consciência através dos sentimentos, mostrando que até as emoções mais profundas e ocultas podem florescer em algo belo e sagrado."
       ],
     },
     {
@@ -2203,10 +2204,12 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "A Fênix e os Anjos: No Tarot de Marselha, dois anjos (um deles cego, indicando que o coração guia a escolha) revelam uma Fênix vermelha, símbolo do amor que morre e renasce das cinzas como força universal.",
-        "Os Peixes e a Flor: Dois animais (peixes) lambem uma flor imensa, simbolizando a divisão narcísica do \"eu\" necessária para projetar a alma no ser amado.",
-        "O Casal (Estilo Waite): Um homem e uma mulher olham-se nos olhos, representando a união equilibrada das energias masculina e feminina.",
-        "O Leão Alado: Acima do casal, simboliza paixão e transformação.",
+        "A Conexão Olho no Olho: Um homem e uma mulher estão posicionados frente a frente. Eles se olham diretamente nos olhos, denotando total presença, sintonia e entrega mútua.",
+        "O Brinde / A Partilha: Cada um segura uma taça de ouro à mesma altura. O homem estende a mão esquerda e a mulher a mão direita em direção ao outro, indicando uma troca equilibrada de afeto. Não há desigualdade ou submissão; as duas taças operam na mesma frequência de recepção e doação.",
+        "As Vestes Complementares: O homem veste uma túnica com detalhes amarelos e pretos, com uma capa em tons de marrom e vermelho. A mulher veste um manto azul claro e branco (cores tradicionalmente ligadas à intuição, à pureza emocional e à Sacerdotisa). Juntos, eles representam o casamento místico do masculino e do feminino (Animus e Anima) dentro e fora do ser.",
+        "O Caduceu de Mercúrio: Entre eles, paira um caduceu dourado, com duas serpentes entrelaçadas e uma esfera alada no topo. O caduceu é um símbolo clássico da comunicação, do comércio e da troca de energia. Ele reforça a ideia de que a relação representada por esta carta é uma via de mão dupla, onde o fluxo de sentimentos, ideias e energia é equilibrado e harmonioso.",
+        "A Cabeça de Leão Alada: No topo do Caduceu, coroando a união, ergue-se uma imensa cabeça de leão vermelha com asas abertas. O leão vermelho representa a paixão primordial, o desejo, o fogo do instinto sexual e a energia vital. No entanto, por possuir asas e estar posicionado acima do Caduceu, esse instinto animal não é bruto ou destrutivo; ele foi espiritualizado e elevado pela pureza dos sentimentos das duas pessoas. É a união perfeita entre o amor romântico e a atração física.",
+        "A Casa de Campo e o Cenário Verdejante: Ao fundo, vemos uma casa de campo aconchegante, cercada por árvores verdes e um céu azul claro. Esse cenário idílico reforça a ideia de que o relacionamento simbolizado por esta carta é um refúgio seguro, um lar emocional onde ambos os parceiros podem crescer e florescer juntos.",
       ],
     },
     {
@@ -2238,9 +2241,15 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "Estrutura de Copas: No Tarot de Marselha, a copa superior parece repousar sobre um coração formado pelos talos de duas flores (possivelmente papoulas, sugerindo embriaguez emocional), enquanto as duas copas da base representam o casal (animus e anima) que sustenta esse sonho.",
-        "A Trindade Divina: A forma vermelha na base, com três pétalas laranja, simboliza a divindade andrógina, indicando que esse amor ideal é uma projeção do amor divino.",
-        "As Três Mulheres: Em baralhos estilo Waite, a imagem de três mulheres celebrando e brindando reforça o aspecto de amizade e felicidade compartilhada.",
+        "O Círculo de Confiança: Três mulheres estão posicionadas muito próximas, formando um círculo com seus corpos. Elas estão dançando, o que denota fluidez, movimento harmônico e a celebração espontânea do momento presente.",
+        "O Brinde Elevado: Cada uma delas ergue uma taça dourada bem acima de suas cabeças, cruzando os braços no centro. Esse gesto visual mostra que elas estão compartilhando e brindando às mesmas vitórias ou sentimentos. Não há segredos ou isolamento; a emoção é colocada no alto para que todas celebrem juntas.",
+        "Rostos Voltados umas para as Outras: Seus olhares se cruzam no centro do círculo, reforçando os laços de afeto, sororidade e reconhecimento mútuo.",
+        "A túnica branca e o manto vermelho: A mulher de costas para o espectador combina o branco (pureza de intenção, inocência e espiritualidade) com um manto vermelho-escuro (paixão, vitalidade e força de ação).",
+        "O vestido dourado/marrom: À direita, a túnica em tons de terra e dourado evoca a colheita, a fertilidade prática, a estabilidade e os frutos reais obtidos no plano material.",
+        "O vestido branco: À esquerda, o traje predominantemente claro acentua a dimensão da paz, da cura emocional e da leveza.",
+        "A Grinalda e os Cabelos Adornados: Duas das mulheres usam grinaldas de folhas e flores entrelaçadas em suas cabeças, e ramos vegetais parecem adornar seus penteados. Coroar a cabeça com elementos da natureza é um costume antigo de festivais de primavera e rituais de colheita (como o Beltane ou festas dionisíacas). Simboliza que suas mentes estão alinhadas com os ciclos naturais da vida, celebrando o florescimento após períodos de esforço ou inverno interno.",
+        "A Abundância da Terra: Aos pés das mulheres, o solo está repleto de uma vegetação rasteira rica, onde se destacam grandes abóboras, cachos de uvas roxas e uma profusão de frutas e folhas acumuladas. Esse detalhe transforma a carta em um símbolo claro de colheita bem-sucedida. O elemento Água (emoções) nutriu a terra de tal forma que ela transbordou em sustento e beleza física. Mostra que a alegria do grupo tem um fundamento real: há motivos concretos para festejar.",
+
       ],
     },
     {
@@ -2272,9 +2281,14 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "A Estrutura (Tarot de Marselha): As duas copas da base sustentam as duas superiores, indicando um desejo de elevação espiritual a partir de uma base emocional segura.",
-        "A Figura Solitária (Estilo Waite): Um homem sentado sob uma árvore ignora uma taça oferecida por uma mão vinda de uma nuvem, simbolizando alguém tão absorvido em seus pensamentos negativos que não vê as bênçãos sendo oferecidas pelo universo.",
-        "Cores e Ramos: As folhagens sugerem que a estabilidade é necessária como base para o crescimento, mas se não houver movimento, a energia pode se petrificar.",
+        "Braços Cruzados: Um jovem está sentado na grama, com as costas apoiadas no tronco de uma árvore. Ele mantém os braços firmemente cruzados sobre o peito e as pernas também cruzadas. Essa linguagem corporal é universal para fechamento, isolamento defensivo e indisponibilidade para o que está ao seu redor.",
+        "O Olhar Direcionado para Baixo: Sua cabeça está ligeiramente inclinada e seus olhos estão fixos no chão, focados exclusivamente nas três taças à sua frente. Ele ignora completamente o resto do cenário, simbolizando alguém preso no próprio monólogo mental ou em desilusões passadas.",
+        "As Roupas: Ele veste uma túnica amarela (cor ligada ao intelecto e aos pensamentos, mostrando que ele está racionalizando demais suas emoções) com mangas e gola em vermelho vivo (a paixão ou energia vital que está contida e guardada no momento).",
+        "As Taças Estáveis, mas Ignoradas: À sua frente, três taças douradas estão perfeitamente alinhadas na grama. Elas representam suas conquistas e experiências emocionais anteriores (uma clara referência à estrutura do Três de Copas). No entanto, ele parece entediado com elas; a estabilidade virou rotina.",
+        "A Dádiva da Nuvem: Vinda do lado esquerdo da carta, uma nuvem cinzenta e branca paira no ar. Dela, estende-se uma mão direita (assim como nos Ases) oferecendo uma quarta taça dourada. Esta taça representa uma nova proposta, um insight espiritual ou uma nova oportunidade afetiva que surge do inconsciente ou do destino.",
+        "A Recusa Cega: Como o jovem está de olhos fixos no chão e imerso em sua apatia, ele sequer nota a presença da mão ou da taça flutuante. Ele está cego para as novas possibilidades porque está excessivamente focado no que já tem ou no que perdeu.",
+        "A Árvore e o Terreno Verdejante: O rapaz está abrigado sob a sombra de uma grande árvore frondosa. A árvore oferece proteção e uma base sólida (a Terra sustentando a Água), mostrando que o período de isolamento ocorre em um ambiente seguro e fértil. A grama é verde e as colinas ao fundo sugerem estabilidade e paz material. O problema retratado na carta não é uma crise externa ou escassez física (como veremos no Cinco de Ouros), mas sim um vazio estritamente interno e motivacional.",
+        "O Céu Cinza Claro/Esverdeado: O fundo da imagem apresenta um céu de coloração pálida, quase neutra. Diferente do azul brilhante do Três de Copas ou do amarelo solar das cartas de Paus, este céu limpo, mas sem cor vibrante, acentua a sensação de neutralidade emocional, monotonia e falta de entusiasmo que define a experiência do Quatro de Copas."
       ],
     },
     {
@@ -2304,8 +2318,13 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "O Templo Floral (Marselha): Apresenta um recipiente central de onde brota uma construção exuberante que lembra um pagode ou templo, simbolizando o entusiasmo da fé e a busca pelo divino.",
-        "As Taças Derramadas (Waite): A imagem clássica mostra um homem focado em três taças caídas, simbolizando o luto por fracassos, enquanto ignora as duas taças cheias atrás dele e a ponte para a estabilidade ao fundo.",
+        "A Capa Escura: No centro da imagem, uma figura humana está de pé, totalmente envolta em uma longa capa preta que cobre todo o seu corpo. O preto é a cor universal do luto, do recolhimento, do mistério e da depressão. A capa funciona como uma barreira visual entre a pessoa e o mundo, mostrando que ela está completamente isolada em sua própria dor.",
+        "A Postura de Desalento: A cabeça da figura está visivelmente caída e inclinada para a frente, com o olhar fixado diretamente no chão. Essa linguagem corporal transmite derrota, desespero e a incapacidade temporária de erguer a cabeça para olhar o horizonte.",
+        "O Foco na Perda: Diretamente diante da figura, três taças douradas estão caídas e viradas no chão. Delas, derrama-se um líquido vermelho (vinho ou sangue) e um líquido verde/azul. Essas três taças representam os projetos que falharam, os relacionamentos que terminaram ou as expectativas que foram quebradas. O líquido derramado simboliza o desperdício de energia vital, as lágrimas choradas e a sensação de que algo precioso se perdeu de forma irreversível.",
+        "A Esperança Ignorada: Atrás da figura, permanecem duas taças douradas perfeitamente erguidas e intactas. Elas contêm o potencial emocional que sobreviveu à crise. O grande drama visual do Cinco de Copas está na perspectiva: como a figura está de costas e com os olhos fixos no chão, ela sequer sabe que essas duas taças ainda estão lá. Ela está cega para o que restou porque escolheu focar exclusivamente no que foi perdido.",
+        "A Água em Movimento: Ao lado da figura, corre um rio azul que separa o terreno atual da paisagem ao fundo. O rio representa o fluxo contínuo do tempo e das emoções, lembrando que a dor atual também passará.",
+        "A Ponte de Pedra: Mais ao fundo, vemos uma sólida ponte de pedra arqueada que cruza o rio, levando a um castelo ou fortaleza segura na outra margem. A ponte é o símbolo visual do caminho de saída. Ela mostra que há uma estrutura racional e segura para atravessar o período de luto e alcançar a estabilidade novamente, contanto que a pessoa decida se mover.",
+        "O Céu Cinzento e Desolado: O fundo da carta é dominado por um céu inteiramente cinza, nublado e sem cor. Diferente do azul brilhante das celebrações passadas, este céu reflete o inverno da alma, uma atmosfera opaca onde a alegria parece ter sido completamente drenada do ambiente."
       ],
     },
     {

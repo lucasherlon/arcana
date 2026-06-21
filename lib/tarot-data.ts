@@ -2355,9 +2355,13 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "O Eixo Espelhado: No Tarot de Marselha, a carta apresenta duas colunas de três copas que se enfrentam em torno de um eixo central que funciona como um espelho.",
-        "As Crianças (Estilo Waite): A presença de duas crianças em baralhos modernos é um sinal claro de inocência e da pureza dos sentimentos.",
-        "Direção das Hachuras: Sendo uma carta do \"quadrado Céu\", as linhas dentro das copas sobem da esquerda para a direita, indicando que as energias terrestres estão sendo extraídas para se elevarem ao amor espiritual.",
+        "O Gesto de Generosidade: No centro da imagem, um menino (ou um jovem vestido com roupas antigas) inclina-se suavemente para entregar uma taça dourada cheia de flores brancas a uma menina menor. Esse ato visual representa a partilha espontânea, o carinho sem segundas intenções e a pureza nas relações humanas.",
+        "As Roupas e o Capuz Vermelho: O jovem usa um capuz e meias vermelhas (símbolo de energia vital, paixão inocente e calor emocional), combinados com uma túnica azul (intuição e paz de espírito). A menina usa um vestido amarelo e azul com um manto vermelho, espelhando as cores do rapaz e indicando uma perfeita harmonia e reciprocidade infantil entre eles.",
+        "Os Lírios Brancos dentro das Taças: Das seis taças douradas presentes na cena, todas estão preenchidas com flores brancas de cinco pétalas (lírios ou flores de lótus estilizadas). O branco na iconografia do Tarot sempre remete à pureza, à inocência, à verdade e à intenção limpa. O fato de as taças conterem flores — e não água ou vinho — mostra que as emoções aqui amadureceram, transformando-se em algo belo, estático e imaculado, como as boas lembranças que guardamos na memória.",
+        "Quatro Taças no Primeiro Plano: Na parte inferior da imagem, quatro taças com flores estão alinhadas lado a lado, funcionando quase como uma barreira protetora entre o observador e a cena.",
+        "Uma na Mão e Uma no Pedestal: A quinta taça está sendo passada entre as crianças, e a sexta está posicionada atrás do jovem, em cima de um pedestal ou pedestal de pedra marcado com um padrão em \"X\". Essa organização espacial evoca a sensação de uma coleção preciosa ou de um altar dedicado ao que é sagrado e nostálgico.",
+        "A Segurança do Lar: Ao fundo, erguem-se casas de tijolos com telhados rústicos e uma grande torre de castelo ou fortaleza de pedra. As construções são sólidas e cercam o pátio onde as crianças estão. Esse ambiente visual fechado simboliza proteção contra as tempestades e perigos do mundo exterior. É o espaço seguro da infância ou do lar, onde a maldade não entra. Mostra que, psicologicamente, a mente se refugiou em um lugar onde se sente completamente segura e acolhida.",
+        "O Guarda ou Figura ao Fundo: Se olharmos atentamente para o lado esquerdo, ao fundo, há uma figura adulta caminhando com um bastão ou lança, afastando-se da cena. Essa figura costuma ser interpretada visualmente como um guarda ou sentinela que patrulha os limites do castelo. Sua presença reforça que o pátio está protegido; os adultos e as preocupações do mundo maduro estão do lado de fora, permitindo que a inocência das crianças floresça sem ameaças."
       ],
     },
     {
@@ -2389,8 +2393,15 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "Eixo de Três Copas (Marselha): Apresenta três copas centrais que formam um caminho evolutivo: a copa da base representa a criação ativa do mundo emocional com aspiração ao céu; a copa central simboliza o amor em gestação, íntimo e secreto; a copa superior representa o amor que chega aos confins do universo, a doação total.",
-        "Copas nas Nuvens (Waite): Ilustra as diversas opções como visões flutuantes, sugerindo que essas oportunidades podem ser apenas frutos da imaginação do consulente.",
+        "A Sombra do Pensador: No canto inferior esquerdo, vemos a silhueta escura de um homem de costas. Ele está obscurecido, indicando que sua consciência e racionalidade estão em segundo plano; ele está hipnotizado pela visão à sua frente.",
+        "As Sete Taças Flutuantes: Sete taças douradas flutuam sobre uma densa nuvem cinzenta e azulada que domina a cena. O fato de estarem em nuvens deixa claro que nenhuma dessas opções é sólida, real ou está fincada na terra ainda — são projeções mentais, castelos de areia e desejos abstratos.",
+        "A Cabeça Humana: Representa o desejo de status, inteligência, reconhecimento social ou o surgimento de uma nova parceria/relacionamento que mexe com a identidade.",
+        "A Figura Coberta/Luminosa: Uma silhueta envolta em um manto brilha como um anjo ou fantasma. Simboliza a busca pelo misticismo, a necessidade de iluminação espiritual ou, pelo lado negativo, os segredos ocultos e o medo do desconhecido.",
+        "A Serpente: O símbolo clássico da tentação, do desejo sexual, da traição ou da sabedoria oculta que exige cautela para não ser picado.",
+        "O Castelo: Representa o desejo de segurança, estabilidade, poder ou um sonho de vida idealizada que pode não ser realista.",
+        "A Joia: Simboliza a busca por riqueza, luxo, status ou um amor materialista que pode ser superficial.",
+        "A Coroa de Louros: Representa o desejo de poder, liderança, reconhecimento ou um relacionamento onde se é tratado como realeza, mas que pode ser ilusório.",
+        "O Dragão Vermelho: Uma criatura mitológica que cospe fogo. Representa os medos profundos, a agressividade contida, os vícios ou os perigos reais que se disfarçam de oportunidade apetitosa."
       ],
     },
     {
@@ -2422,10 +2433,13 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "Estrutura de Preenchimento (Marselha): É a carta mais \"cheia\" de sua série, com copas, flores e folhagens ocupando todo o espaço disponível.",
-        "O Centro Ativo: Possui um círculo central que representa um olho ou testemunho ativo, cercado por pétalas que sugerem um movimento dinâmico similar a uma suástica.",
-        "Eixo Vertical: As copas dispostas verticalmente simbolizam o amor pela terra (na base) e o amor pelo cosmos (no topo).",
-        "A Figura que se Afasta (Rider-Waite): Mostra um homem caminhando para longe de oito taças empilhadas, sob uma lua que parece triste, simbolizando que ele percebeu que a melhor ação é ir embora.",
+        "A Pilha Organizada: No primeiro plano, vemos oito taças douradas cuidadosamente empilhadas. A base possui cinco taças e o topo possui três.",
+        "O Espaço Vazio: Diferente do Cinco de Copas, onde as taças estavam caídas e quebradas, aqui as taças estão intactas, de pé e organizadas. O homem construiu algo sólido e investiu muito sentimento nelas.",
+        "De Costas para o Passado: Uma figura masculina, apoiada em um cajado, está de costas para o espectador e para as suas próprias taças. Ela está caminhando em direção às montanhas, abandonando o que construiu. É uma partida que nasce da sua própria vontade, e não por força de uma tragédia externa.",
+        "O Manto e as Botas Vermelhas: O homem veste uma capa e botas de um vermelho vibrante. O vermelho representa a paixão, a coragem e a força vital (o Fogo) que ele está usando para se mover. Ele não está partindo por depressão ou fraqueza; ele está usando sua energia vital para buscar algo mais autêntico em outro lugar.",
+        "As Montanhas Altas e o Terreno Íngreme: O caminho do homem o leva por um terreno rochoso, árduo e em direção a grandes montanhas escuras ao fundo. Na iconografia do Tarot, as montanhas representam os altos desafios, as grandes jornadas espirituais e a busca pela sabedoria superior (como o topo da montanha do Ermitão). Mostra que a jornada que ele escolheu não será fácil nem confortável, mas é necessária para a evolução da sua consciência.",
+        "A Lua Crescente e Minguante: No céu noturno azul-escuro, brilha uma grande lua dourada com um rosto expressivo, que parece olhar para baixo com um semblante sério ou melancólico. O desenho une uma Lua Crescente e uma Lua Minguante (ou um eclipse parcial), simbolizando fases de transição profunda, mistério e a influência do inconsciente. A noite e a lua reforçam que esta é uma busca interna, guiada pela intuição e pela necessidade de encerrar um ciclo emocional que já não nutre mais a alma.",
+        "A Água entre as Margens: O homem caminha contornando um corpo de água escura ou um rio que corta a paisagem. A água representa o reino das emoções que ele está aprendendo a dominar e a atravessar. Ele está deixando as águas paradas e conhecidas do pátio para se aventurar nas correntes desconhecidas da sua própria psique."
       ],
     },
     {
@@ -2456,8 +2470,12 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "Despojamento e Renovação (Marselha): Apresenta-se como uma estrutura de [6 + 3]. As três copas inferiores, onde as folhagens parecem murchas, representam o passado que deve ser sacrificado. As seis copas superiores são exaltadas, apontando para dimensões emocionais mais amplas e universais.",
-        "Abundância e Sucesso (Rider-Waite): Mostra um homem sentado confortavelmente à frente de nove taças cheias, simbolizando que ele superou as decepções anteriores (do Oito de Copas) e agora desfruta de uma situação positiva e feliz.",
+        "O Semblante de Satisfação: No centro da cena, um homem de meia-idade está sentado em um banco rústico de madeira. Ele exibe um sorriso sereno e plenamente satisfeito no rosto, transmitindo a sensação de quem alcançou exatamente o que desejava e agora desfruta do momento.",
+        "Braços Cruzados (O Sentido de Posse): Ele mantém os braços firmemente cruzados sobre o peito. Diferente do Quatro de Copas, onde os braços cruzados indicavam apatia e fechamento defensivo para o mundo, aqui o gesto simboliza auto-suficiência, contentamento e orgulho. Ele está guardando e protegendo suas próprias conquistas.",
+        "As Vestes Suntuosas: O homem usa uma túnica longa, branca com listras escuras, e um chapéu/turbante alaranjado com uma pena. Suas roupas sugerem uma posição de conforto material, riqueza e bem-estar físico.",
+        "A Disposição em Arco das Nove Taças: Atrás do homem, elevando-se acima de sua cabeça, nove taças douradas estão perfeitamente alinhadas sobre uma estrutura ou mesa semicircular coberta por um tecido azul claro. O arranjo em forma de arco ou coroa funciona visualmente como uma vitrine de troféus. As taças estão de pé, intactas e organizadas, mostrando que suas emoções, relacionamentos e desejos estão em perfeita ordem e segurança. Elas emolduram o homem, indicando que ele é o centro e o arquiteto daquela abundância.",
+        "A Cortina de Intimidade: O tecido azul que cobre a mesa e cai como uma cortina ao fundo delimita um espaço privado. O azul reforça a ligação com o elemento Água (emoções, paz de espírito e intuição), sugerindo que essa satisfação também traz calmaria interna.",
+        "O Céu/Fundo Amarelo: O plano de fundo da carta é preenchido por um amarelo vivo e sólido. Na gramática visual do Tarot, o amarelo representa a energia solar, a vitalidade, a clareza mental, a alegria e a manifestação do sucesso na realidade tangível. Ele ilumina toda a cena, eliminando qualquer sombra de dúvida ou melancolia das cartas anteriores (como o Cinco ou o Sete de Copas)."
       ],
     },
     {
@@ -2488,9 +2506,13 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "As Nove Copas e a Décima Selada: A carta apresenta nove copas abertas e cheias, simbolizando a experiência emocional através dos cinco sentidos. A décima copa, posicionada acima das outras, está selada, indicando que a exigência emocional cessou e o coração agora funciona como um instrumento espiritualizado.",
-        "Os Sete Gomos: Enquanto as copas abertas possuem cinco subdivisões, a décima copa possui sete, que correspondem simbolicamente aos sete centros nervosos ou chakras.",
-        "O Germe do Próximo Ciclo: No topo da décima copa, desenha-se uma figura florida dentro de um círculo que lembra uma moeda, anunciando que o Dez de Copas está prestes a se transformar no Ás de Ouros.",
+        "Braços Erguidos: No canto esquerdo inferior, vemos um homem e uma mulher de costas para o observador. Ambos estão com um dos braços carinhosamente entrelaçados na cintura do parceiro e o outro braço estendido e erguido em direção ao céu. Esse gesto corporal aberto e direcionado para o alto é um símbolo universal de louvor, gratidão e reverência pelas bênçãos recebidas da vida. Eles não estão apenas testemunhando a beleza do momento, mas celebrando-a ativamente juntos.",
+        "Inocência e Continuidade: À direita do casal, duas crianças (um menino e uma menina) dão-se as mãos e dançam alegremente em círculos. A presença dos filhos na cena traz a ideia de posteridade, herança emocional e estabilidade familiar. A dança infantil evoca o retorno daquela pureza espontânea que vimos lá no Seis de Copas, mostrando que a alegria nessa casa é genuína, livre de tensões e renovável.",
+        "A Aliança Cósmica: Dominando a metade superior da carta, um arco-íris brilhante corta o céu azul. Na tradição esotérica e mitológica, o arco-íris é o símbolo supremo da promessa cumprida, da paz após a tempestade e da união entre o divino e o terreno.",
+        "As Dez Taças Alinhadas: Incrustadas e flutuando perfeitamente dentro do arco-íris, dez taças douradas formam um arco invertido que espelha a curvatura celeste. Elas estão de pé e preenchidas, simbolizando que a jornada emocional atingiu sua plenitude transbordante. Não há lacunas na estrutura (ao contrário do espaço vazio do Oito de Copas); o ciclo está perfeitamente fechado e completo.",
+        "A Casa no Horizonte: Ao fundo da cena, aninhada entre árvores verdes e colinas suaves, vemos uma pequena e aconchegante casa de campo com telhado vermelho. Essa casa representa o conceito material e espiritual de \"lar\". Mostra que aquela felicidade não é abstrata ou passageira (como no Sete de Copas), mas possui raízes, estabilidade e um porto seguro e físico onde se manifestar.",
+        "O Rio que Corre: Próximo à casa, há um rio azul que corta o terreno fértil. O rio, que em cartas anteriores simbolizava transição ou o fluxo do luto (como no Cinco de Copas), aqui representa a fluidez natural e pacífica da vida, irrigando a terra e garantindo que os sentimentos continuem se renovando de forma saudável."
+
       ],
     },
     {
@@ -2522,10 +2544,11 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "A Copa com Véu: O pajem segura uma copa aberta, mas a cobre parcialmente com um véu, simbolizando o medo de expor sua sensibilidade ou o desejo de proteger seus sentimentos.",
-        "Cabeça Despida: Diferente dos pajens de outros naipes que usam chapéu, o Pajem de Copas caminha com a cabeça descoberta e coroada de flores, indicando um idealismo puro e uma mente aberta às emoções.",
-        "Direção dos Pés: Seus pés se dirigem para a esquerda (lado da receptividade e do coração), mas seus passos são curtos e tímidos, reforçando a ideia de uma alma que avança com cautela no mundo dos afetos.",
-        "O Peixe na Taça: Em versões como a de Waite, um peixe emerge da taça, simbolizando inspiração, notícias inesperadas ou a própria manifestação da intuição vinda das profundezas do inconsciente.",
+        "O Inconsciente Comunicativo: O elemento visual mais marcante e famoso desta carta é um peixe real que coloca a cabeça para fora da taça dourada que o Pajem segura. O Pajem não parece assustado; pelo contrário, ele olha para o peixe com curiosidade e atenção, estabelecendo uma conexão direta. Em termos arquetípicos, a taça representa a mente consciente e o peixe simboliza um insight, um sonho, uma inspiração criativa ou uma mensagem direta do fundo do inconsciente que emerge para a superfície. Mostra que ele está perfeitamente sintonizado com sua intuição, por mais bizarra ou inesperada que a mensagem pareça.",
+        "A Mente Sonhadora: O Pajem usa um adereço de cabeça muito característico: um chapéu ou boina azul com um longo lenço azul-esverdeado que flui suavemente ao redor do seu pescoço.",
+        "A Estampa de Flores: Sua túnica é ricamente decorada com uma estampa de flores rosadas (lírios d'água ou lótus estilizadas) sobre um fundo claro. Esse visual florido e suave reforça sua natureza sensível, artística, romântica e pacífica. Ele não veste armaduras pesadas; sua pele está coberta de arte e natureza.",
+        "As Meias e Mangas Vermelhas: Enquanto o azul e as estampas florais ligam o Pajem à água e à tranquilidade, ele veste meias calças e mangas compridas em um tom de vermelho vivo. O vermelho injeta uma dose necessária de paixão, entusiasmo juvenil e ação à carta. Indica que, apesar de ser um sonhador e viver no mundo da imaginação, ele possui o fogo e o vigor necessários para expressar esses sentimentos e levar suas mensagens adiante no mundo real.",
+        "O Mar Agitado ao Fundo: O Pajem está de pé sobre uma faixa de areia dourada, mas logo atrás dele vemos o mar com ondas sinuosas e bem marcadas. Ao contrário das águas calmas e controladas de outras cartas, esse mar em movimento representa as emoções humanas profundas, mutáveis e às vezes turbulentas. O fato de ele estar de costas para o mar, mas perfeitamente equilibrado e tranquilo, mostra que ele não tem medo das profundezas emocionais; ele extrai delas a sua magia (o peixe) sem se afogar na instabilidade."
       ],
     },
     {
@@ -2557,9 +2580,11 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "A Taça que Guia: No Tarot de Marselha, a copa não é segurada, mas flutua sobre a palma da mão do cavaleiro. Isso simboliza que ele não domina o amor, mas o segue; o coração é o mestre que indica o caminho.",
-        "A Égua Doce: Diferente dos cavaleiros de Paus ou Espadas, que montam garanhões, o de Copas monta uma \"égua doce\", indicando que sua montaria (sua energia vital) é conduzida pela suavidade e não pela força bruta.",
-        "O Cavalo Branco (Estilo Waite): Em versões modernas, o cavalo branco representa poder e pureza, reforçando a ideia de alguém que segue uma causa nobre ou um ideal elevado.",
+        "O Ritmo da Calmaria: Ao contrário dos cavalos empinados ou em disparada dos outros naipes (como Paus e Espadas), o cavalo cinza ou branco do Cavaleiro de Copas caminha em um passo lento, cadenciado e sereno. Isso indica que o Cavaleiro não tem pressa. Ele desfruta da jornada emocional, agindo com diplomacia, gentileza e suavidade. A cor clara do cavalo simboliza a pureza de intenções, a paz e a espiritualidade que guiam suas ações.",
+        "A Túnica com Estampa de Peixes: Sobre a armadura, ele veste uma túnica decorada com peixes vermelhos nadando. O peixe é o símbolo máximo do elemento Água e do inconsciente (como vimos espiando na taça do Pajem). O fato de os peixes serem vermelhos indica que suas emoções profundas e sua intuição estão carregadas de paixão, desejo e vitalidade. Ele é motivado pelo amor e pela expressão artística do que sente.",
+        "As Asas no Elmo e nos Pés: Tanto no elmo quanto em suas botas de armadura, encontramos pequenas asas estilizadas. Esse detalhe visual remete diretamente a Hermes/Mercúrio, o mensageiro dos deuses, sugerindo que este cavaleiro traz consigo mensagens afetivas, propostas de amor ou convites poéticos. As asas também simbolizam uma imaginação fértil, pensamentos elevados e a capacidade de se elevar acima da crueza do mundo material através da arte e do sentimento.",
+        "O Oferecimento Solene da Taça: O Cavaleiro segura uma única taça dourada com a mão direita, estendendo-a para a frente de forma solene, quase como se estivesse oferecendo um brinde ou um presente precioso. Ao contrário do Pajem, ele não está olhando para dentro da taça com surpresa; ele foca no horizonte, sabendo exatamente o valor do afeto ou da proposta que carrega. Ele é o portador do Graal, o mensageiro que convida o outro a partilhar de seus sentimentos.",
+        "A Paisagem Árida e o Rio ao Fundo: Curiosamente, o Cavaleiro cavalga por um terreno que parece plano e árido ao fundo, sob um céu amarelo. No entanto, um rio azul corta a paisagem de forma mansa próximo a ele. Esse contraste reforça que a missão do Cavaleiro de Copas é trazer sensibilidade e frescor emocional para onde há secura. Seu rio de sentimentos irriga o deserto da rotina, transformando o ambiente através do afeto, do romance e da inspiração criativa."
       ],
     },
     {
@@ -2590,10 +2615,11 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "A Copa Fechada: Tanto no Tarot de Marselha quanto no estilo Waite, sua taça possui uma tampa. Isso indica que, embora seja extremamente sensível, ela possui grande autocontrole e guarda seus sentimentos mais profundos sob segredo até que o momento seja o correto.",
-        "O Olhar Fixo: Diferente dos Reis, que olham para o horizonte, a Rainha olha fixamente para sua própria copa, demonstrando estar absorta em sua própria natureza emocional.",
-        "A Espada Sinuosa (Marselha): Jodorowsky destaca que ela segura uma espécie de punhal ou espada de lâmina sinuosa na mão esquerda, simbolizando a defesa de seus sentimentos e uma \"pureza tímida\" que não permite ser usada para outros fins que não o amor.",
-        "Pés no Chão: Apesar de estar rodeada de água (emoções), seu trono e pés estão em terra firme, o que sinaliza que ela não se deixa afogar pelos sentimentos; ela os domina.",
+        "O Mistério Oculto: O elemento visual mais crucial é a taça que ela segura com ambas as mãos. Ao contrário de todas as outras taças do naipe (que são abertas), a taça da Rainha é fechada com uma tampa em forma de cúpula ou igreja e ricamente adornada com querubins ou figuras aladas. Isso simboliza que os pensamentos e sentimentos da Rainha vêm de um lugar sagrado, profundo e inacessível para o observador comum. Ela guarda os mistérios do inconsciente; seus sentimentos não estão expostos de forma leviana, mas são guardados como um tesouro espiritual.",
+        "A Conexão com a Origem: A Rainha está sentada em um trono de pedra localizado exatamente na orla, onde a terra firme encontra a água. Seus pés descansam sobre seixos e conchas coloridas na areia, e a água do mar chega a tocar a base do seu manto. Essa proximidade mostra que ela está em perfeita comunhão com o mar das emoções humanas, agindo como uma ponte entre o consciente (terra) e o inconsciente (mar).",
+        "A Iconografia do Trono: O trono de pedra é esculpido com figuras de pequenos querubins (bebês alados) e conchas marinhas. Um dos querubins é visível na lateral da base do trono, segurando uma concha. Esses adornos reforçam sua ligação com o nascimento, a fertilidade emocional, a doçura e a proteção divina sobre o reino dos sentimentos.",
+        "O Manto Fluido e Texturizado: A Rainha veste uma túnica branca e um manto longo que flui de seus ombros, misturando tonalidades de azul e branco. O padrão visual do tecido possui ondulações que mimetizam perfeitamente as ondas e os reflexos da água. Visualmente, parece que ela está envolta no próprio oceano, mostrando que sua identidade está completamente integrada ao elemento Água.",
+        "O Olhar Fixo e Contemplativo: A Rainha está representada de perfil, com a cabeça levemente inclinada em direção à taça. Seu olhar está inteiramente fixado no objeto sagrado que segura. Esse posicionamento visual indica introspecção profunda. Ela não está prestando atenção no mundo exterior, nos castelos ou nas ações práticas; ela está lendo os sinais internos da alma, decifrando sonhos, premonições e sentimentos ocultos."
       ],
     },
     {
@@ -2625,11 +2651,13 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "O Trono sobre a Água: Em versões como a de Waite, seu trono flutua em águas agitadas, mas sua face permanece completamente serena, simbolizando que ele domina o elemento emocional e não se deixa abalar por crises externas.",
-        "A Copa Aberta: Ao contrário da Rainha de Copas (que mantém sua taça fechada), o Rei segura uma copa aberta e oferecida aos que têm sede de paz, simbolizando que ele já não guarda sentimentos apenas para si, mas os distribui generosamente.",
-        "Peito Largo e Vestes Suaves: Jodorowsky destaca que o lado esquerdo de seu peito é excepcionalmente largo, reforçando sua imensa capacidade de amar, e suas vestes de seda indicam uma natureza espiritualizada e dócil.",
-        "O Olhar para o Horizonte: Como todos os Reis, ele não olha para seu próprio símbolo, mas para o mundo exterior e para o futuro, demonstrando o verdadeiro desprendimento e domínio sobre seu reino.",
-      ],
+        "O Trono Flutuante sobre o Mar Agitado: O Rei está sentado em um trono de pedra cinza que parece flutuar ou estar fixado em um bloco de concreto diretamente sobre as ondas do mar aberto. Ao seu redor, as águas estão visivelmente revoltas e em movimento. Esse contraste visual é a essência da carta: o mundo ao redor ou as emoções internas podem estar em total turbulência, mas o Rei permanece imperturbável, estável e centrado. Ele derrama calma sobre o caos.",
+        "A Emoção Controlada: Na mão direita, ele segura uma grande taça dourada aberta. Ao contrário da Rainha, seus sentimentos estão disponíveis e prontos para serem usados em prol do reino de forma consciente e ponderada. Ele não foca o olhar na taça, mostrando que não é refém do que sente.",
+        "O Cetro do Domínio Sutil: Na mão esquerda, ele segura um cetro dourado cuja ponta imita a forma de uma flor de lótus ou lírio d'água. O cetro reafirma seu poder político e espiritual, mostrando que sua autoridade é exercida através da diplomacia, da compaixão e da sensibilidade, e não pela força bruta.",
+        "O Peixe Saltando: À esquerda, um peixe salta das águas agitadas. O peixe (como vimos no Pajem) representa o inconsciente, os insights e o instinto primitivo. O fato de ele apenas saltar sem desestabilizar a cena mostra que o Rei reconhece e dá liberdade às suas intuições, mantendo-as em harmonia com a razão.",
+        "O Navio Navegando: À direita, um navio de velas vermelhas navega firmemente pelas ondas. O navio simboliza o comércio, a civilização e as jornadas no mundo material. Ele indica que, sob o governo calmo deste Rei, a vida prática e os empreendimentos humanos conseguem seguir seu curso em segurança, atravessando as tormentas emocionais.",
+        "O Colar com o Pingente de Peixe: O Rei usa uma túnica azul-esverdeada (a cor do mar) sob um manto amarelo vivo revestido com uma gola vermelha. Sobre o peito, destaca-se um colar pesado com um pingente em formato de peixe estilizado. Esse adorno funciona como um selo ou brasão real: ele carrega o símbolo das profundezas colado ao coração, mostrando que sua verdadeira força e sabedoria nascem da sua imensa inteligência emocional."
+      ]
     },
     {
       title: "O Rei de Copas em Leituras",
@@ -2660,9 +2688,14 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "A Mão e a Nuvem (Marselha): Uma mão surge do exterior de uma nuvem, mostrando o dorso da mão, indicando um impulso que é periférico, formal e reflexivo (diferente do Ás de Paus, que mostra a palma).",
-        "A Coroa: A espada atravessa uma coroa, o que simboliza o mental superando seus limites individuais e racionais para alcançar a Consciência cósmica. No estilo Waite, a coroa com o ramo de oliveira e a palma representa o sucesso e a vitória.",
-        "Natureza de Dois Gumes: O símbolo lembra que a abordagem deve ser feita com boa fé e atitude positiva; se usada de forma destrutiva, a \"arma\" pode se voltar contra o autor.",
+        "A Mão Divina que Emerge da Nuvem: Assim como nos outros ases, uma mão branca e luminosa emerge de uma nuvem cinzenta e densa no lado esquerdo da carta. Essa mão representa uma dádiva ou intervenção divina, mas aqui focada na mente. É o lampejo de lucidez, a verdade que é oferecida ao consultante, ou uma súbita clareza mental que surge em meio à confusão (as nuvens).",
+        "A Firmeza do Punho: A mão segura a espada pela empunhadura com enorme firmeza. Não há hesitação; o gesto transmite controle absoluto, retidão e autoridade.",
+        "A Lâmina de Dois Gumes: Uma grande espada de aço ergue-se perfeitamente vertical no centro da cena. A espada aponta para o alto, simbolizando que o intelecto deve ser direcionado para a verdade maior e para a justiça. Sendo uma arma de dois gumes, ela corta para os dois lados, servindo tanto para defender e libertar quanto para destruir e ferir.",
+        "A Coroa de Ouro: A ponta da espada transpassa uma coroa dourada. A coroa simboliza o triunfo, o sucesso e a soberania da mente sobre a matéria. Mostra que o pensamento claro e a verdade são os verdadeiros vencedores.",
+        "O Ramo de Oliveira (Esquerda): Tradicionalmente decorado com pequenas folhas e frutos, simboliza a paz, a reconciliação e a harmonia. Mostra que a justiça e a verdade buscam, em última análise, a pacificação.",
+        "A Folha de Palmeira (Direita): Simboliza a vitória, a resiliência e o triunfo espiritual diante do sofrimento.",
+        "As Seis Centelhas Yods: Flutuando ao redor da lâmina, vemos seis pequenas faíscas amarelas que se assemelham à letra hebraica Yod. Essas centelhas representam a presença da centelha divina, da inteligência cósmica e da luz espiritual que emana daquela espada. Elas indicam que as decisões tomadas sob a influência desta carta estão alinhadas com uma verdade maior.",
+        "A Paisagem Montanhosa e Árida ao Fundo: Na base da carta, abaixo da mão, avistamos uma fileira de montanhas escarpadas e pontiagudas, pintadas em tons frios de cinza e azul, sob um céu claro. Ao contrário das paisagens férteis e floridas do naipe de Copas, este cenário é árido, alto e desprovido de vegetação. Ele reflete o reino do intelecto puro: um lugar de distanciamento emocional, objetividade, lógica e racionalidade fria. Para ver as coisas como elas realmente são, é preciso elevar-se acima do calor das emoções."
       ],
     },
     {

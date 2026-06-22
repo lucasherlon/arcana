@@ -2726,10 +2726,14 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "A Mulher Vendada (Estilo Waite): Uma figura feminina com os olhos cobertos segura duas espadas cruzadas sobre o peito, simbolizando a incapacidade de ver ou a recusa em encarar a realidade para evitar uma escolha difícil.",
-        "A Flor Gigante (Tarot de Marselha): Apresenta uma flor central exuberante cercada por duas espadas curvas que formam um oval; esta flor simboliza o \"devaneio\" e o caos de ideias que ainda não se estabilizaram.",
-        "As Lâminas Negras: No Tarot de Marselha, as lâminas são predominantemente negras, sugerindo que o objetivo final do mental neste estágio é atingir o vazio através da meditação.",
-        "A Lua e a Intuição: A presença da lua (em versões como a de Waite) simboliza o inconsciente; para acessá-lo, o consultente precisa controlar e acalmar a mente racional.",
+        "A Venda nos Olhos: A figura feminina central está com os olhos cobertos por uma venda branca. Isso simboliza que ela está recusando-se a enxergar a realidade dos fatos ou que há um dilema tão grande que ela preferiu \"fechar os olhos\" para o mundo externo. Por outro lado, a venda também aponta para a busca por uma justiça cega e imparcial: ela tenta ignorar as distrações visuais e as aparências externas para tentar tomar uma decisão baseada puramente na lógica interna (ou na negação).",
+        "A Defesa do Coração: Ela segura duas pesadas espadas de aço, uma em cada mão, cruzando-as bem em frente ao peito. Esse gesto em \"X\" forma uma barreira física que protege o seu coração (suas emoções), sugerindo que ela trancou seus sentimentos para não ser vulnerável.",
+        "O Equilíbrio das Forças (Impasse): As espadas apontam para direções opostas, perfeitamente simétricas. Isso mostra que existem dois pensamentos, caminhos ou argumentos de igual peso colidindo. Não há movimento; a postura exige tanto esforço para ser mantida que gera uma estagnação rígida.",
+        "Emoções Reprimidas: Atrás da mulher, estende-se um mar azul com pequenas ondas. Como a água rege o mundo emocional, o fato de o mar estar atrás dela — e de ela estar de costas e vendada — reforça que ela está ignorando completamente a sua intuição e os seus sentimentos para tentar resolver tudo friamente com a mente.",
+        "Obstáculos Ocultos: Pequenas ilhas rochosas e pontiagudas surgem da água. Essas rochas representam perigos, fatos espinhosos ou dificuldades reais que ela precisará enfrentar assim que decidir tirar a venda e navegar por essas águas.",
+        "A Lua Crescente no Céu: No canto superior direito, brilha uma fina lua crescente amarela. A presença da lua reforça a energia da intuição, do feminino e do subconsciente que está rondando a situação. No entanto, por ser apenas um filete de lua, essa luz intuitiva é fraca no momento, indicando que a mente lógica (Espadas) está obscurecendo a sabedoria interna, ou que a resposta definitiva ainda vai demorar um pouco para amadurecer.",
+        "A Túnica Branca: A mulher veste uma túnica branca e longa, uma cor associada à neutralidade, pureza e paz. Ela não quer tomar partido de nenhum dos lados do dilema ainda.",
+        "O Banco de Pedra: Ela está sentada em um bloco ou banco de pedra cinza e maciço, colocado sobre um piso plano e firme. A pedra reforça que a situação está \"petrificada\". Não há ação, não há passos em falso; ela escolheu sentar-se e esperar que o impasse se resolva por si só ou adiar a escolha o máximo possível."
       ],
     },
     {
@@ -2761,9 +2765,10 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "O Coração Perfurado (Rider-Waite): Três espadas atravessam um coração sob nuvens de tempestade, simbolizando o impacto doloroso do pensamento racional e das palavras sobre o mundo emocional.",
-        "A Espada Central e os Ramos (Marselha): Uma espada vermelha (ativa) ocupa o centro, rodeada por dois ramos com 22 folhas e frutos, que simbolizam a totalidade dos Arcanos Maiores integrados na mente.",
-        "As Quatro Flores: No exterior das espadas entrecruzadas, quatro flores sugerem que todo pensamento, por mais entusiasmado que seja, precisa de um espaço bem orientado (pontos cardeais) para não se perder.",
+        "O Alvo da Dor: Um grande coração vermelho e perfeitamente simétrico flutua no centro da imagem. No Tarot, o coração é o símbolo universal do amor, do afeto, das emoções mais profundas e da vulnerabilidade humana. Ao contrário das cartas de Copas, onde o sentimento é contido ou celebrado em taças, aqui o âmago emocional está totalmente exposto e serve de alvo para o elemento Ar (os pensamentos e as palavras).",
+        "O Ataque da Realidade: Três espadas de aço cruzam-se em uma geometria precisa, perfurando o coração de cima para baixo. Duas espadas entram pelas diagonais e uma desce verticalmente pelo centro. As espadas representam o intelecto, a verdade nua e crua, as notícias difíceis, as palavras cortantes ou uma decisão racional que estraçalha uma fantasia afetiva. Elas mostram que a dor aqui não é um acidente físico; é o resultado de um choque de realidade, de uma verdade que machuca, mas que precisa ser assimilada pela mente.",
+        "O Clima Psicológico: O fundo da carta é dominado por nuvens escuras, densas e cinzentas que cobrem todo o céu. Não há vestígio do amarelo solar ou do azul pacífico de outras cartas. As nuvens representam a confusão mental, a névoa do choro e o peso da tristeza que se abate sobre a psique. O cenário evoca um estado de espírito onde tudo parece cinzento e opaco.",
+        "As Linhas de Chuva: Caindo das nuvens pesadas, linhas verticais e finas de chuva cobrem o plano de fundo. A chuva funciona como uma metáfora visual perfeita para o choro e a purificação através das lágrimas. O céu chora junto com o coração partido, mostrando que o ambiente está imerso em um processo necessário de escoamento da dor. A água (emoção) cai livremente, rompendo a repressão que vimos no Dois de Espadas."
       ],
     },
     {
@@ -2797,8 +2802,11 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "O Homem em Prece (Estilo Waite): A figura de um homem deitado em um túmulo com as mãos em posição de oração não indica morte, mas sim paz profunda e a necessidade de silenciar a mente. Acima dele, três espadas penduradas na parede servem como lembrete das dores passadas.",
-        "A Flor de Marselha: Jodorowsky observa que, no Tarot de Marselha, a flor central desta carta é cortada da direita para a esquerda, distinguindo-a de outras cartas da série e reforçando a ideia de um equilíbrio estável.",
+        "O Descanso do Guerreiro: O elemento central da carta é a figura de um cavaleiro deitado de costas sobre um túmulo ou altar de pedra dentro de uma igreja ou cripta. Suas mãos estão unidas em posição de prece ou meditação sobre o peito. O cavaleiro está totalmente paramentado com sua armadura, o que indica que a guerra lá fora não necessariamente acabou, mas ele escolheu tirar um momento de imobilidade absoluta para recarregar suas energias. A mente (Espadas) precisa silenciar para que o corpo e a alma sobrevivam.",
+        "As Três Espadas na Parede: Penduradas verticalmente na parede, apontando para baixo em direção à cabeça e ao peito do cavaleiro, vemos três espadas alinhadas. Elas representam as dores, os traumas e os pensamentos difíceis do Três de Espadas que foram, temporariamente, externalizados. O cavaleiro as tirou de seu coração e as colocou na parede; elas ainda existem, mas não o estão ferindo no momento.",
+        "A Quarta Espada no Altar: Uma única espada está esculpida ou deitada horizontalmente logo abaixo do corpo do cavaleiro, na base do altar. Essa espada representa a sua própria mente em repouso. Ela está guardada e deitada, pronta para ser empunhada novamente quando a trégua terminar.",
+        "Conexão Espiritual e Esperança: No canto superior esquerdo, rompe-se a monotonia cinzenta da pedra com um belo vitral colorido de uma janela eclesiástica. O vitral retrata uma figura humana ajoelhada diante de outra, sugerindo cura, santuário e auxílio espiritual. Visualmente, a luz que atravessa o vitral traz calor e cor para o ambiente frio da tumba. Mostra que, enquanto o guerreiro descansa no plano físico e mental, há um processo de restauração espiritual e proteção invisível acontecendo ao seu redor.",
+        "Arquitetura de Pedra Cinzenta: O predomínio de linhas retas e tons de cinza e ocre reforça a energia de estabilidade, silêncio e confinamento saudável. A pedra isola o cavaleiro do barulho do mundo exterior, garantindo que ninguém perturbe o seu recolhimento."
       ],
     },
     {
@@ -2830,9 +2838,13 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "O \"Novo Olhar\" (Marselha): Jodorowsky destaca que, no Tarot de Marselha, a ponta da espada central é visível no topo de um oval, atravessando um espaço vazio entre curvas azuis. Esse detalhe simboliza o \"ideal do Cinco\", um novo olhar que surge de dentro da estrutura mental.",
-        "A Vitória Amarga (Waite): A imagem clássica mostra um homem segurando três espadas com um sorriso desdenhoso, enquanto duas figuras derrotadas se afastam ao fundo. Isso sugere que, embora ele tenha vencido a batalha, os meios foram questionáveis e ele perdeu seus aliados.",
-        "As Cores: Na série de Marselha, o Três e o Cinco de Espadas compartilham a cor vermelha, indicando uma atividade mental intensa e apaixonada.",
+        "Orgulho e Desdém: A figura central em primeiro plano domina a cena. Ele olha para trás, em direção aos homens derrotados, com um sorriso de satisfação presunçosa e superioridade. Suas roupas em verde (crescimento/autoafirmação egoica) e vermelho (ação/agressividade) destacam sua energia dominante e combativa. Ele venceu o embate mental ou a disputa, mas sua postura visual carece totalmente de empatia ou fair play.",
+        "As Duas Espadas no Ombro: O homem segura duas espadas apoiadas firmemente no ombro esquerdo, com as pontas viradas para cima. Elas representam as armas que ele confiscou de seus oponentes.",
+        "A Terceira Espada no Chão: Ele apoia a ponta de uma terceira espada no chão com a mão direita, mantendo-a sob seu controle absoluto.",
+        "As Duas Espadas Abandonadas: No chão, caídas de forma desordenada e cruzada à sua frente, estão as outras duas espadas. Elas foram desarmadas ou largadas pelos que perderam a batalha, simbolizando a perda de poder de defesa e a rendição forçada.",
+        "Vergonha e Isolamento: Ao fundo, vemos dois homens se afastando em direção à água. A figura mais distante está com a cabeça baixa, enquanto a figura intermediária esconde o rosto com as mãos, em um gesto clássico de choro, humilhação e derrota. Eles foram desarmados não apenas de suas espadas, mas de sua dignidade. O distanciamento físico entre os três personagens acentua a quebra total de comunicação e de laços sociais.",
+        "Instabilidade Mental: Ao contrário do céu limpo ou plano de outras cartas, o fundo apresenta nuvens cinzentas cortadas em linhas diagonais e angulares agressivas (nuvens em forma de \"estilhaços\"). Esse padrão visual evoca um ambiente de tensão residual, atmosfera pesada e caos mental. O conflito físico pode ter acabado, mas o clima psicológico continua extremamente hostil e fragmentado.",
+        "Emoções Distantes: Ao fundo da planície, avista-se uma faixa de mar azul. A presença do elemento Água aqui indica que as emoções e os sentimentos foram empurrados para a margem da situação. No calor do debate lógico ou da disputa de poder (Espadas), a sensibilidade foi deixada de lado, restando apenas o terreno plano e frio da vitória racional."
       ],
     },
     {
@@ -2865,9 +2877,12 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "A Flor Central (Marselha): No Tarot de Marselha, a flor do Seis de Espadas se diferencia da do Quatro porque suas pétalas são cortadas da esquerda para a direita, indicando a extração de energias terrestres para elevação espiritual.",
-        "A Jornada no Barco (Rider-Waite): Mostra figuras em um barco atravessando águas que começam agitadas mas tornam-se calmas à frente, simbolizando a jornada em direção a uma \"ilha de paz\".",
-        "As Seis Espadas no Barco: Representam o peso dos pensamentos e experiências que levamos conosco, mas que agora estão organizados para a travessia.",
+        "A Jornada Guiada: Um homem, funcionando como um barqueiro, está em pé na popa de uma longa embarcação de madeira, empurrando-a com uma grande vara. Ele representa a força de vontade, a racionalidade prática ou um auxílio externo que conduz a mente no momento da crise.",
+        "O Peso da Tristeza: Sentados na parte dianteira do barco estão uma mulher e uma criança pequena. A mulher está totalmente envolta em um manto ou cobertor ocre/amarelo, com a cabeça baixa. Sua postura corporal projeta luto, cansaço emocional e vulnerabilidade. Ela não olha para a frente nem para trás; ela apenas se permite ser carregada, indicando que, embora a transição seja necessária, a dor do que foi deixado para trás ainda está sendo processada.",
+        "O Lado Direito do Mar (Turbulência): À direita da embarcação, a água apresenta ondulações nítidas e cristas agitadas em tons de azul e branco. Esse lado representa o passado recente, os problemas, as discussões e o caos emocional que motivaram a fuga.",
+        "O Lado Esquerdo e à Frente do Mar (Calmaria): À esquerda e logo à frente da proa do barco, a água é perfeitamente lisa, plana e pacífica. A gramática visual mostra que o barco está se movendo exatamente na fronteira entre a turbulência e a paz, navegando em direção à tranquilidade.",
+        "Carregando as Próprias Cicatrizes: Seis espadas de aço estão fincadas verticalmente e alinhadas na proa da embarcação, logo à frente dos passageiros. Elas formam uma espécie de barreira ou grade visual. Isso traz um simbolismo esotérico profundo: as espadas representam os pensamentos, as memórias e as dores acumuladas ao longo da jornada. O fato de estarem cravadas no barco mostra que você não esqueceu o passado, mas aprendeu a carregá-lo sem que ele afunde a sua estrutura. O conhecimento adquirido com a dor agora serve de proteção e bagagem para o futuro. Além disso, elas não estão ferindo ninguém; estão apenas guardadas.",
+        "A Terra Distante ao Fundo: No horizonte, avista-se uma margem de terra firme adornada com árvores estilizadas em tons de azul e verde. Essa terra representa o destino final, a nova fase da vida ou um refúgio seguro onde os passageiros poderão desembarcar e reconstruir suas rotinas com os pés no chão. O porto seguro está à vista, reforçando que a situação atual de transição é temporária e o futuro é promissor."
       ],
     },
     {
@@ -2900,9 +2915,12 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "A Espada Azul-Celeste (Marselha): No Tarot de Marselha, a espada central é de cor azul-celeste, simbolizando um pensamento que se espiritualizou e que extrai sua força de uma receptividade extrema. Ela está \"presa\" entre talos azuis, sugerindo uma meditação ativa que não se move por impulso, mas por clareza.",
-        "O \"Ladrão\" de Espadas (Rider-Waite): Mostra um homem fugindo de um acampamento com cinco espadas nos braços, deixando duas para trás. O sorriso em seu rosto indica satisfação por \"ter se safado\".",
-        "O Campo de Batalha: Ao fundo da imagem de Waite, há uma guerra ocorrendo; o personagem escolhe não participar da luta direta, mas desarmar o inimigo furtivamente.",
+       "Ação Clandestina: A figura central é um homem que caminha na ponta dos pés, olhando de soslaio para trás. Sua expressão mistura satisfação e desconfiança, típica de quem está realizando algo escondido e teme ser descoberto.",
+       "O Gorro e as Botas Vermelhas: O uso do vermelho em seu gorro e em suas botas simboliza ação rápida, paixão e impulsividade. Ele está agindo movido pelo desejo imediato de autofertilização ou sobrevivência, usando a agilidade física e mental para escapar de uma situação.",
+       "As Cinco Espadas nos Braços: O homem carrega cinco espadas de aço de uma vez só, segurando-as de maneira desajeitada pelos próprios gumes. Carregar espadas pelas lâminas é perigoso e pode cortar as próprias mãos, o que simboliza que o plano ou o segredo que ele carrega é arriscado e pode feri-lo a qualquer momento.",
+       "As Duas Espadas Deixadas para Trás: Fincardas firmemente no solo, atrás dele, restaram duas espadas. Isso mostra uma escolha deliberada: ele não conseguiu (ou não quis) levar tudo. Representa o que ele optou por abandonar, ou indica que o seu plano não é 100% infalível, deixando pistas ou recursos para trás.",
+       "O Alvo do Ardil: À direita, no plano de fundo, avistam-se tendas de um acampamento militar e uma pequena bandeira hasteada. O homem está roubando as armas do próprio acampamento enquanto os soldados, presumivelmente, estão distraídos ou dormindo. Isso reforça o simbolismo de evitar o confronto direto. Em vez de lutar abertamente contra o exército (um problema de grandes proporções), ele decide desarmar o inimigo na calada da noite.",
+       "O Céu Amarelo e Brilhante: Ao contrário do céu tempestuoso do Cinco de Espadas, o fundo aqui é de um amarelo puro e sólido. O amarelo rege o intelecto, a mente alerta e a agudeza mental. Esse fundo luminoso indica que a ação, embora moralmente questionável, é fruto de uma mente extremamente perspicaz, lógica e estrategista. Não há impulsividade cega; há cálculo."
       ],
     },
     {

@@ -1595,11 +1595,15 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual (Tarot de Marselha)",
+      title: "Simbolismo Visual",
       content: [
-        "Exuberância Vegetal: A carta é caracterizada por uma folhagem exuberante que sugere uma 'explosão vital' que preenche o espaço.",
-        "Disposição das Moedas: A moeda superior está dentro de uma construção de folhagens, enquanto as duas inferiores estão fora, simbolizando ação voltada à interiorização e penetração na matéria.",
-        "Ação Horizontal: Enquanto o Três de Copas aspira ao céu, o Três de Ouros foca no plano horizontal e na profundidade da terra, buscando concretizar o potencial na realidade física.",
+        "O Escultor/Artesão: À esquerda, em cima de um banco de madeira, está o jovem operário. Ele segura suas ferramentas de trabalho (um cinzel e um martelo) e está esculpindo diretamente a estrutura de pedra. Ele representa a força prática, a execução técnica e o trabalho manual especializado.",
+        "O Arquiteto/Mestre de Obras: No centro, segurando uma planta ou pergaminho que contém o desenho do projeto, está uma figura com vestes escuras. Ele representa o planejamento, o intelecto, a estratégia e a visão estrutural.",
+        "O Sacerdote/Clérigo: À direita, vestindo um manto amarelo, está o representante da igreja. Ele simboliza o cliente, a autoridade institucional ou o propósito maior por trás daquela construção (o significado espiritual ou os valores do projeto).",
+        "O Banco de Madeira e a Escuta Ativa: O entalhador está elevado em relação aos outros dois homens por estar em cima do banco. No entanto, ele está virado de perfil, olhando para trás para ouvir as orientações e feedbacks do arquiteto e do clérigo. Esse arranjo visual mostra que, embora ele seja o executor prático, ele respeita a liderança teórica dos outros. Da mesma forma, os dois homens olham para cima com atenção, validando a habilidade do artesão. Existe uma ausência de ego na imagem; todos trabalham focados na excelência da obra.",
+        "Os Três Pentáculos Cravados no Arco gótico: No topo da imagem, inseridos perfeitamente dentro de uma rosácea ou arcada gótica esculpida na pedra, estão as três moedas de ouro. O fato de estarem integradas à arquitetura do edifício simboliza que a prosperidade e os frutos materiais nesta carta são o resultado direto de um trabalho estruturado, simétrico e duradouro. O padrão triangular que elas formam reflete estabilidade e a perfeita união de corpo, mente e propósito (as três figuras abaixo).",
+        "O Foco na Execução: O fundo por trás do arco gótico é preto. No simbolismo do Tarot, esse fundo escuro foca a nossa atenção inteiramente no plano terreno e no interior do santuário, indicando que o foco do momento deve ser a dedicação minuciosa e concentrada ao trabalho atual.",
+        "O Manto Amarelo do Sacerdote: O amarelo brilhante nas vestes do clérigo ilumina o lado direito da carta, trazendo a energia do intelecto estimulado, da clareza e da validação mental para o esforço coletivo que está sendo feito."
       ],
     },
     {
@@ -1628,11 +1632,13 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual (Tarot de Marselha)",
+      title: "Simbolismo Visual",
       content: [
-        "As Duas Moedas Gigantes: No Grau 2, o símbolo do naipe atinge seu maior tamanho visual, enfatizando a força da acumulação.",
-        "A Faixa Sinuosa: Uma grande faixa une as duas moedas. Na curva inferior, Jodorowsky identifica três serpentes, sugerindo que o trabalho espiritual começa pela aceitação da matéria básica. Na curva superior, as datas simbolizam a passagem do tempo e a mutação da matéria em espírito.",
-        "Flores nas Pontas: A faixa termina em flores, indicando que o crescimento cessou momentaneamente para atingir um estado de perfeição ou equilíbrio.",
+        "O Equilíbrio em Movimento: Um jovem dança ou se equilibra sobre um pé só, enquanto manipula duas grandes moedas de ouro. Sua postura corporal é sinuosa e instável, indicando que a estabilidade nesta carta não vem de ficar parado (como no Quatro de Ouros), mas sim da capacidade de se mover e se adaptar constantemente.",
+        "O Chapéu Alto: Ele usa um chapéu vermelho peculiar e extremamente alto. Esse adereço cômico ou teatral remete à figura de um artista de rua ou bobo da corte, simbolizando que lidar com os altos e baixos da rotina exige jogo de cintura, um toque de leveza e resiliência psicológica para não deixar as moedas caírem.",
+        "O Laço do Infinito (Lemniscata): As duas moedas de ouro estão conectadas por um grande laço verde que forma o símbolo do infinito ou lemniscata. Esse símbolo revela que a circulação de energia e recursos é contínua. O dinheiro vai e vem, o tempo se esgota e se renova. O laço verde liga a matéria à natureza viva e mutável, indicando que o consultante tem a habilidade latente de gerenciar essa dualidade (trabalho vs. vida pessoal, gastos vs. ganhos) de forma perpétia, desde que mantenha o ritmo.",
+        "As Roupas Coloridas: O malabarista veste roupas vibrantes em tons de amarelo e vermelho, com sapatos verdes. O amarelo traz a agilidade mental necessária para tomar decisões rápidas na organização do dia a dia. O vermelho injeta a força física e a paixão para dar conta das demandas. Os sapatos verdes mostram que, apesar de estar dançando e se equilibrando, seus pés (as bases de sua ação) mantêm uma conexão viva e prática com o solo.",
+        "As Flutuações da Vida: Atrás do jovem, o cenário exibe um mar azul com ondas picadas e agitadas. Dois navios com velas içadas navegam por essas águas instáveis, subindo e descendo com as ondas. Os navios representam o comércio, as finanças globais, as parcerias e os grandes projetos em andamento. O fato de estarem enfrentando um mar turbulento reforça o pano de fundo da carta: o ambiente externo é imprevisível e cheio de altos e baixos. No entanto, os navios continuam flutuando e navegando, mostrando que a instabilidade faz parte da jornada e pode ser dominada com perícia."
       ],
     },
     {
@@ -1664,10 +1670,15 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "A Espada Ativa (Marselha): Diferente do Pajem, cuja espada é azul (receptiva), a Rainha segura uma espada vermelha, indicando que seu pensamento é ativo, experiente e pronto para a ação.",
-        "O Escudo no Ventre (Marselha): Jodorowsky destaca que ela possui uma espécie de escudo ou couraça protegendo seu ventre, às vezes interpretado como uma cicatriz; simboliza que ela sacrificou ou protegeu suas entranhas para viver prioritariamente no domínio do espírito e da inteligência.",
-        "O Olhar Fixo: Ela olha fixamente para sua espada, demonstrando estar absorta em sua própria natureza intelectual e focada em sua 'arma' de verdade.",
-        "Calma e Postura (Rider-Waite): É retratada como alguém calmo e controlado, com um olhar que 'vê através' das ilusões.",
+        "O Olhar Direto para o Futuro: A Rainha está sentada de perfil, olhando firmemente para a direita. Sua expressão facial é séria, focada e impassível, denotando integridade, sobriedade e uma mente que não se deixa enganar por bajulações ou ilusões.",
+        "A Espada Erguida na Mão Direita: Ela segura uma longa espada verticalmente com a mão direita, apoiando-a firmemente no braço de seu trono. A lâmina perfeitamente reta aponta para o céu, simbolizando a justiça, a clareza de pensamento e o compromisso inabalável com a verdade. Ao contrário do Cavaleiro, ela não está atacando de forma impetuosa; sua espada está posicionada como uma barreira protetora e uma ferramenta de discernimento preciso.",
+        "A Mão Esquerda Estendida: Sua mão esquerda está erguida e aberta para a frente, com os dedos estendidos em um gesto de recepção, comunicação ou convite ao diálogo. Esse contraste de gestos é o coração da carta: enquanto a mão direita impõe limites firmes com a espada, a esquerda demonstra abertura para ouvir, negociar e acolher a verdade dos fatos.",
+        "O Querubim: Na lateral do imponente trono de pedra cinzenta, há o entalhe da cabeça de um anjo de asas abertas (um querubim). Na iconografia do Tarot, os querubins estão ligados ao elemento Ar e à sabedoria divina, sugerindo que as decisões da Rainha são guiadas por um intelecto superior e idealista.",
+        "As Borboletas: Abaixo do querubim, o trono exibe entalhes de borboletas. A borboleta é o símbolo máximo da metamorfose e da transformação da mente. Reflete que a Rainha alcançou aquele patamar de poder após passar por um profundo processo de isolamento e maturação (saindo do casulo da dor para a liberdade intelectual).",
+        "A Túnica de Nuvens: A Rainha veste uma túnica branca estampada com nuvens azuis e brancas. Essa vestimenta reforça sua conexão íntima com o reino do Ar e dos pensamentos, indicando que ela está literalmente revestida de idealismo e racionalidade objetiva.",
+        "O Manto Vermelho por Baixo: Sob a túnica e cobrindo parte da sua cabeça, há um tecido vermelho. O vermelho simboliza que, por trás de sua fachada fria, lógica e analítica, ainda existe paixão, calor humano e uma profunda energia vital que foi preservada.",
+        "O Domínio sobre o Caos: O céu atrás da Rainha é de um azul claro e límpido na maior parte da tela. As nuvens densas e volumosas estão posicionadas abaixo da linha de sua visão e de seu trono. Isso entrega uma gramática visual fantástica: a Rainha conseguiu se elevar acima da confusão mental, da fofoca e do caos emocional que costumam nublar o julgamento das pessoas comuns. Ela enxerga tudo do alto, com total clareza.",
+        "O Pássaro Solitário: Bem alto no céu, avista-se um único pássaro voando de forma independente. O pássaro simboliza a liberdade de pensamento, a solidão que muitas vezes acompanha a sabedoria e a capacidade de se distanciar de uma situação para analisá-la de forma panorâmica."
       ],
     },
     {
@@ -2952,9 +2963,13 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "A Flor de Marseille: No Tarot de Marselha, a carta apresenta apenas uma pequena flor azul no centro de um oval vazio, sugerindo que o \"continente\" (o espírito) não está mais preenchido por \"conteúdo\" (pensamentos).",
-        "O Olho e a Receptividade: O miolo da flor contém um ponto vermelho que simboliza o olho ou testemunho impessoal, enquanto as flores externas são azuis, reforçando a natureza espiritual e receptiva deste estágio.",
-        "A Mulher Amarrada (Estilo Waite): Mostra uma figura feminina vendada e cercada por espadas. Embora pareça presa, ela poderia se libertar se retirasse a venda e usasse as espadas ao redor para cortar suas amarras, simbolizando que a mente é sua própria carcereira.",
+        "A Cegueira Psicológica: Uma figura feminina está no centro da cena, vestindo uma túnica vermelha longa. Seus olhos estão firmemente cobertos por uma venda branca. Assim como no Dois de Espadas, a venda simboliza a recusa ou a incapacidade de enxergar a situação com clareza. Ela acredita que está completamente sem saídas apenas porque não consegue ver o que está ao seu redor.",
+        "As Amarras Frouxas: Cordas envolvem seus braços e o seu tronco. Contudo, se olharmos atentamente, as amarras são visivelmente frouxas e não há ninguém a vigiando. Isso significa que, com um pouco de esforço e flexibilidade mental, ela mesma poderia se livrar das cordas. O aprisionamento é mantido pela sua própria postura de submissão e medo.",
+        "Cercada por Pensamentos Negativos: Oito espadas de aço estão fincadas verticalmente no chão ao redor da mulher. Elas formam uma espécie de cerca ou jaula que parece bloqueá-la.",
+        "A Rota de Fuga Aberta: O detalhe crucial da gramática visual é que as espadas estão posicionadas atrás e nas laterais da mulher. A parte da frente está completamente livre. Como ela está vendada, ela assume que está cercada por todos os lados, mas basta dar um passo à frente para caminhar em direção à liberdade. As espadas representam crenças limitantes que só nos barram se decidirmos não nos mover.",
+        "O Chão de Lama e Água: A mulher pisa descalça (ou com calçados simples amarelos) sobre um terreno lamacento, repleto de poças d'água azuladas. A água parada e a lama simbolizam que ela está atolada em suas próprias emoções reprimidas, sentimentos de desamparo e mágoas do passado. O solo instável reflete a falta de segurança interna para agir.",
+        "O Castelo Distante na Montanha: No plano de fundo, bem ao longe sobre uma colina escarpada, avista-se um castelo ou fortaleza. O castelo representa o lugar de onde ela veio, a estrutura, a segurança ou uma situação antiga de poder que agora ficou distante. Também simboliza que a solução ou o porto seguro exige uma longa caminhada que ela, no momento, se recusa a iniciar por se sentir impotente.",
+        "O Céu Azul e Claro: O céu acima da cena é de um azul pálido, limpo e sem nuvens. Não há tempestades como no Três ou Cinco de Espadas. Este fundo pacífico é um lembrete visual de que o ambiente externo não está hostil. O perigo real não existe fora; a tempestade e o caos estão acontecendo estritamente dentro da mente da personagem."
       ],
     },
     {
@@ -2986,8 +3001,12 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "A Lâmina com Falha (Marselha): A espada central brilha com luminosidade (cor amarela), mas apresenta uma linha quebrada ou falha no meio da lâmina, sugerindo que o intelecto humano é incompleto se não se abrir à percepção externa e à escuta.",
-        "A Figura em Sofrimento (Rider-Waite): Mostra uma pessoa sentada na cama, cobrindo o rosto com as mãos, com nove espadas penduradas na parede acima. As espadas não tocam a pessoa, simbolizando que o sofrimento é puramente mental e interno.",
+        "A Dor Íntima: Uma pessoa (frequentemente associada a uma mulher ou a um jovem) está sentada na cama, com o corpo inclinado para a frente e o rosto completamente escondido pelas mãos. O gesto de cobrir o rosto reflete vergonha, vulnerabilidade extrema ou a incapacidade de encarar os próprios pensamentos.",
+        "A Túnica Branca: Ela veste uma camisola ou túnica branca simples, simbolizando a sua pureza ou vulnerabilidade despida diante da escuridão. Na calada da noite, não há armaduras (como no Quatro ou Cinco de Espadas) para protegê-la.",
+        "O Reino da Noite e do Subconsciente: O fundo da carta é inteiramente preto. A ausência de paisagens, céu azul ou elementos externos reforça o sentimento de isolamento total e solidão. O preto representa a noite física (a hora em que as defesas mentais baixam), mas principalmente a escuridão psicológica: quando a ansiedade ataca, o mundo exterior desaparece e a pessoa sente que está imersa em um vazio sem fim.",
+        "O Peso dos Pensamentos: Acima da pessoa, dispostas de forma horizontal e perfeitamente paralelas, flutuam nove pesadas espadas de aço, apontando para a esquerda. Elas não tocam a figura humana, o que traz um simbolismo sutil e crucial: a dor é puramente mental. As espadas formam uma espécie de escada ou grade pesada que parece esmagar o espaço aéreo do quarto, representando as preocupações acumuladas, os \"e se...\" e os pensamentos obsessivos que impedem o descanso.",
+        "O Contraste do Calor Humano: Em contrapartida ao ambiente escuro, a pessoa está coberta por uma manta amarela, vibrante e ricamente decorada com um padrão quadriculado cheio de rosas vermelhas e símbolos do zodíaco. As rosas vermelhas representam a paixão, a vida, o amor e o desejo, sugerindo que há beleza, vitalidade e calor disponíveis na vida dessa pessoa. No entanto, ela está de costas e alheia a isso no momento do desespero. Os símbolos astrológicos apontam para as forças invisíveis e o destino que operam sob a psique humana.",
+        "O Conflito Arquetípico: Na lateral de madeira da cama, há um entalhe esculpido que mostra uma figura humana sendo derrotada ou atacada por outra em combate aberto. Esse pequeno detalhe iconográfico simboliza que a mente da pessoa está revivendo traumas do passado, disputas antigas ou o medo intrínseco de ser ferida. A própria fundação de seu descanso (a cama) está marcada por imagens de conflito."
       ],
     },
     {
@@ -3017,9 +3036,12 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "O Homem Alvejado (Rider-Waite): Mostra um homem caído com dez espadas cravadas nas costas, sugerindo derrota total ou traição inesperada. Sua mão faz um gesto de bênção, indicando que este fim, embora brutal, é necessário para o crescimento da alma.",
-        "O Oval de Espadas (Marselha): O trabalho intelectual se concretiza em uma 'solidão positiva' ou meditação profunda; a entrada de espadas vindas do exterior no oval simboliza que o mental chegou à unidade e agora é capaz de integrar o masculino e o feminino.",
-        "Transição de Naipes: A carta contém o germe do Ás de Copas, indicando que o intelecto plenamente desenvolvido agora necessita da energia do amor.",
+        "O Fim Definitivo: Um homem está deitado de bruços no chão, completamente derrotado. Suas costas estão cravadas por dez pesadas espadas que cobrem toda a extensão do seu corpo, da cabeça até a base da coluna. O exagero visual de dez espadas para derrubar um único homem simboliza uma reação exagerada, um drama absoluto ou uma situação que foi levada ao limite do insustentável. Não há como ser mais ferido do que isso; o ciclo de dor atingiu seu teto.",
+        "O Manto Vermelho: Um grande manto vermelho envolve o corpo e derrama-se pelo chão, confundindo-se visualmente com o sangue da ferida. O vermelho representa o sacrifício da vitalidade e da paixão, a perda violenta de energia que vinha alimentando esse ciclo desgastante.",
+        "O Sinal de Conexão Espiritual na Mão: Se você olhar bem de perto para a mão visível do homem no chão, seus dedos estão posicionados fazendo um gesto sutil que lembra uma bênção ou sinal sagrado (semelhante ao sinal do Hierofante ou do Papa). Esse detalhe minúsculo indica que, mesmo na ruína mais profunda, há um propósito espiritual ou uma libertação cármica acontecendo. A queda aceita com resignação é, na verdade, uma bênção disfarçada de tragédia.",
+        "A Metade Superior do Céu (A Noite Escura): O topo do céu é completamente preto e sombrio, representando a dor, o luto e a noite escura da alma pela qual o consultante passou.",
+        "A Metade Inferior do Céu (O Sol Nascente): Logo acima da linha do horizonte e do mar calmo, o céu se ilumina em um tom amarelo-ouro brilhante. O sol está começando a nascer. A gramática visual aqui é absoluta: a escuridão está se retirando. O pior já aconteceu e, por consequência, a partir deste momento, as coisas só podem melhorar. O amanhecer promete um recomeço limpo, livre do peso das espadas.",
+        "O Mar Calmo e Imóvel: Logo atrás do corpo, estende-se um mar azul perfeitamente plano e espelhado. Não há as ondas do Cinco ou do Seis de Espadas. Essa calmaria estática simboliza que a grande tempestade mental finalmente cessou. O conflito acabou porque não sobrou mais nada para ser destruído. A paz retorna, ainda que sob a forma de um silêncio pós-batalha."
       ],
     },
     {
@@ -3050,10 +3072,12 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "A Espada no Chapéu (Marselha): No Tarot de Marselha, a ponta de sua espada está apoiada em seu chapéu, indicando que seus pensamentos ainda estão em fase de teste e que ele duvida se deve ou não agir.",
-        "Direção dos Pés: Seus pés apontam para direções opostas, simbolizando um estado de hesitação em que o pensamento é contraditório e ainda não se decidiu por um engajamento total.",
-        "Espada Azul (Receptiva): A espada é inicialmente azul, sugerindo que o intelecto do Pajem ainda é mais receptivo e acumulador de informações do que propriamente ativo.",
-        "O Jovem Vigilante (Waite): Em versões modernas, ele é retratado em um terreno elevado e ventoso, segurando a espada com as duas mãos, pronto para se defender ou atacar, enfatizando sua natureza alerta e defensiva.",
+        "Prontidão e Vigilância: O jovem pajem está em pé no topo de uma colina elevada, segurando uma grande espada com as duas mãos. Sua postura corporal é ativa e instável: suas pernas parecem prontas para o movimento e seu tronco está ligeiramente inclinado.",
+        "O Olhar de Soslaio: Enquanto ele aponta a espada para o alto e para a direita, sua cabeça está virada para o lado oposto, olhando fixamente sobre o ombro esquerdo. Essa desconexão direcional indica que ele está atento a todas as direções, agindo como um sentinela ou espião que observa o ambiente para antecipar qualquer ameaça ou novidade.",
+        "A Forma de Segurar a Espada: A espada está erguida e nua, pronta para o combate, mas a maneira como o pajem a empunha sugere uma certa falta de destreza ou maturidade. Ele segura a arma pesada com ambas as mãos bem próximas à guarda, mostrando que, embora tenha a intenção e a agudeza mental para usá-la, ele ainda está aprendendo a dominar o próprio intelecto e o poder das suas palavras.",
+        "As Roupas em Vermelho e Amarelo: Suas vestes combinam uma túnica vermelha vibrante com calças (justilho) amarelas e botas vermelhas. O amarelo reforça o reino da mente, da lógica, da clareza e do intelecto estimulado. Já o vermelho traz a paixão, a energia juvenil, a impulsividade e a coragem. Juntas, essas cores simbolizam uma mente cheia de ideias novas, entusiasmada para investigar, debater e descobrir a verdade.",
+        "O Céu Movimentado e as Nuvens Cumulus: Ao fundo, o céu azul claro está repleto de nuvens brancas densas e volumosas que parecem se mover rapidamente. No topo superior esquerdo, um pequeno bando de pássaros voa alto. Como o naipe de Espadas é regido pelo elemento Ar, a forte presença do vento (evidenciada pelos cabelos do pajem que voam para trás e pela inclinação das árvores distantes à esquerda) simboliza a agitação mental, o fluxo rápido de pensamentos e a circulação de novas informações ou notícias.",
+        "O Terreno Elevado e Irregular: O pajem está posicionado sobre uma colina verdejante e de linhas sinuosas, destacando-se acima do nível do horizonte. Esse posicionamento elevado simboliza o desejo de obter uma visão panorâmica e racional sobre as situações, elevando-se acima das emoções para analisar os fatos com objetividade. No entanto, o solo ondulado e os montes distantes ao fundo sugerem que o caminho da verdade e do aprendizado intelectual exige passar por terrenos desafiadores e instáveis."
       ],
     },
     {
@@ -3085,10 +3109,13 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "A Espada-Lança (Marselha): No Tarot de Marselha, sua espada é longa como uma lança e de cor vermelha, apontada para o cosmos para 'transpassar o coração dos outros' com a vida do espírito.",
-        "Aura de Santidade: Ele possui uma aura amarela em seu elmo, indicando que suas ações intelectuais são guiadas por uma consciência espiritual superior.",
-        "A Carga do Cavaleiro (Waite): Em baralhos modernos, ele é retratado galopando em alta velocidade, vestido com armadura e capacete, demonstrando que o espírito e o cavalo (sua energia vital) formam um único corpo em ação.",
-        "Vencer a Gravidade: O salto do cavalo simboliza que o intelecto venceu seus limites racionais e a força da gravidade para se fundir com o infinito.",
+        "A Direção do Ataque: Ao contrário da maioria dos cavaleiros do Tarot, que avançam em passos lentos ou meditativos, o Cavaleiro de Espadas e seu cavalo estão em pleno galope, projetando-se diagonalmente em direção à esquerda. Essa inclinação agressiva para a frente indica urgência máxima, ímpeto e o desejo de atropelar qualquer obstáculo.",
+        "O Cavalo Branco: O cavalo puramente branco simboliza a pureza da intenção, mas principalmente a força motriz do intelecto desimpedida. O branco reflete a luz da verdade racional que guia a investida, agindo com frieza e sem hesitações emocionais.",
+        "O Arnês com Pássaros e Borboletas: As rédeas e os ornamentos do cavalo exibem detalhes em azul e amarelo com desenhos estilizados de pássaros ou borboletas. Esses animais são símbolos clássicos do elemento Ar e do reino dos pensamentos, reforçando que este ataque não é físico por pura brutalidade, mas sim uma cruzada ideológica, intelectual ou de comunicação.",
+        "A Espada Erguida: O guerreiro veste uma armadura de aço completa e ergue uma longa espada com o braço totalmente estendido para o alto. A lâmina aponta diretamente para o céu, simbolizando que sua mente está agindo como um para-raios de ideias nítidas e resolutas. Ele não está se defendendo; ele está atacando com o poder da verdade.",
+        "O Manto Vermelho e a Pluma: Um manto vermelho flamejante e uma pluma da mesma cor em seu elmo voam violentamente para trás devido à velocidade do avanço. O vermelho injeta a energia do elemento Fogo (ação, coragem, agressividade e paixão) na estrutura mental do Ar, criando um guerreiro intelectual focado em vencer o debate ou a batalha a qualquer custo.",
+        "Caos e Turbulência: O céu ao fundo apresenta nuvens cinzentas e brancas cortadas em linhas angulares, afiadas e fragmentadas. O desenho evoca um cenário de ventania severa e tempestade iminente. Essa atmosfera elétrica e caótica reafirma que o Cavaleiro prospera no meio do conflito de ideias. Ele não espera a poeira baixar para agir; ele avança diretamente no olho do furacão, impulsionado pela própria tempestade mental.",
+        "As Árvores Vergadas pelo Vento: No canto inferior esquerdo, árvores distantes estão visivelmente inclinadas e vergadas pela força do vento. Este detalhe gráfico serve para ilustrar o impacto que a passagem deste Cavaleiro causa no ambiente: suas palavras, verdades ou decisões são tão avassaladoras que mudam a paisagem ao redor, forçando as estruturas antigas a se curvarem diante da sua lógica."
       ],
     },
     {
@@ -3121,10 +3148,16 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "O Olhar para o Futuro: Como todos os Reis, ele não olha fixamente para seu próprio símbolo, mas para o horizonte, demonstrando domínio total sobre seu reino e consciência do mundo exterior.",
-        "As Meias-Luas nos Ombros: Assim como n'O Carro (VII), ele possui dois rostos em forma de meia-lua sobre os ombros, reforçando sua conexão com a ação vitoriosa no mundo.",
-        "A Régua de Medida (Marselha): Na mão esquerda, ele segura uma unidade de medida com 22 traços gravados, simbolizando a totalidade dos Arcanos Maiores aplicada à realidade concreta.",
-        "Postura Refinada: Não está vestido para a guerra, mas para a corte, utilizando roupas leves e elegantes que indicam um pensamento sofisticado e metarracional.",
+        "Imparcialidade e Presença: Ao contrário da Rainha (que se posiciona de perfil), o Rei está sentado de frente, encarando diretamente quem o observa. Essa simetria frontal simboliza que ele está pronto para julgar uma situação sem favoritismos, ouvindo os dois lados com total neutralidade.",
+        "O Olhar Firme: Sua expressão é de extrema seriedade, autocontrole e frieza. Ele não é movido por impulsos passionais; ele é a própria personificação da lei e da autoridade intelectual.",
+        "A Espada do Julgamento: Em sua mão direita, ele empunha uma longa espada desembainhada, mantendo-a erguida verticalmente e ligeiramente inclinada para a direita. Diferente do Cavaleiro (que usa a espada para o ataque impetuoso) ou do Pajem (que a segura com hesitação), o Rei domina a arma com calma e firmeza absoluta. Ela representa a determinação em aplicar a justiça e cortar qualquer tipo de ilusão, mentira ou confusão. A mão esquerda repousa sobre o colo, indicando que o poder está sob perfeito controle.",
+        "As Borboletas do Intelecto: O alto encosto de pedra do trono exibe entalhes de borboletas. Assim como na carta da Rainha, a borboleta — animal que passa pela metamorfose — é o símbolo do elemento Ar e da evolução mental, mostrando que sua sabedoria foi lapidada pelo tempo.",
+        "A Dualidade Controlada: Próximo às borboletas, o topo do trono apresenta desenhos que remetem a crescentes lunares ou figuras estilizadas de anjos/querubins, indicando que ele compreende os ciclos e as fraquezas humanas, mas opta por governar através da estabilidade da pedra (a razão rígida).",
+        "A Mente Clara (Túnica Azul): Ele veste uma longa túnica de cor azul pálido, a cor do céu e da mente subjacente, simbolizando a pureza de seus pensamentos e o desapego das paixões terrenas.",
+        "A Espiritualidade e o Poder (Manto Roxo/Capa): Sobre os ombros, ele carrega um manto roxo ou avermelhado, uma cor associada à realeza, à alta liderança e à percepção sutil. O capuz ou gola vermelha rente ao pescoço denota que há coragem e força vital sustentando suas decisões racionais.",
+        "Visão Panorâmica Clara: Ao fundo, o céu é azul e as poucas nuvens brancas estão assentadas ao longe e em níveis mais baixos que o topo do seu trono. A atmosfera é muito menos turbulenta que a do Cavaleiro ou do Pajem. Isso mostra que ele atingiu um estado de clareza onde o vento dos pensamentos já não gera caos, mas sim estabilidade.",
+        "Os Pássaros no Horizonte: Dois pássaros voam alto no céu à direita do trono. Símbolos do Ar, eles reforçam a liberdade de pensamento, a agilidade mental e a capacidade de observar as situações a partir de uma perspectiva macro e aérea.",
+        "As Árvores Estáticas: As poucas árvores visíveis nos cantos inferiores aparecem firmes e eretas, contrastando com as árvores vergadas do Cavaleiro. Sob o comando do Rei, o vento se acalma e a ordem é restabelecida."
       ],
     },
     {
@@ -3327,12 +3360,16 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual (Tarot de Marselha)",
+      title: "Simbolismo Visual",
       content: [
-        "Posição Horizontal: Diferente dos outros Ases que são imaginados \"de pé\", o Ás de Ouros deve ser visualizado deitado no chão, enfatizando sua conexão com a terra e a horizontalidade da vida material.",
-        "A Flor de Lótus e o Diamante: No centro da moeda, há uma flor de lótus (símbolo do desabrochar espiritual no lodo da matéria). O círculo vermelho central contém doze pontos que, se unidos, desenham um diamante, representando a consciência impessoal e o Deus interior oculto no físico.",
-        "Cores e Energias: Os ramos verdes indicam a inteligência prática, os triângulos laranja simbolizam a vida em todas as formas, e o vermelho representa o amor que é a essência da matéria.",
-        "Relação com o Todo: Os 12 pontos no centro também remetem à soma dos números de 1 a 12, que resulta em 78, o total de cartas do Tarot, indicando que a totalidade reside no coração da matéria.",
+        "O Presente do Universo: Uma mão branca e reluzente emerge de uma nuvem densa no lado esquerdo da carta. Como nos outros Ases, a nuvem simboliza o mistério da criação e o plano espiritual. A oportunidade que o Ás traz é um vislumbre de sorte ou uma dádiva que se apresenta na vida do consultante.",
+        "A Palma Aberta: A mão sustenta o grande ouro com a palma aberta voltada para cima, oferecendo a moeda sem retê-la. Isso significa que a oportunidade está disponível e pronta para ser agarrada, mas exige que a pessoa estenda a própria mão para recebê-la e assuma a responsabilidade de cultivá-la.",
+        "A Moeda de Ouro: A moeda é dourada, brilhante e traz uma estrela de cinco pontas (um pentagrama) gravada em seu centro. O ouro representa a riqueza material, a segurança, o corpo físico e os recursos tangíveis.",
+        "O Pentagrama: A estrela de cinco pontas simboliza o equilíbrio entre o espírito e os quatro elementos da matéria (Fogo, Terra, Ar e Água), além de representar o corpo humano completo (braços, pernas e cabeça). Visualmente, ela reforça que a verdadeira riqueza do naipe de Ouros envolve harmonizar o ganho material com o bem-estar físico e espiritual.",
+        "O Jardim Exuberante e Florido: Na metade inferior da carta, abaixo da mão divina, estende-se um jardim verdejante, vibrante e repleto de flores e vegetação baixa. Este cenário contrasta fortemente com os fundos cinzentos, pretos ou desérticos que vimos em várias cartas de Espadas. O solo é extremamente fértil, simbolizando que o ambiente atual do consultante é propício para o crescimento, o plantio de novos projetos e a colheita de lucros a longo prazo.",
+        "O Arco de Passagem: No meio da vegetação, há uma densa cerca viva que se abre em um arco natural perfeito, decorado com flores vermelhas. Esse arco funciona como um portal visual, separando o jardim imediato do horizonte distante.",
+        "O Caminho Amarelo: Um pequeno caminho amarelo começa no jardim e passa por baixo desse arco. O amarelo do caminho conecta a mente e a consciência ao processo de manifestação, indicando que há uma trilha clara a ser seguida se você decidir cruzar o portal.",
+        "As Montanhas Azuis ao Fundo: Através da abertura do arco, avistam-se montanhas azuis e picos elevados ao longe. Enquanto o jardim representa o conforto inicial, a segurança e a semente presente, as montanhas ao fundo simbolizam os grandes objetivos de longo prazo, as ambições e os desafios que ainda precisarão ser escalados. Elas servem para lembrar que o Ás de Ouros é apenas o primeiro passo de uma longa jornada de construção material."
       ],
     },
     {
@@ -3364,9 +3401,11 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       {
         title: "Simbolismo Visual",
         content: [
-          "O Benfeitor (Estilo Waite): A imagem clássica mostra um homem com uma balança em uma mão, distribuindo moedas a necessitados com a outra. A balança é o símbolo central da justiça e medida, indicando que a ajuda é dada com discernimento.",
-          "Verticalidade Extática (Marselha): Jodorowsky descreve a estrutura desta carta como um conjunto de quatro moedas centrais (estabilidade material) que se abrem para cima e para baixo em direção a dois extremos [1: 670-671]. Isso sugere que a pessoa está enraizada na Terra, mas com o espírito elevado ao Céu, realizando a 'Grande Obra' de unir matéria e espírito.",
-          "Espiritualização da Matéria: Diferente dos graus anteriores (como o Quatro de Ouros, onde as moedas estão isoladas nos cantos), no Seis a matéria começa a se 'espiritualizar' e a se abrir para o outro.",
+          "A Posição Central: No centro da carta, ergue-se um homem ricamente vestido com uma túnica vermelha e roxa, cores associadas ao status, nobreza e poder de realização. Ele é a figura central que detém os recursos e controla a cena.",
+          "A Mão da Generosidade: Com sua mão direita, ele derrama moedas de ouro diretamente na mão aberta de um dos necessitados. Isso simboliza o ato da caridade, o compartilhamento da riqueza e o papel de provedor ou patrocinador.",
+          "Justiça e Proporcionalidade: Em sua mão esquerda, o homem segura uma balança dourada em perfeito equilíbrio. Este é o detalhe visual mais crucial da carta. A balança indica que a generosidade exercida aqui não é cega ou impulsiva (como no elemento Água), mas sim calculada, justa e consciente. Ele distribui o que é necessário e justo, mantendo a proporção correta de seus próprios recursos. Representa também a avaliação de mérito, a aprovação de orçamentos e o equilíbrio entre despesas e receitas.",
+          "Os Dois Pedintes: Aos pés do benfeitor, ajoelham-se duas figuras vestidas com mantos simples (um amarelo-mostarda e outro verde remendado). Eles estão em uma posição inferior, olhando para cima com gratidão e expectativa. Enquanto um recebe as moedas diretamente, o outro aguarda a sua vez com as mãos estendidas. Essa assimetria visual cria uma reflexão sobre a vulnerabilidade e a dependência: a caridade resolve o problema imediato da escassez, mas mantém a estrutura de desigualdade e poder intacta.",
+          "Os Seis Pentáculos no Céu Azul: No topo da imagem, seis grandes moedas de ouro flutuam simetricamente sobre um céu azul claro e limpo. Três moedas estão dispostas à esquerda e três à direita, reforçando a mensagem de equilíbrio matemático e estabilidade macroeconômica. O céu limpo indica que a tempestade de neve do Cinco de Ouros passou; a estabilidade social foi restaurada através do fluxo de auxílio e da circulação do dinheiro."
         ],
       },
       {
@@ -3542,9 +3581,13 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "Os Quatro Cantos (Marselha): As quatro moedas são posicionadas nos cantos da carta, como pontos cardeais que definem um mundo equilibrado e 'quadrado'.",
-        "A Fênix Central: No centro da carta, há um brasão com uma Fênix amarela que se consome no fogo para renascer das cinzas [1: 546, 621]. Isso simboliza que, mesmo na maior estabilidade, existe a renovação celular constante e a impermanência sagrada.",
-        "O Homem e suas Moedas (Rider-Waite): Nesta versão, um homem segura uma moeda firmemente contra o peito, tem duas sob os pés e uma sobre a coroa, destacando a atitude de quem protege o que conquistou.",
+        "O Abraço de Proteção: Um homem está sentado em uma estrutura de pedra, segurando uma grande moeda de ouro firmemente contra o próprio peito com ambos os braços cruzados ao redor dela. Esse gesto corporal é puramente defensivo e indica o medo subjacente de perder o que conquistou. Ele protege seu patrimônio trancando o coração para o mundo exterior.",
+        "O Olhar Desconfiado: Sua expressão facial não denota a paz de quem é próspero e livre, mas sim a tensão e a desconfiança de quem se sente constantemente ameaçado. Ele vigia seus pertences com rigidez.",
+        "Um Ouro na Cabeça: Uma moeda está equilibrada diretamente sobre a sua coroa. Isso simboliza que seus pensamentos estão completamente ocupados por preocupações financeiras e materiais. A mente está travada, impedindo a entrada de novas ideias ou inspirações espirituais.",
+        "Um Ouro no Peito: Como mencionado, a moeda tranca a região do coração e das emoções, indicando que ele prioriza a segurança material acima das relações humanas ou da generosidade emocional.",
+        "Dois Ouros sob os Pés: O homem pisa firmemente em duas moedas de ouro que estão no chão. Embora isso demonstre uma base financeira sólida e os pés bem fincados na realidade material, também traz um simbolismo imobilizador: ele não pode dar um único passo para a frente sem abrir mão da posição daquelas moedas. Ele está literal e figurativamente preso ao próprio dinheiro.",
+        "As Roupas e os Símbolos de Status: O personagem usa uma coroa dourada, indicando que possui autoridade ou que atingiu um nível de realeza/liderança em seu próprio domínio material. Ele veste uma túnica vermelha por baixo de um manto escuro (preto ou marrom-escuro). O vermelho traz o desejo de sobrevivência e a preservação da força vital, enquanto o manto escuro atua como uma capa de isolamento, uma barreira que o afasta da troca social e econômica com o ambiente ao redor.",
+        "A Cidade Isolada ao Fundo: Atrás do homem, desenha-se o panorama de uma cidade moderna e desenvolvida, com torres, edifícios e casas. No entanto, há uma distância clara entre o personagem e a comunidade. Ele escolheu se sentar em uma plataforma elevada, do lado de fora e de costas para a cidade. Essa gramática visual reforça o seu isolamento voluntário. Em vez de fazer seus recursos circularem dentro da sociedade para gerar valor e novos negócios, ele prefere se afastar com seu tesouro, preferindo a segurança da solidão ao dinamismo das trocas coletivas."
       ],
     },
     {
@@ -3577,8 +3620,11 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
     {
       title: "Simbolismo Visual",
       content: [
-        "Ramos e Moedas (Marselha): Até o grau cinco, as moedas de ouro são rodeadas por ramos que as isolam nas bordas da carta; a estrutura começa a se preparar para a espiritualização que ocorrerá no grau seis.",
-        "Visão de Rider-Waite: Diferente da visão evolutiva de Jodorowsky, o Tarot de Waite retrata o Cinco de Ouros com imagens de mendigos, simbolizando desordem, caos, ruína e dificuldades financeiras.",
+        "A Figura de Muletas: À esquerda, um homem com o pé enfaixado apoia-se em muletas de madeira. Ele veste uma túnica azulada e carrega um pequeno sino dourado pendurado ao pescoço. Historicamente, os sinos eram usados na Idade Média para identificar leprosos ou párias sociais, alertando os outros de sua aproximação. Ele representa a fragilidade física, a doença e o sentimento de ser rejeitado ou excluído pela sociedade.",
+        "A Figura com a Manta Desgastada: À direita, outra pessoa caminha com a cabeça totalmente curvada, envolta em uma manta marrom esfarrapada e rasgada. Sua postura corporal é de pura derrota e exaustão, simbolizando o peso avassalador das preocupações e a perda da dignidade.",
+        "O Vitral Iluminado da Igreja: Logo acima deles, ergue-se a parede escura de uma construção que claramente se trata de uma igreja ou santuário, identificada pelo magnífico vitral colorido. O vitral exibe cinco moedas de ouro (pentáculos) dispostas de forma organizada sobre um fundo amarelo vibrante. O amarelo e as cores do vitral representam a luz, o calor, a segurança, o alimento e a assistência espiritual. Do lado de dentro daquela janela, existe tudo o que os dois caminhantes precisam para sobreviver ao inverno.",
+        "A Grande Ironia Visual: O ponto central de virada simbólica nesta carta é a direção para onde os personagens estão se movendo: eles estão passando direto pela igreja, de costas para a luz do vitral. O homem de muletas olha para cima, mas seu olhar está voltado para frente, absorto em sua própria dor, enquanto a outra figura olha fixamente para o chão coberto de neve. Nenhum dos dois percebe que a poucos passos dali existe uma porta aberta, um pedido de socorro aceito ou um teto protetor. Eles estão tão consumidos pela mentalidade de escassez e sofrimento que se tornaram incapazes de enxergar as oportunidades de ajuda ao redor.",
+        "O Ambiente Hostil: O fundo é uma parede preta e texturizada que emoldura a tempestade. A neve acumulada no chão e caindo sobre eles reforça a frieza do momento e o sentimento de desolação. O inverno da alma e do bolso está em seu ápice."
       ],
     },
     {

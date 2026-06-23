@@ -21,7 +21,7 @@ const cormorant = Cormorant_Garamond({
 })
 
 export const metadata: Metadata = {
-  title: 'Arcana · A Jornada do Louco',
+  title: 'Arcana · O Caminho do Tarot',
   description:
     'Um guia completo sobre o tarot: sua história, simbolismo e os 78 arcanos que compõem o baralho.',
   generator: 'v0.app',

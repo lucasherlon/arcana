@@ -1,4 +1,5 @@
 import type { Metadata } from "next"
+import Link from "next/link"
 import { SiteHeader } from "@/components/site-header"
 import { SiteFooter } from "@/components/site-footer"
 import { PageHero } from "@/components/page-hero"
@@ -10,18 +11,18 @@ export const metadata: Metadata = {
 }
 
 const signCorrespondences = [
-  { sign: "Áries", note: "", arcana: "O Imperador (IV)" },
-  { sign: "Touro", note: "", arcana: "O Hierofante (V)" },
-  { sign: "Gêmeos", note: "", arcana: "Os Enamorados (VI)" },
-  { sign: "Câncer", note: "", arcana: "O Carro (VII)" },
-  { sign: "Leão", note: "", arcana: "A Força (VIII ou XI)" },
-  { sign: "Virgem", note: "", arcana: "O Eremita (VIIII)" },
-  { sign: "Libra", note: "", arcana: "A Justiça (VIII ou XI)" },
-  { sign: "Escorpião", note: "", arcana: "A Morte (XIII)" },
-  { sign: "Sagitário", note: "", arcana: "A Temperança (XIIII)" },
-  { sign: "Capricórnio", note: "", arcana: "O Diabo (XV)" },
-  { sign: "Aquário", note: "", arcana: "A Estrela (XVII)" },
-  { sign: "Peixes", note: "", arcana: "A Lua (XVIII)" },
+  { sign: "Áries", note: "", arcana: "O Imperador (IV)", slug: "o-imperador" },
+  { sign: "Touro", note: "", arcana: "O Hierofante (V)", slug: "o-hierofante" },
+  { sign: "Gêmeos", note: "", arcana: "Os Enamorados (VI)", slug: "os-enamorados" },
+  { sign: "Câncer", note: "", arcana: "O Carro (VII)", slug: "o-carro" },
+  { sign: "Leão", note: "", arcana: "A Força (VIII ou XI)", slug: "a-forca" },
+  { sign: "Virgem", note: "", arcana: "O Eremita (VIIII)", slug: "o-eremita" },
+  { sign: "Libra", note: "", arcana: "A Justiça (VIII ou XI)", slug: "a-justica" },
+  { sign: "Escorpião", note: "", arcana: "A Morte (XIII)", slug: "a-morte" },
+  { sign: "Sagitário", note: "", arcana: "A Temperança (XIIII)", slug: "a-temperanca" },
+  { sign: "Capricórnio", note: "", arcana: "O Diabo (XV)", slug: "o-diabo" },
+  { sign: "Aquário", note: "", arcana: "A Estrela (XVII)", slug: "a-estrela" },
+  { sign: "Peixes", note: "", arcana: "A Lua (XVIII)", slug: "a-lua" },
 ]
 
 const planetCorrespondences = [
@@ -108,7 +109,12 @@ export default function OZodiacoPage() {
                         <span className="ml-1 font-serif text-sm text-muted-foreground">({item.note})</span>
                       )}
                     </span>
-                    <span className="text-right text-base text-primary">{item.arcana}</span>
+                    <Link
+                      href={`/arcanos/${item.slug}`}
+                      className="text-right text-base text-primary underline-offset-4 transition-colors hover:text-foreground hover:underline focus-visible:underline focus-visible:outline-none"
+                    >
+                      {item.arcana}
+                    </Link>
                   </li>
                 ))}
               </ul>

@@ -412,7 +412,6 @@ export const majorArcana: TarotCard[] = [
           "As Figuras Humanas: Em algumas versões, representam Adão e Eva no paraíso (o masculino e feminino primordiais); em outras, um trio humano simbolizando a complexidade das relações sociais e afetivas.",
           "O Sol: Situado ao fundo, simboliza a manifestação da divindade e a luz da consciência que ilumina a cena.",
           "As Árvores e a Serpente: Representam a Árvore da Vida e a do Conhecimento; a serpente simboliza o psiquismo obscuro ou o desejo instintivo que deve ser integrado.",
-          "Os Sapatos Vermelhos (em Marselha): O personagem central usa sapatos vermelhos (como o Louco e o Imperador), indicando que seu amor é ativo, terreno e resultado de um trabalho prévio de amadurecimento.",
           "A Montanha: Representa o ponto de encontro entre o céu e a terra, e o objetivo final da ascensão humana e espiritual."
         ]
       },

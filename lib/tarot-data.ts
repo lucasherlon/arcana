@@ -76,7 +76,7 @@ export const majorArcana: TarotCard[] = [
         ]
       },
       {
-        title: "Simbolismo Visual",
+        title: "Simbolismo Visual (Rider-Waite)",
         content: [
           "O Precipício: O Louco está prestes a caminhar para além da borda de um penhasco. Isso simboliza o salto no desconhecido, a imprevisibilidade da vida e a disposição de correr riscos sem o peso do medo ou do passado.",
           "O Olhar para o Alto: Ele não olha para onde pisa, mas sim para o céu. Isso reflete o seu idealismo, a conexão com o divino e uma mente voltada para aspirações espirituais. Por outro lado, também avisa sobre a falta de aterramento e o perigo de ignorar a realidade material.",
@@ -133,7 +133,7 @@ export const majorArcana: TarotCard[] = [
         ]
       },
       {
-        title: "Simbolismo Visual",
+        title: "Simbolismo Visual (Rider-Waite)",
         content: [
           "A Mesa e os Elementos: Sobre sua mesa, o Mago possui os símbolos dos quatro naipes dos Arcanos Menores (Ouros, Copas, Espadas e Paus), o que indica que ele tem todos os recursos e elementos da vida (físico, emocional, mental e criativo) à sua disposição.",
           "Posição das Mãos: Uma mão aponta para o céu e a outra para a terra, simbolizando a conexão entre o mundo espiritual e o material (\"o que está em cima é como o que está embaixo\").",
@@ -187,7 +187,7 @@ export const majorArcana: TarotCard[] = [
         ]
       },
       {
-        title: "Simbolismo Visual",
+        title: "Simbolismo Visual (Rider-Waite)",
         content: [
           "As Duas Colunas (Boaz e Jachin): Representam a dualidade do mundo (luz/sombra, masculino/feminino, positivo/negativo), indicando que o conhecimento da dualidade é essencial nesta etapa da jornada.",
           "O Véu e as Romãs: O véu atrás dela simboliza o que separa o consciente do inconsciente; as romãs representam a abundância, fertilidade e os mistérios divinos.",
@@ -242,7 +242,7 @@ export const majorArcana: TarotCard[] = [
         ]
       },
       {
-        title: "Simbolismo Visual",
+        title: "Simbolismo Visual (Rider-Waite)",
         content: [
           "O Cetro de Globo: Na mão direita, ela ergue um cetro encimado por uma esfera, que representa a Terra ou o mundo material. Ela governa sobre a criação física com graça e autoridade natural, não pela força.",
           "A Coroa de Doze Estrelas: Na cabeça, ela usa uma coroa com 12 estrelas. Elas representam os doze signos do zodíaco e os doze meses do ano. Isso simboliza que, embora ela reine na Terra, seu poder tem origem e conexão direta com os ciclos cósmicos e o tempo astrológico.",
@@ -297,7 +297,7 @@ export const majorArcana: TarotCard[] = [
         ]
       },
       {
-        title: "Simbolismo Visual",
+        title: "Simbolismo Visual (Rider-Waite)",
         content: [
           "O Trono e as Cabeças de Carneiro: Sentado em um trono rígido e cinza (cor do concreto), ele demonstra solidez e frieza estratégica. As cabeças de carneiro (signo de Áries) simbolizam a força vital do grande iniciador e o poder soberano.",
           "O Cetro e o Globo: Ele segura um cetro (frequentemente a cruz Ankh) que representa o poder sobre a vida e as leis cósmicas, enquanto o globo em sua mão simboliza seu domínio total sobre o território manifestado.",
@@ -351,7 +351,7 @@ export const majorArcana: TarotCard[] = [
         ]
       },
       {
-        title: "Simbolismo Visual",
+        title: "Simbolismo Visual (Rider-Waite)",
         content: [
           "A Tiara e a Cruz Tripla: Sua coroa e seu cetro de três barras horizontais simbolizam o poder criador e a autoridade sobre os três mundos: divino, psíquico e físico.",
           "Duas Colunas: Sentado entre colunas que evocam a solidez do Templo de Salomão, simboliza a estabilidade e o equilíbrio da presença divina na Terra.",
@@ -406,7 +406,7 @@ export const majorArcana: TarotCard[] = [
         ]
       },
       {
-        title: "Simbolismo Visual",
+        title: "Simbolismo Visual (Rider-Waite)",
         content: [
           "O Anjo (ou Arcanjo Rafael): Situado no céu, representa o Eu Superior ou a força divina que observa e abençoa as uniões e as escolhas feitas com o coração. No Tarot de Marselha, é visto como Cupido/Eros, lançando a flecha do desejo.",
           "As Figuras Humanas: Em algumas versões, representam Adão e Eva no paraíso (o masculino e feminino primordiais); em outras, um trio humano simbolizando a complexidade das relações sociais e afetivas.",
@@ -461,7 +461,7 @@ export const majorArcana: TarotCard[] = [
         ]
       },
       {
-        title: "Simbolismo Visual",
+        title: "Simbolismo Visual (Rider-Waite)",
         content: [
           "O Veículo Cúbico: O carro em si é um bloco de pedra cinza maciça, de formato cúbico. Isso reforça que, embora esteja em movimento, o guerreiro carrega consigo a estabilidade da matéria e a firmeza de propósito. Ele está blindado contra as distrações externas.",
           "As Esfinges: Em vez de cavalos, o veículo é puxado por duas esfinges míticas, uma preta e a outra branca. Elas personificam forças opostas e complementares: luz e sombra, razão e emoção, o consciente e o inconsciente, ou os impulsos positivos e negativos.",
@@ -516,7 +516,7 @@ export const majorArcana: TarotCard[] = [
         ]
       },
       {
-        title: "Simbolismo Visual",
+        title: "Simbolismo Visual (Rider-Waite)",
         content: [
           "A Mulher e o Leão: A imagem de uma mulher abrindo ou fechando a boca do leão com a ponta dos dedos simboliza o poder da suavidade espiritual sobre a força bruta. O leão, com a cauda entre as pernas, demonstra submissão ao espírito.",
           "O Chapéu de Infinito (Lemniscata): Presente em muitas versões, o chapéu em forma de \"8\" deitado indica inteligência espiritual e conexão com o divino, assemelhando-se ao chapéu d'O Mago.",
@@ -570,7 +570,7 @@ export const majorArcana: TarotCard[] = [
         ]
       },
       {
-        title: "Simbolismo Visual",
+        title: "Simbolismo Visual (Rider-Waite)",
         content: [
           "A Lanterna Erguida: O Eremita segura a lanterna bem alto na mão direita, o lado associado à ação consciente e à razão. Ele não usa a luz para ver o horizonte distante, mas para iluminar o próximo passo com prudência.",
           "A Estrela de Seis Pontas: Dentro da lanterna, a fonte de luz é uma estrela dourada de seis pontas. Esse é um símbolo alquímico e místico profundo, formado pelo entrelaçamento do triângulo da água (voltado para baixo) e o triângulo do fogo (voltado para cima). Representa o equilíbrio perfeito entre o macrocosmo e o microcosmo, o divino e o humano. A mensagem aqui é clara: a única luz capaz de guiar a alma na escuridão vem de dentro, do conhecimento das leis universais.",
@@ -625,7 +625,7 @@ export const majorArcana: TarotCard[] = [
         ]
       },
       {
-        title: "Simbolismo Visual",
+        title: "Simbolismo Visual (Rider-Waite)",
         content: [
           "As Letras na Roda (Os Quatro Mistérios): No círculo externo da grande roda alaranjada encontramos dois conjuntos de caracteres. As Letras Latinas (T - A - R - O): lidas no sentido horário a partir do topo formam TARO; dependendo do ponto de partida geram o anagrama místico TARO / ROTA / ORAT / TORA, e aludem também a Ator (Hathor). O ocultista Paul Foster Case sintetizou essa sequência na frase 'Rota Taro Orat Tora Ator' — a Roda do Tarot proclama a Lei de Hathor. Intercaladas com as latinas estão as Letras Hebraicas (יהוה), o Tetragrammaton (Yod‑He‑Vav‑He), indicando a assinatura divina por trás dos movimentos do destino.",
           "Os Símbolos Alquímicos Centrais: Nos raios internos da roda aparecem quatro símbolos alquímicos que regem o plano material e a estabilidade da vida: no topo, Mercúrio (a mente, a fluidez); à direita, Enxofre (paixão, energia ativa); à esquerda, Sal (inércia, cristalização material); na base, um símbolo de dissolução/água (fluxo e transformação). Esses signos indicam as forças que estruturam a matéria e tornam a roda operacional.",
@@ -678,7 +678,7 @@ export const majorArcana: TarotCard[] = [
         ]
       },
       {
-        title: "Simbolismo Visual",
+        title: "Simbolismo Visual (Rider-Waite)",
         content: [
           "A Balança: Representa o equilíbrio das forças, a ponderação de opções e a justiça distributiva que dá a cada um o que merece. Curiosamente, no Tarot de Marselha, nota-se uma assimetria deliberada (o fiel da balança não está perfeitamente no centro), sugerindo que a perfeição estática é inumana e deve ser dinâmica.",
           "A Espada: Símbolo da força distributiva, da lógica e da decisão final. Ela é usada para punir ou para \"cortar\" o que é inútil ou subjetivo na alma.",
@@ -732,7 +732,7 @@ export const majorArcana: TarotCard[] = [
         ]
       },
       {
-        title: "Simbolismo Visual",
+        title: "Simbolismo Visual (Rider-Waite)",
         content: [
           "A Posição Invertida: O personagem está de cabeça para baixo, o que sugere uma inversão do olhar e das prioridades; o intelecto é colocado abaixo para que o espírito se torne receptivo à sabedoria profunda.",
           "As Mãos Escondidas: Cruzadas atrás das costas, simbolizam a não ação e a incapacidade de escolher, indicando que não é o momento de intervir no mundo material.",
@@ -786,7 +786,7 @@ export const majorArcana: TarotCard[] = [
         ]
       },
       {
-        title: "Simbolismo Visual",
+        title: "Simbolismo Visual (Rider-Waite)",
         content: [
           "O Esqueleto: A Morte é representada por um esqueleto vivo montado em um cavalo. O esqueleto é o que resta quando tudo o que é supérfluo (a carne, o ego, as aparências) é desintegrado. Ele simboliza a fundação indestrutível da vida e a verdade nua e crua.",
           "A Armadura Negra: Diferente do guerreiro do Carro ou do Imperador, sua armadura é preta e opaca. O preto aqui simboliza a ausência de luz que precede a criação, o mistério do invisível e a natureza implacável dessa transição. A armadura mostra que essa força é blindada contra qualquer apelo ou suborno humano.",
@@ -845,7 +845,7 @@ export const majorArcana: TarotCard[] = [
         ]
       },
       {
-        title: "Simbolismo Visual",
+        title: "Simbolismo Visual (Rider-Waite)",
         content: [
           "O Anjo Andrógino: A figura central é um anjo, tradicionalmente associado ao Arcanjo Miguel ou a um guia solar. Ele possui feições andróginas (nem puramente masculinas, nem femininas), o que simboliza a união perfeita de todas as polaridades (razão e intuição, ação e receptividade).",
           "As Grandes Asas Vermelhas: As asas vermelhas representam o fogo espiritual, a paixão divina elevada e a imensa força vital que sustenta o processo de cura.",
@@ -901,7 +901,7 @@ export const majorArcana: TarotCard[] = [
         ]
       },
       {
-        title: "Simbolismo Visual",
+        title: "Simbolismo Visual (Rider-Waite)",
         content: [
           "A Figura Andrógina: O personagem principal mistura traços humanos e animais (como asas de morcego e chifres), representando as potências primitivas e a libido universal que reside no sistema nervoso humano.",
           "A Tocha: Segura na mão esquerda, indica o desejo de levar a luz da consciência para as trevas da matéria ou do inconsciente.",
@@ -957,7 +957,7 @@ export const majorArcana: TarotCard[] = [
         ]
       },
       {
-        title: "Simbolismo Visual",
+        title: "Simbolismo Visual (Rider-Waite)",
         content: [
           "A Torre (O Corpo): A torre é feita de tijolos cinzentos e sólidos, construída no topo de uma montanha rochosa e íngreme. Ela representa as estruturas mentais rígidas, os dogmas, as falsas seguranças e as defesas psicológicas que erguemos para nos isolar do fluxo da vida.",
           "O Fogo e a Escuridão: Labaredas de fogo saem das janelas, mostrando que a destruição consome a estrutura de dentro para fora. O fundo completamente preto (o mesmo do Diabo) reforça que essa crise acontece em um momento de profunda escuridão espiritual, funcionando como um despertar forçado.",
@@ -1012,7 +1012,7 @@ export const majorArcana: TarotCard[] = [
         ]
       },
       {
-        title: "Simbolismo Visual",
+        title: "Simbolismo Visual (Rider-Waite)",
         content: [
           "A Sereia de Duas Caudas: Em vez de estar com os pés na terra e na água, a figura central emerge inteiramente do mar. A sereia representa uma imersão total nas águas profundas do inconsciente coletivo, das emoções puras e do mistério psíquico. Segurar as duas caudas abertas simboliza o domínio sobre as polaridades da matéria e do espírito. Ela está em perfeito equilíbrio com sua natureza animal/instintiva e sua consciência espiritual.",
           "O Leite e o Sangue: De seus seios, a sereia jorra dois líquidos diretamente no oceano: um fluxo vermelho (à esquerda) e um fluxo branco (à direita). Isso faz alusão direta à alquimia mística: o fluxo vermelho representa o princípio ativo, solar, masculino (o enxofre alquímico ou a força vital); o fluxo branco representa o princípio receptivo, lunar, feminino (o mercúrio alquímico ou a pureza espiritual). Ao jorrar ambos no mar, ela está fertilizando e renovando a matriz da vida.",
@@ -1066,7 +1066,7 @@ export const majorArcana: TarotCard[] = [
         ]
       },
       {
-        title: "Simbolismo Visual",
+        title: "Simbolismo Visual (Rider-Waite)",
         content: [
           "O Rosto de Perfil: Ao contrário do Sol, a Lua não nos olha de frente; seu rosto de perfil sugere que uma parte dela permanece invisível, representando o que está oculto.",
           "O Crustáceo (Lagosta): Situado nas águas matriciais, representa o ego ou o \"eu\" que aspira à união com o astro; ele segura duas esferas nas pinças como oferendas das profundezas.",
@@ -1120,7 +1120,7 @@ export const majorArcana: TarotCard[] = [
         ]
       },
       {
-        title: "Simbolismo Visual",
+        title: "Simbolismo Visual (Rider-Waite)",
         content: [
           "O Astro Radiante: O Sol olha diretamente para o observador (como a Justiça e o Julgamento), sinalizando que ele revela a verdade sem disfarces. Seus raios representam a irradiação da energia vital e da consciência espiritual.",
           "Os Gêmeos (ou a Criança): No Tarot de Marselha, dois personagens se ajudam a atravessar um rio, simbolizando a parte consciente do ser guiando a parte animal/primitiva em direção à alegria. Na versão de Waite, uma criança nua sobre um cavalo branco representa a inocência, a pureza e a força vitoriosa do espírito.",
@@ -1174,7 +1174,7 @@ export const majorArcana: TarotCard[] = [
         ]
       },
       {
-        title: "Simbolismo Visual",
+        title: "Simbolismo Visual (Rider-Waite)",
         content: [
           "O Anjo nas Nuvens: Emergindo dos céus cercado por nuvens cinzentas, o Arcanjo Gabriel personifica o chamado da consciência superior ou a voz do divino. Ele não está ali para castigar, mas para despertar.",
           "As Asas Vermelhas: Assim como na Temperança, as asas vermelhas simbolizam o fogo do espírito, a energia vital e a paixão divina que impulsionam a transformação.",
@@ -1233,7 +1233,7 @@ export const majorArcana: TarotCard[] = [
         ]
       },
       {
-        title: "Simbolismo Visual",
+        title: "Simbolismo Visual (Rider-Waite)",
         content: [
           "A Mulher Dançante: Uma mulher — frequentemente interpretada na tradição esotérica como um ser andrógino ou a Anima Mundi (a alma do mundo) — dança livremente no centro da carta. Ela flutua, sugerindo que superou o peso e as limitações puramente materiais, movendo-se em sincronia com o ritmo do cosmos.",
           "O Manto Roxo: Um tecido purpúreo envolve suavemente o corpo da mulher. O roxo é a cor da realeza, da espiritualidade elevada e da transmutação, cobrindo o ponto de encontro das polaridades físicas.",
@@ -1558,7 +1558,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "A Mão e a Nuvem: Uma mão, surgindo de uma nuvem, segura o bastão pela parte mais fina; o fato de mostrar a palma indica um impulso central e puro.",
         "A Dádiva Divina: O fato de a mão sair do nada (das nuvens) indica que essa nova energia, ideia ou oportunidade é um vislumbre de inspiração que vem de uma força superior ou do inconsciente. Não é algo planejado logicamente, mas sim um impulso ou um estalo intuitivo que nos convida à ação.",
@@ -1595,7 +1595,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "O Escultor/Artesão: À esquerda, em cima de um banco de madeira, está o jovem operário. Ele segura suas ferramentas de trabalho (um cinzel e um martelo) e está esculpindo diretamente a estrutura de pedra. Ele representa a força prática, a execução técnica e o trabalho manual especializado.",
         "O Arquiteto/Mestre de Obras: No centro, segurando uma planta ou pergaminho que contém o desenho do projeto, está uma figura com vestes escuras. Ele representa o planejamento, o intelecto, a estratégia e a visão estrutural.",
@@ -1632,7 +1632,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "O Equilíbrio em Movimento: Um jovem dança ou se equilibra sobre um pé só, enquanto manipula duas grandes moedas de ouro. Sua postura corporal é sinuosa e instável, indicando que a estabilidade nesta carta não vem de ficar parado (como no Quatro de Ouros), mas sim da capacidade de se mover e se adaptar constantemente.",
         "O Chapéu Alto: Ele usa um chapéu vermelho peculiar e extremamente alto. Esse adereço cômico ou teatral remete à figura de um artista de rua ou bobo da corte, simbolizando que lidar com os altos e baixos da rotina exige jogo de cintura, um toque de leveza e resiliência psicológica para não deixar as moedas caírem.",
@@ -1668,7 +1668,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual(Rider-Waite)",
       content: [
         "O Olhar Direto para o Futuro: A Rainha está sentada de perfil, olhando firmemente para a direita. Sua expressão facial é séria, focada e impassível, denotando integridade, sobriedade e uma mente que não se deixa enganar por bajulações ou ilusões.",
         "A Espada Erguida na Mão Direita: Ela segura uma longa espada verticalmente com a mão direita, apoiando-a firmemente no braço de seu trono. A lâmina perfeitamente reta aponta para o céu, simbolizando a justiça, a clareza de pensamento e o compromisso inabalável com a verdade. Ao contrário do Cavaleiro, ela não está atacando de forma impetuosa; sua espada está posicionada como uma barreira protetora e uma ferramenta de discernimento preciso.",
@@ -1706,7 +1706,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "A Postura do Governante: No centro da carta, um homem em uma posição de destaque observa a paisagem do alto. Ele não está no meio da batalha, mas em um lugar de autoridade e segurança.",
         "A Túnica Vermelha e o Chapéu: Ele usa um chapéu e uma túnica vermelha vibrante. O vermelho remete diretamente ao elemento Fogo de Paus, denotando paixão, coragem, iniciativa e poder pessoal. Debandando sob a túnica, nota-se uma veste de tom ocre ou terroso, o que sugere que sua ambição ardente está contida por uma base prática e racional.",
@@ -1749,7 +1749,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "Olhar para o Futuro: O homem agora está de costas para nós. Essa quebra de perspectiva visual é muito significativa: significa que ele virou as costas para o passado, para a segurança antiga e para as dúvidas. Todo o seu foco e energia estão concentrados inteiramente no que está por vir, no horizonte.",
         "As Vestes de Parceria e Equilíbrio: Ele usa um manto vermelho ornamentado com detalhes pretos e dourados, combinado com uma capa verde sobre o ombro esquerdo. O vermelho mantém a chama da paixão e da ambição do elemento Fogo ativa. O verde adiciona a energia do crescimento, da fertilidade e da esperança de que seus projetos deem frutos.",
@@ -1786,7 +1786,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "A Estrutura de Proteção: Em primeiro plano, quatro grandes bastões de madeira estão cravados firmemente no chão. Na geometria sagrada e na numerologia, o número quatro (lembrando o Arcano IV, O Imperador) está associado à estrutura, fundação, ordem e solidez.",
         "O Portal Aberto: Ao contrário do Dois de Paus, onde os muros limitavam a visão, aqui os quatro bastões formam um portal aberto e receptivo. Não há portas fechadas; o ambiente é de celebração pública e inclusão. Os bastões continuam exibindo brotos verdes, mostrando que mesmo na estabilidade a energia criativa continua viva.",
@@ -1822,7 +1822,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "A Batalha de Bastões: A carta mostra cinco figuras humanas em uma espécie de luta ou competição, cada uma segurando um bastão. Eles parecem estar em um confronto caótico, simbolizando a tensão e o desafio que surgem quando um novo desejo ou ideal começa a se manifestar.",
         "O Desalinhamento dos Bastões: Ao contrário das cartas anteriores onde os bastões eram simétricos e organizados, aqui eles formam uma malha caótica no céu. Cada jovem puxa ou empurra em uma direção diferente, mostrando uma total falta de cooperação ou de um objetivo comum. Cada um está focado exclusivamente em defender seu próprio ponto de vista ou testar sua própria força.",
@@ -1856,7 +1856,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
          "A Postura Elevada do Cavaleiro: No centro da cena, um homem monta um cavalo branco. O fato de estar montado o coloca em uma posição fisicamente mais alta que as demais pessoas, simbolizando status, liderança, sucesso e o fato de ter superado os obstáculos recentes. Ele atrai todos os olhares.",
          "A Coroa de Louros na Cabeça: O cavaleiro usa uma coroa feita de folhas de louro na cabeça, o símbolo máximo de vitória, glória e conquista desde a antiguidade clássica (ecoando também o topo da guirlanda da carta do Mundo).",
@@ -1893,7 +1893,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "A Vantagem do Terreno Elevado: No centro da carta, um homem está posicionado no topo de uma colina ou penhasco. Ele empunha um bastão de madeira com as duas mãos, usando-o como barreira e ferramenta de defesa. Embora ele esteja sob ataque, o fato de estar em um terreno elevado lhe dá uma imensa vantagem tática. Ele detém a autoridade, a clareza e a gravidade a seu favor. Quem ataca de baixo para cima gasta muito mais energia.",
         "Inimigos Invisíveis: Emergindo da parte inferior da carta, vemos as pontas de outros seis bastões apontados diretamente para o homem. É fascinante notar que os donos desses bastões não aparecem na imagem. Isso simboliza que as ameaças podem ser pressões externas abstratas (críticas, concorrência, excesso de demandas) ou até mesmo batalhas internas (dúvidas, medos e cobranças do próprio ego). Eles criam uma parede de oposição, mas o homem permanece firme, bloqueando o avanço deles.",
@@ -1927,7 +1927,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "A Trajetória Descendente dos Bastões: O fato de estarem voando em direção à terra sugere que ideias abstratas, projetos ou mensagens que estavam pairando no ar estão prestes a aterrissar e se manifestar na realidade prática. Os brotos verdes continuam nascendo na madeira, indicando que o movimento carrega vida e potencial criativo.",
         "O Céu Limpo: O fundo da carta é um céu azul claro, sem nuvens ou obstáculos. Isso sugere que o caminho está livre e que não há impedimentos para a manifestação rápida do que se deseja.",
@@ -1961,7 +1961,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "A Faixa na Cabeça: O homem no centro da imagem usa uma faixa branca amarrada na cabeça. Ela cobre uma ferida real obtida nas batalhas anteriores (como as do Cinco e do Sete). Esse detalhe visual deixa claro que ele passou por testes severos; ele carrega cicatrizes, mas continua de pé.",
         "A Postura Defensiva: Ele segura um bastão com as duas mãos, apoiando-o firmemente no chão à sua frente. Seu corpo está ligeiramente inclinado para trás e seu olhar é desconfiado, voltado para o lado esquerdo. Ele não está atacando, mas está em total estado de alerta, esperando o próximo movimento do ambiente.",
@@ -1995,7 +1995,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "A Postura de Esmagamento: O centro da carta é dominado por um homem que caminha curvado, quase dobrado ao meio pelo peso que carrega. Ele tenta segurar e abraçar todos os dez bastões de madeira de uma única vez. Sua postura corporal exala cansaço extremo e opressão física.",
         "Abraçando Além da Conta: O fato de ele carregar os bastões à frente do corpo, tentando cercá-los com os braços, mostra que esse fardo não foi imposto externamente por correntes — ele próprio escolheu pegar, carregar e manter cada uma dessas responsabilidades. É a representação visual do \"centralizador\" que não sabe delegar.",
@@ -2030,7 +2030,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "O Olhar Direcionado ao Topo: Ao contrário do Dois ou Três de Paus, que olhavam para o horizonte distante, o Pajem inclina a cabeça ligeiramente para trás e fixa os olhos diretamente no topo de seu próprio bastão. Ele observa com admiração e curiosidade os pequenos brotos verdes que nascem dali. Essa imagem reforça que ele está fascinado pelo potencial de sua nova ideia ou projeto; ele está na fase de descobrir suas próprias capacidades e talentos.",
         "O Padrão das Salamandras: Estampadas por toda a sua túnica, encontramos pequenas figuras pretas de lagartos. Na tradição esotérica e alquímica, as salamandras são os elementais do Fogo — criaturas mitológicas que conseguem viver dentro das chamas sem serem consumidas.",
@@ -2064,7 +2064,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "A Postura de Arranque: O cavalo cor de canela ou alaranjado está empinado, capturado no meio de um movimento explosivo de avanço. Suas patas dianteiras estão erguidas no ar, mostrando que ele está pronto para romper qualquer barreira.",
         "A Força dos Instintos: A cor quente do animal (ecoando os tons de fogo) reforça que as paixões, impulsos e a energia vital estão completamente despertos e direcionando a ação. Ao contrário do cavalo pacífico do Seis de Paus, este animal exige controle e exala pressa.",
@@ -2100,7 +2100,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "Pernas Afastadas: A Rainha senta-se no trono com os braços abertos e as pernas visivelmente afastadas sob a túnica amarela. Essa postura, incomum para as figuras femininas da época da ilustração, denota extrema autoconfiança, franqueza, falta de inibição e uma energia acolhedora, porém firmemente estabelecida.",
         "O Girassol na Mão Esquerda: Na mão esquerda, ela segura um grande girassol. Essa flor é o símbolo máximo da energia solar, da alegria de viver, da fertilidade, da vitalidade e da capacidade de sempre buscar a luz (ecoando a atmosfera vibrante do Arcano XIX, O Sol).",
@@ -2138,8 +2138,8 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
-      content: [
+      title: "Simbolismo Visual (Rider-Waite)",
+      content: [ 
         "Inclinado para a Ação: Ao contrário de outros reis do Tarot que sentam-se de forma estática e frontal, o Rei de Paus está posicionado de perfil/diagonal, com o corpo visivelmente inclinado para a frente.",
         "O Manto e o Estofo Amarelo: O trono é revestido por uma tapeçaria amarela vibrante, decorada com leões pretos e salamandras. O leão, símbolo astrológico de Fogo, reforça sua coragem indomável e sua realeza natural.",
         "A Conclusão do Ciclo: Assim como vimos no Cavaleiro, as salamandras na tapeçaria do Rei estão desenhadas de forma circular, mordendo a própria cauda (Ouroboros). Isso demonstra o controle absoluto e maduro que ele possui sobre seus impulsos e sobre o elemento Fogo. Suas paixões não o queimam; elas trabalham para ele.",
@@ -2176,7 +2176,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "A Mão que Surge da Nuvem: Assim como no Ás de Paus, uma grande mão direita e luminosa emerge de uma nuvem angelical no lado direito da imagem. Ela flutua no ar e sustenta a taça, indicando que este novo começo emocional ou espiritual é um presente do invisível, uma dádiva do inconsciente ou do divino.",
         "O Cálice de Ouro: A taça é imensa, dourada e ornamentada. Na sua parte frontal, há uma gravação que se assemelha a uma letra \"W\" invertida ou a uma representação de três arcos/portais estilizados, frequentemente associada à receptividade pura e ao útero cósmico.",
@@ -2213,7 +2213,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "A Conexão Olho no Olho: Um homem e uma mulher estão posicionados frente a frente. Eles se olham diretamente nos olhos, denotando total presença, sintonia e entrega mútua.",
         "O Brinde / A Partilha: Cada um segura uma taça de ouro à mesma altura. O homem estende a mão esquerda e a mulher a mão direita em direção ao outro, indicando uma troca equilibrada de afeto. Não há desigualdade ou submissão; as duas taças operam na mesma frequência de recepção e doação.",
@@ -2250,7 +2250,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "O Círculo de Confiança: Três mulheres estão posicionadas muito próximas, formando um círculo com seus corpos. Elas estão dançando, o que denota fluidez, movimento harmônico e a celebração espontânea do momento presente.",
         "O Brinde Elevado: Cada uma delas ergue uma taça dourada bem acima de suas cabeças, cruzando os braços no centro. Esse gesto visual mostra que elas estão compartilhando e brindando às mesmas vitórias ou sentimentos. Não há segredos ou isolamento; a emoção é colocada no alto para que todas celebrem juntas.",
@@ -2290,7 +2290,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "Braços Cruzados: Um jovem está sentado na grama, com as costas apoiadas no tronco de uma árvore. Ele mantém os braços firmemente cruzados sobre o peito e as pernas também cruzadas. Essa linguagem corporal é universal para fechamento, isolamento defensivo e indisponibilidade para o que está ao seu redor.",
         "O Olhar Direcionado para Baixo: Sua cabeça está ligeiramente inclinada e seus olhos estão fixos no chão, focados exclusivamente nas três taças à sua frente. Ele ignora completamente o resto do cenário, simbolizando alguém preso no próprio monólogo mental ou em desilusões passadas.",
@@ -2327,7 +2327,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "A Capa Escura: No centro da imagem, uma figura humana está de pé, totalmente envolta em uma longa capa preta que cobre todo o seu corpo. O preto é a cor universal do luto, do recolhimento, do mistério e da depressão. A capa funciona como uma barreira visual entre a pessoa e o mundo, mostrando que ela está completamente isolada em sua própria dor.",
         "A Postura de Desalento: A cabeça da figura está visivelmente caída e inclinada para a frente, com o olhar fixado diretamente no chão. Essa linguagem corporal transmite derrota, desespero e a incapacidade temporária de erguer a cabeça para olhar o horizonte.",
@@ -2364,7 +2364,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "O Gesto de Generosidade: No centro da imagem, um menino (ou um jovem vestido com roupas antigas) inclina-se suavemente para entregar uma taça dourada cheia de flores brancas a uma menina menor. Esse ato visual representa a partilha espontânea, o carinho sem segundas intenções e a pureza nas relações humanas.",
         "As Roupas e o Capuz Vermelho: O jovem usa um capuz e meias vermelhas (símbolo de energia vital, paixão inocente e calor emocional), combinados com uma túnica azul (intuição e paz de espírito). A menina usa um vestido amarelo e azul com um manto vermelho, espelhando as cores do rapaz e indicando uma perfeita harmonia e reciprocidade infantil entre eles.",
@@ -2402,7 +2402,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "A Sombra do Pensador: No canto inferior esquerdo, vemos a silhueta escura de um homem de costas. Ele está obscurecido, indicando que sua consciência e racionalidade estão em segundo plano; ele está hipnotizado pela visão à sua frente.",
         "As Sete Taças Flutuantes: Sete taças douradas flutuam sobre uma densa nuvem cinzenta e azulada que domina a cena. O fato de estarem em nuvens deixa claro que nenhuma dessas opções é sólida, real ou está fincada na terra ainda — são projeções mentais, castelos de areia e desejos abstratos.",
@@ -2442,7 +2442,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "A Pilha Organizada: No primeiro plano, vemos oito taças douradas cuidadosamente empilhadas. A base possui cinco taças e o topo possui três.",
         "O Espaço Vazio: Diferente do Cinco de Copas, onde as taças estavam caídas e quebradas, aqui as taças estão intactas, de pé e organizadas. O homem construiu algo sólido e investiu muito sentimento nelas.",
@@ -2479,7 +2479,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "O Semblante de Satisfação: No centro da cena, um homem de meia-idade está sentado em um banco rústico de madeira. Ele exibe um sorriso sereno e plenamente satisfeito no rosto, transmitindo a sensação de quem alcançou exatamente o que desejava e agora desfruta do momento.",
         "Braços Cruzados (O Sentido de Posse): Ele mantém os braços firmemente cruzados sobre o peito. Diferente do Quatro de Copas, onde os braços cruzados indicavam apatia e fechamento defensivo para o mundo, aqui o gesto simboliza auto-suficiência, contentamento e orgulho. Ele está guardando e protegendo suas próprias conquistas.",
@@ -2515,7 +2515,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "Braços Erguidos: No canto esquerdo inferior, vemos um homem e uma mulher de costas para o observador. Ambos estão com um dos braços carinhosamente entrelaçados na cintura do parceiro e o outro braço estendido e erguido em direção ao céu. Esse gesto corporal aberto e direcionado para o alto é um símbolo universal de louvor, gratidão e reverência pelas bênçãos recebidas da vida. Eles não estão apenas testemunhando a beleza do momento, mas celebrando-a ativamente juntos.",
         "Inocência e Continuidade: À direita do casal, duas crianças (um menino e uma menina) dão-se as mãos e dançam alegremente em círculos. A presença dos filhos na cena traz a ideia de posteridade, herança emocional e estabilidade familiar. A dança infantil evoca o retorno daquela pureza espontânea que vimos lá no Seis de Copas, mostrando que a alegria nessa casa é genuína, livre de tensões e renovável.",
@@ -2553,7 +2553,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "O Inconsciente Comunicativo: O elemento visual mais marcante e famoso desta carta é um peixe real que coloca a cabeça para fora da taça dourada que o Pajem segura. O Pajem não parece assustado; pelo contrário, ele olha para o peixe com curiosidade e atenção, estabelecendo uma conexão direta. Em termos arquetípicos, a taça representa a mente consciente e o peixe simboliza um insight, um sonho, uma inspiração criativa ou uma mensagem direta do fundo do inconsciente que emerge para a superfície. Mostra que ele está perfeitamente sintonizado com sua intuição, por mais bizarra ou inesperada que a mensagem pareça.",
         "A Mente Sonhadora: O Pajem usa um adereço de cabeça muito característico: um chapéu ou boina azul com um longo lenço azul-esverdeado que flui suavemente ao redor do seu pescoço.",
@@ -2589,7 +2589,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "O Ritmo da Calmaria: Ao contrário dos cavalos empinados ou em disparada dos outros naipes (como Paus e Espadas), o cavalo cinza ou branco do Cavaleiro de Copas caminha em um passo lento, cadenciado e sereno. Isso indica que o Cavaleiro não tem pressa. Ele desfruta da jornada emocional, agindo com diplomacia, gentileza e suavidade. A cor clara do cavalo simboliza a pureza de intenções, a paz e a espiritualidade que guiam suas ações.",
         "A Túnica com Estampa de Peixes: Sobre a armadura, ele veste uma túnica decorada com peixes vermelhos nadando. O peixe é o símbolo máximo do elemento Água e do inconsciente (como vimos espiando na taça do Pajem). O fato de os peixes serem vermelhos indica que suas emoções profundas e sua intuição estão carregadas de paixão, desejo e vitalidade. Ele é motivado pelo amor e pela expressão artística do que sente.",
@@ -2624,7 +2624,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "O Mistério Oculto: O elemento visual mais crucial é a taça que ela segura com ambas as mãos. Ao contrário de todas as outras taças do naipe (que são abertas), a taça da Rainha é fechada com uma tampa em forma de cúpula ou igreja e ricamente adornada com querubins ou figuras aladas. Isso simboliza que os pensamentos e sentimentos da Rainha vêm de um lugar sagrado, profundo e inacessível para o observador comum. Ela guarda os mistérios do inconsciente; seus sentimentos não estão expostos de forma leviana, mas são guardados como um tesouro espiritual.",
         "A Conexão com a Origem: A Rainha está sentada em um trono de pedra localizado exatamente na orla, onde a terra firme encontra a água. Seus pés descansam sobre seixos e conchas coloridas na areia, e a água do mar chega a tocar a base do seu manto. Essa proximidade mostra que ela está em perfeita comunhão com o mar das emoções humanas, agindo como uma ponte entre o consciente (terra) e o inconsciente (mar).",
@@ -2660,7 +2660,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "O Trono Flutuante sobre o Mar Agitado: O Rei está sentado em um trono de pedra cinza que parece flutuar ou estar fixado em um bloco de concreto diretamente sobre as ondas do mar aberto. Ao seu redor, as águas estão visivelmente revoltas e em movimento. Esse contraste visual é a essência da carta: o mundo ao redor ou as emoções internas podem estar em total turbulência, mas o Rei permanece imperturbável, estável e centrado. Ele derrama calma sobre o caos.",
         "A Emoção Controlada: Na mão direita, ele segura uma grande taça dourada aberta. Ao contrário da Rainha, seus sentimentos estão disponíveis e prontos para serem usados em prol do reino de forma consciente e ponderada. Ele não foca o olhar na taça, mostrando que não é refém do que sente.",
@@ -2697,7 +2697,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "A Mão Divina que Emerge da Nuvem: Assim como nos outros ases, uma mão branca e luminosa emerge de uma nuvem cinzenta e densa no lado esquerdo da carta. Essa mão representa uma dádiva ou intervenção divina, mas aqui focada na mente. É o lampejo de lucidez, a verdade que é oferecida ao consultante, ou uma súbita clareza mental que surge em meio à confusão (as nuvens).",
         "A Firmeza do Punho: A mão segura a espada pela empunhadura com enorme firmeza. Não há hesitação; o gesto transmite controle absoluto, retidão e autoridade.",
@@ -2735,7 +2735,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "A Venda nos Olhos: A figura feminina central está com os olhos cobertos por uma venda branca. Isso simboliza que ela está recusando-se a enxergar a realidade dos fatos ou que há um dilema tão grande que ela preferiu \"fechar os olhos\" para o mundo externo. Por outro lado, a venda também aponta para a busca por uma justiça cega e imparcial: ela tenta ignorar as distrações visuais e as aparências externas para tentar tomar uma decisão baseada puramente na lógica interna (ou na negação).",
         "A Defesa do Coração: Ela segura duas pesadas espadas de aço, uma em cada mão, cruzando-as bem em frente ao peito. Esse gesto em \"X\" forma uma barreira física que protege o seu coração (suas emoções), sugerindo que ela trancou seus sentimentos para não ser vulnerável.",
@@ -2774,7 +2774,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "O Alvo da Dor: Um grande coração vermelho e perfeitamente simétrico flutua no centro da imagem. No Tarot, o coração é o símbolo universal do amor, do afeto, das emoções mais profundas e da vulnerabilidade humana. Ao contrário das cartas de Copas, onde o sentimento é contido ou celebrado em taças, aqui o âmago emocional está totalmente exposto e serve de alvo para o elemento Ar (os pensamentos e as palavras).",
         "O Ataque da Realidade: Três espadas de aço cruzam-se em uma geometria precisa, perfurando o coração de cima para baixo. Duas espadas entram pelas diagonais e uma desce verticalmente pelo centro. As espadas representam o intelecto, a verdade nua e crua, as notícias difíceis, as palavras cortantes ou uma decisão racional que estraçalha uma fantasia afetiva. Elas mostram que a dor aqui não é um acidente físico; é o resultado de um choque de realidade, de uma verdade que machuca, mas que precisa ser assimilada pela mente.",
@@ -2811,7 +2811,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "O Descanso do Guerreiro: O elemento central da carta é a figura de um cavaleiro deitado de costas sobre um túmulo ou altar de pedra dentro de uma igreja ou cripta. Suas mãos estão unidas em posição de prece ou meditação sobre o peito. O cavaleiro está totalmente paramentado com sua armadura, o que indica que a guerra lá fora não necessariamente acabou, mas ele escolheu tirar um momento de imobilidade absoluta para recarregar suas energias. A mente (Espadas) precisa silenciar para que o corpo e a alma sobrevivam.",
         "As Três Espadas na Parede: Penduradas verticalmente na parede, apontando para baixo em direção à cabeça e ao peito do cavaleiro, vemos três espadas alinhadas. Elas representam as dores, os traumas e os pensamentos difíceis do Três de Espadas que foram, temporariamente, externalizados. O cavaleiro as tirou de seu coração e as colocou na parede; elas ainda existem, mas não o estão ferindo no momento.",
@@ -2847,7 +2847,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "Orgulho e Desdém: A figura central em primeiro plano domina a cena. Ele olha para trás, em direção aos homens derrotados, com um sorriso de satisfação presunçosa e superioridade. Suas roupas em verde (crescimento/autoafirmação egoica) e vermelho (ação/agressividade) destacam sua energia dominante e combativa. Ele venceu o embate mental ou a disputa, mas sua postura visual carece totalmente de empatia ou fair play.",
         "As Duas Espadas no Ombro: O homem segura duas espadas apoiadas firmemente no ombro esquerdo, com as pontas viradas para cima. Elas representam as armas que ele confiscou de seus oponentes.",
@@ -2886,7 +2886,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "A Jornada Guiada: Um homem, funcionando como um barqueiro, está em pé na popa de uma longa embarcação de madeira, empurrando-a com uma grande vara. Ele representa a força de vontade, a racionalidade prática ou um auxílio externo que conduz a mente no momento da crise.",
         "O Peso da Tristeza: Sentados na parte dianteira do barco estão uma mulher e uma criança pequena. A mulher está totalmente envolta em um manto ou cobertor ocre/amarelo, com a cabeça baixa. Sua postura corporal projeta luto, cansaço emocional e vulnerabilidade. Ela não olha para a frente nem para trás; ela apenas se permite ser carregada, indicando que, embora a transição seja necessária, a dor do que foi deixado para trás ainda está sendo processada.",
@@ -2924,7 +2924,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
        "Ação Clandestina: A figura central é um homem que caminha na ponta dos pés, olhando de soslaio para trás. Sua expressão mistura satisfação e desconfiança, típica de quem está realizando algo escondido e teme ser descoberto.",
        "O Gorro e as Botas Vermelhas: O uso do vermelho em seu gorro e em suas botas simboliza ação rápida, paixão e impulsividade. Ele está agindo movido pelo desejo imediato de autofertilização ou sobrevivência, usando a agilidade física e mental para escapar de uma situação.",
@@ -2961,7 +2961,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "A Cegueira Psicológica: Uma figura feminina está no centro da cena, vestindo uma túnica vermelha longa. Seus olhos estão firmemente cobertos por uma venda branca. Assim como no Dois de Espadas, a venda simboliza a recusa ou a incapacidade de enxergar a situação com clareza. Ela acredita que está completamente sem saídas apenas porque não consegue ver o que está ao seu redor.",
         "As Amarras Frouxas: Cordas envolvem seus braços e o seu tronco. Contudo, se olharmos atentamente, as amarras são visivelmente frouxas e não há ninguém a vigiando. Isso significa que, com um pouco de esforço e flexibilidade mental, ela mesma poderia se livrar das cordas. O aprisionamento é mantido pela sua própria postura de submissão e medo.",
@@ -2999,7 +2999,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "A Dor Íntima: Uma pessoa (frequentemente associada a uma mulher ou a um jovem) está sentada na cama, com o corpo inclinado para a frente e o rosto completamente escondido pelas mãos. O gesto de cobrir o rosto reflete vergonha, vulnerabilidade extrema ou a incapacidade de encarar os próprios pensamentos.",
         "A Túnica Branca: Ela veste uma camisola ou túnica branca simples, simbolizando a sua pureza ou vulnerabilidade despida diante da escuridão. Na calada da noite, não há armaduras (como no Quatro ou Cinco de Espadas) para protegê-la.",
@@ -3034,7 +3034,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "O Fim Definitivo: Um homem está deitado de bruços no chão, completamente derrotado. Suas costas estão cravadas por dez pesadas espadas que cobrem toda a extensão do seu corpo, da cabeça até a base da coluna. O exagero visual de dez espadas para derrubar um único homem simboliza uma reação exagerada, um drama absoluto ou uma situação que foi levada ao limite do insustentável. Não há como ser mais ferido do que isso; o ciclo de dor atingiu seu teto.",
         "O Manto Vermelho: Um grande manto vermelho envolve o corpo e derrama-se pelo chão, confundindo-se visualmente com o sangue da ferida. O vermelho representa o sacrifício da vitalidade e da paixão, a perda violenta de energia que vinha alimentando esse ciclo desgastante.",
@@ -3070,7 +3070,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "Prontidão e Vigilância: O jovem pajem está em pé no topo de uma colina elevada, segurando uma grande espada com as duas mãos. Sua postura corporal é ativa e instável: suas pernas parecem prontas para o movimento e seu tronco está ligeiramente inclinado.",
         "O Olhar de Soslaio: Enquanto ele aponta a espada para o alto e para a direita, sua cabeça está virada para o lado oposto, olhando fixamente sobre o ombro esquerdo. Essa desconexão direcional indica que ele está atento a todas as direções, agindo como um sentinela ou espião que observa o ambiente para antecipar qualquer ameaça ou novidade.",
@@ -3107,7 +3107,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "A Direção do Ataque: Ao contrário da maioria dos cavaleiros do Tarot, que avançam em passos lentos ou meditativos, o Cavaleiro de Espadas e seu cavalo estão em pleno galope, projetando-se diagonalmente em direção à esquerda. Essa inclinação agressiva para a frente indica urgência máxima, ímpeto e o desejo de atropelar qualquer obstáculo.",
         "O Cavalo Branco: O cavalo puramente branco simboliza a pureza da intenção, mas principalmente a força motriz do intelecto desimpedida. O branco reflete a luz da verdade racional que guia a investida, agindo com frieza e sem hesitações emocionais.",
@@ -3146,7 +3146,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "Imparcialidade e Presença: Ao contrário da Rainha (que se posiciona de perfil), o Rei está sentado de frente, encarando diretamente quem o observa. Essa simetria frontal simboliza que ele está pronto para julgar uma situação sem favoritismos, ouvindo os dois lados com total neutralidade.",
         "O Olhar Firme: Sua expressão é de extrema seriedade, autocontrole e frieza. Ele não é movido por impulsos passionais; ele é a própria personificação da lei e da autoridade intelectual.",
@@ -3187,12 +3187,14 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
-        "As Duas Moedas (Marselha): O Pajem contempla uma moeda de ouro em sua mão, mas parece ignorar (ou hesitar sobre) uma segunda moeda que ainda está enterrada como um tesouro no solo.",
-        "Direção dos Pés: Seus pés apontam para direções opostas, qualifica-o como 'receptivo/ativo' — conectado à terra (passado/tradição) e pronto para o movimento (futuro/ação).",
-        "Conexão com O Mundo: Devido ao seu caráter 'receptivo para a terra', ele se assemelha simbolicamente ao boi/cavalo cor de carne presente no Arcano O Mundo (XXI).",
-        "Postura de Estudo (Rider-Waite): Em versões modernas, ele é retratado em um campo fértil, segurando a moeda com cuidado e observando-a atentamente.",
+        "O Foco Absoluto: O jovem está de pé, segurando uma única e grande moeda de ouro (pentáculo) no ar com as duas mãos. Ele não a segura com pressa ou possessividade, mas sim erguendo-a com cuidado e reverência, como se estivesse estudando sua composição ou admirando seu valor. Seu olhar está completamente fixo no pentáculo. Esse detalhe visual simboliza concentração, curiosidade intelectual e o desejo de decifrar as regras do mundo material. Ele representa a mente focada em aprender uma nova habilidade ou em entender como transformar uma teoria em um resultado tangível e real.",
+        "A Túnica Verde: O Pajem veste uma túnica inteiramente verde, a cor do elemento Terra, do crescimento orgânico, da fertilidade e do potencial de desenvolvimento. O verde reforça que, embora ele ainda seja um iniciante (uma semente), há uma imensa vitalidade em seu projeto.",
+        "O Adereço Vermelho na Cabeça: Ele usa um chapéu ou turbante vermelho com uma longa cauda que cai sobre seus ombros. O vermelho traz o elemento Fogo para a equação: simboliza a paixão, o entusiasmo interno e a energia física necessária para iniciar os estudos e manter a disciplina diária.",
+        "A Postura Corporal e o Solo Fértil: Ao contrário de outros Pajens do Tarot (como o de Espadas, que parece alerta e defensivo), o Pajem de Ouros caminha a passos lentos e deliberados por um campo plano, verdejante e repleto de pequenas flores vermelhas e amarelas. Ele está em contato direto com a terra fértil, o que demonstra que ele tem os pés no chão. Suas botas marrons de cano curto reforçam essa conexão prática e realista. O campo florido indica que o ambiente ao redor dele é propício para que seus estudos e planos deem bons frutos.",
+        "O Sulco de Terra Arada: À direita do Pajem, há uma pequena seção de terra marrom escura que já foi arada e preparada para o plantio. Isso simboliza que o trabalho de base já começou; a fundação está sendo preparada com método e ordem.",
+        "As Montanhas Distantes: No horizonte, erguem-se montanhas azuis e roxas. No simbolismo do Tarot, as montanhas representam os grandes desafios, as metas de longo prazo e a maestria que exigem esforço para serem alcançadas. O fato de elas estarem distantes mostra que o Pajem está ciente da jornada técnica e de longo prazo que tem pela frente, mas ele não se intimida; seu foco permanece no aprendizado do presente (o pentáculo em suas mãos)."
       ],
     },
     {
@@ -3222,11 +3224,14 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual (Tarot de Marselha)",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
-        "O Astro Flutuante: Diferente do Valete ou do Rei, que seguram moedas físicas, o Cavaleiro segue com o olhar um ouro espiritualizado que flutua no céu como um astro ou estrela.",
-        "A Égua Azul: Ele monta uma égua de cor azul-celeste (receptiva), que representa a sua saúde. Ela caminha a passos precisos e comedidos, simbolizando uma vida sintonizada com o presente.",
-        "O Bastão: Ele segura um bastão verde em sua mão direita, confirmando que ele já está semeando as bases para o próximo ciclo de ação e desejo.",
+        "O Cavalo Estacionado: Este é o único cavaleiro de todo o Tarot cujo cavalo está completamente parado, com as quatro patas firmemente apoiadas no solo. O cavalo é de cor preta, simbolizando força bruta, resistência física e conexão com as profundezas da terra. O fato de ele não estar galopando indica que este cavaleiro não se move por impulsos imediatistas. Ele avança de forma planejada; ele não tem pressa porque sabe exatamente para onde está indo e que a consistência vence a velocidade.",
+        "Prontidão e Proteção: O cavaleiro veste uma pesada armadura de metal, indicando que ele está totalmente preparado para enfrentar longas jornadas, intempéries e resistir ao desgaste do tempo. Ele é o arquétipo do executor resiliente.",
+        "O Olhar Direcionado ao Horizonte: Em sua mão direita, ele segura uma grande moeda de ouro (pentáculo), avaliando-a com atenção. Seu olhar está direcionado para a frente, fixo no horizonte acima da moeda. Isso simboliza clareza de metas, visão de longo prazo e compromisso com o resultado real.",
+        "O Ramo Verde no Elmo: No topo de seu capacete (elmo) e na rédea do cavalo, há ramos de folhagens verdes. Isso traz o elemento da vida orgânica e do crescimento para a armadura rígida de metal, simbolizando que sua disciplina serve para gerar frutos reais e prosperidade.",
+        "O Campo Arado em Linhas Perfeitas: O plano de fundo abaixo do cavalo exibe um vasto campo arado com sulcos marrons desenhados em linhas paralelas impecáveis e simétricas. Visualmente, isso é uma representação explícita de método, rotina, ordem e preparação. O solo foi exaustivamente trabalhado e organizado para o plantio de longo prazo. Não há improviso aqui; há um sistema operando de forma limpa, estruturada e persistente.",
+        "O Céu Amarelo Sólido: Assim como vimos no Nove de Ouros, o fundo da imagem é preenchido por um amarelo brilhante, plano e sem nuvens. Este céu elimina qualquer sinal de volatilidade, ruído ou tempestade iminente. Ele sela a atmosfera com as qualidades da consciência desperta, energia sustentada, foco intelectual prático e a certeza matemática de que o esforço aplicado trará o retorno esperado."
       ],
     },
     {
@@ -3257,12 +3262,13 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
-        "O Olhar Fixo (Marselha): Ela segura uma moeda de ouro (maior que a do Pajem) e olha fixamente para ela; esse gesto pode indicar uma meditação profunda sobre o valor das coisas.",
-        "A Guardiã (Marselha): Descrita como a 'cadela que defende o solo oculto no coração', a guardiã ferrenha de seu território e de seu tesouro interno.",
-        "A Rainha da Terra (Rider-Waite): Retratada em um ambiente fértil, cercada pela natureza, segurando o pentáculo com carinho, reforçando seu caráter maternal e nutridor.",
-        "O Trono: Situada no interior de seu 'palácio', ela está absorta por seu próprio elemento, demonstrando total identificação com o mundo físico.",
+        "O Olhar de Cuidado: A Rainha está sentada em seu trono, segurando uma grande moeda de ouro (pentáculo) de maneira terna e protetora sobre o colo. Ela inclina levemente a cabeça para baixo, olhando para a moeda com uma expressão de profundo carinho, serenidade e contemplação. Diferente do Nove de Ouros, que ostenta sua independência, a Rainha olha para o pentáculo como uma mãe olha para um filho ou como um ecologista olha para uma semente preciosa. Isso simboliza que ela não valoriza o dinheiro pelo poder ou pelo status, mas sim pelo que ele pode proporcionar: nutrição, proteção, crescimento e bem-estar para os que estão sob seus cuidados.",
+        "O Trono de Pedra Entalhado: O trono da Rainha é feito de pedra cinzenta e escura, fundindo-se de maneira orgânica com a paisagem ao redor. O encosto e as laterais do trono exibem entalhes detalhados: há cabeças de bodes ou carneiros esculpidas, além de frutas e figuras humanas infantis (querubins). O bode é um símbolo tradicional do signo de Capricórnio (elemento Terra), representando determinação prática, ambição realista e a capacidade de escalar terrenos áridos. As frutas entalhadas reforçam que suas leis e decisões geram abundância palpável.",
+        "As Vestes Cromaticamente Equilibradas: Ela veste uma longa túnica vermelha por baixo de um manto verde com detalhes amarelos, além de um véu branco que desce por sua cabeça. O vermelho simboliza sua paixão, vitalidade, força física e conexão com o sangue da terra. O verde e o amarelo representam a fertilidade da vegetação e a clareza mental ou riqueza espiritual que guiam suas ações diárias. O branco do véu indica a pureza de suas intenções e a sabedoria intuitiva integrada ao plano material.",
+        "A Moldura de Rosas e a Natureza Exuberante: Acima do trono, uma densa trepadeira carregada de rosas vermelhas e folhas verdes forma um arco de proteção natural. As rosas simbolizam o amor, o desejo e a beleza que florescem quando há estabilidade material. O solo abaixo de seus pés é vibrante, amarelo e verdejante, repleto de pequenas flores. Ao fundo, vemos montanhas azuis e um rio ou riacho sinuoso que corre suavemente. A presença da água (elemento emocional/intuição) correndo livremente por um cenário de Terra mostra que a Rainha consegue equilibrar a lógica de mercado com a empatia e a sensibilidade humana.",
+        "A Lebre no Canto Inferior Direito: No canto inferior direito da imagem, uma pequena lebre ou coelho salta rapidamente pela grama. O coelho é um dos símbolos mais antigos e universais para fertilidade, multiplicação rápida, agilidade e abundância. A presença desse animal em movimento dinâmico quebra o aspecto estático da Rainha sentada, lembrando que a prosperidade sob o comando dela está em constante processo de reprodução e renovação biológica. Os recursos não estão estagnados; eles estão gerando novos frutos."
       ],
     },
     {
@@ -3281,40 +3287,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
   ],
-  "rainha-de-ouros": [
-    {
-      title: "Significados Gerais e Palavras-Chave",
-      content: [
-        "A Rainha de Ouros (ou Rainha de Denários) representa a maturidade e a plena posse do centro material, simbolizando uma figura pragmática, ativa e profundamente conectada com a realidade física, a economia e a saúde. Ela é a 'Dona da Casa' no plano material, vivendo como uma proprietária que gerencia com segurança o que conquistou.",
-        "Abundância e Prosperidade: É considerada a 'Rainha do Dinheiro', sinalizando sucesso financeiro, riqueza duradoura e a capacidade de prover para os outros.",
-        "Inteligência Prática: Representa alguém que faz planos realistas e investe sua energia para concretizar sonhos através de métodos concretos.",
-        "Imanência: Diferente de outras figuras que buscam o divino no 'além', a Rainha de Ouros encontra a superação e o sagrado no centro da matéria e do cotidiano.",
-        "Palavras-chave: Economia, investimento, segurança material, saúde, pragmatismo, fertilidade, estabilidade e nutrição.",
-      ],
-    },
-    {
-      title: "Simbolismo Visual",
-      content: [
-        "O Olhar Fixo (Marselha): Ela segura uma moeda de ouro e olha fixamente para ela, um gesto que pode indicar meditação profunda sobre o valor das coisas.",
-        "A Guardiã (Marselha): Descrita como a 'cadela que defende o solo oculto no coração', a guardiã ferrenha de seu território e de seu tesouro interno.",
-        "A Rainha da Terra (Rider-Waite): É retratada em um ambiente fértil, cercada pela natureza, e segura o pentáculo com carinho, reforçando seu caráter maternal e nutridor.",
-        "O Trono: Situada no interior de seu 'palácio', ela está absorta por seu próprio elemento, demonstrando total identificação com o mundo físico.",
-      ],
-    },
-    {
-      title: "A Rainha de Ouros em Leituras",
-      content: [
-        "Positivo (Em pé): Sinaliza que o consulente tem os meios para garantir sua segurança e saúde. Indica uma fase de equilíbrio, onde se cuida bem do corpo, da alimentação e do ambiente doméstico.",
-        "Negativo (Desafiador): Alerta para a avareza, a teimosia e o egoísmo. Pode representar alguém que não consegue enxergar além das necessidades materiais, ignorando a vida espiritual ou emocional.",
-      ],
-    },
-    {
-      title: "Contexto Numerológico e Evolutivo",
-      content: [
-        "Na numerologia do Tarot, a Rainha de Ouros situa-se entre o Grau 4 (estabilidade) e o Grau 5 (novo ideal). Domina a técnica do investimento e da economia, mas já sente o chamado para usar essa base material em prol de algo maior.",
-      ],
-    },
-  ],
+  
   "rei-de-ouros": [
     {
       title: "Significados Gerais e Palavras-Chave",
@@ -3327,11 +3300,14 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
-        "O Chapéu e a Natureza (Marselha): Ele troca a coroa por um chapéu e seu trono está situado em plena natureza, indicando que seu reino é o planeta inteiro e que vive do próprio trabalho em contato com a terra.",
-        "O Ouro Duplo: Segura uma moeda na mão enquanto seu olhar segue outra que flutua no céu, simbolizando que a matéria em suas mãos já se tornou espiritualizada.",
-        "Abundância e Touros (Rider-Waite): Retratado cercado por uvas e com um trono decorado por touros, reforçando sua conexão com o signo de Touro.",
+        "O Manto de Videiras: O Rei veste um manto longo e pesado inteiramente estampado com ramos de videira e uvas escuras. Esse detalhe visual mostra que a sua autoridade está diretamente ligada à fertilidade e à capacidade de fazer os projetos gerarem frutos consistentes. Ele não apenas acumulou riqueza, ele se tornou parte do próprio ecossistema de prosperidade.",
+        "O Cetro e o Pentáculo: Em sua mão direita, ele segura um cetro dourado com uma esfera no topo, simbolizando seu poder de comando no mundo físico. Com a mão esquerda, ele apoia firmemente uma grande moeda de ouro (pentáculo) sobre a coxa. Sua postura com a moeda é de total segurança, estabilidade e posse legítima; ele não precisa estudá-la ou protegê-la com ansiedade, pois seu domínio sobre as finanças e os recursos já está consolidado.",
+        "O Trono Adornado com Touros: O trono de pedra escura do Rei é decorado com imponentes cabeças de touros entalhadas nos braços e no encosto. O touro é o símbolo astrológico do signo de Touro (elemento Terra), representando estabilidade inabalável, persistência, sensualidade material, determinação teimosa e o poder de construir bases que resistem a qualquer crise. O trono sólido indica que sua posição e seu império são permanentes.",
+        "A Bota de Armadura: Um detalhe visual sutil e de extrema importância está na parte inferior de suas vestes: projetando-se por baixo do manto de videiras, vemos o pé esquerdo do Rei totalmente revestido por uma bota de armadura de metal, firmemente apoiada sobre o solo ou sobre uma estrutura de pedra. Essa armadura oculta sob o manto de luxo envia uma mensagem clara: embora ele viva em um estado de conforto, paz e abundância, ele não é complacente ou fraco. Ele continua sendo um guerreiro pragmático, pronto para defender seu reino, tomar decisões difíceis de mercado ou agir com firmeza estratégica sempre que necessário.",
+        "O Castelo ao Fundo e o Muro de Proteção: Atrás do trono, ergue-se um muro de pedra baixo que separa o jardim do Rei de sua grande propriedade fortificada (o castelo com torres visível à direita). O castelo simboliza a estabilidade institucional, o patrimônio imobiliário consolidado e a solidez de suas conquistas de longo prazo. O muro reforça o conceito de limites claros, segurança física e governança eficiente. Tudo sob os domínios deste Rei é meticulosamente planejado e protegido.",
+        "O Céu Amarelo e a Vegetação Baixa: O cenário ao redor do trono é preenchido por flores vermelhas no canto inferior esquerdo e folhas densas. O fundo é selado por um céu amarelo sólido e brilhante, eliminando qualquer incerteza climática ou volatilidade. O céu dourado confirma que o ambiente atingiu o ápice da clareza, do sucesso e da realização tangível."
       ],
     },
     {
@@ -3360,7 +3336,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "O Presente do Universo: Uma mão branca e reluzente emerge de uma nuvem densa no lado esquerdo da carta. Como nos outros Ases, a nuvem simboliza o mistério da criação e o plano espiritual. A oportunidade que o Ás traz é um vislumbre de sorte ou uma dádiva que se apresenta na vida do consultante.",
         "A Palma Aberta: A mão sustenta o grande ouro com a palma aberta voltada para cima, oferecendo a moeda sem retê-la. Isso significa que a oportunidade está disponível e pronta para ser agarrada, mas exige que a pessoa estenda a própria mão para recebê-la e assuma a responsabilidade de cultivá-la.",
@@ -3399,7 +3375,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
         ],
       },
       {
-        title: "Simbolismo Visual",
+        title: "Simbolismo Visual (Rider-Waite)",
         content: [
           "A Posição Central: No centro da carta, ergue-se um homem ricamente vestido com uma túnica vermelha e roxa, cores associadas ao status, nobreza e poder de realização. Ele é a figura central que detém os recursos e controla a cena.",
           "A Mão da Generosidade: Com sua mão direita, ele derrama moedas de ouro diretamente na mão aberta de um dos necessitados. Isso simboliza o ato da caridade, o compartilhamento da riqueza e o papel de provedor ou patrocinador.",
@@ -3436,11 +3412,14 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
         ],
       },
       {
-        title: "Simbolismo Visual",
+        title: "Simbolismo Visual (Rider-Waite)",
         content: [
-          "O Triângulo no Quadrado (Marselha): Apresenta três moedas centrais formando um triângulo (espírito) cercado por quatro moedas nos cantos (matéria). Essa geometria simboliza o espírito em gestação no centro da realidade concreta.",
-          "O Lavrador (Rider-Waite): Mostra um homem apoiado em sua enxada, observando o crescimento de sete ouros. Seu semblante pode sugerir cansaço ou tédio, mas ele reflete sobre o esforço e a energia depositados na colheita que virá.",
-          "Níveis de Ação: Diferente do Sete de Paus, que se abre para o mundo, o Sete de Ouros foca na gestação de um ideal interno dentro da própria estrutura material.",
+          "A Pausa no Trabalho: Um homem apoia as duas mãos e o queixo sobre o cabo de sua enxada (ou ferramenta de cultivo), interrompendo temporariamente o seu labor. Ele trabalhou duro para arar a terra, plantar as sementes e cuidar do cultivo; agora, entrou na fase onde o trabalho braçal não pode mais acelerar o processo. Ele precisa esperar.",
+          "O Olhar de Avaliação: Sua expressão facial é pensativa e reflexiva, beirando o cansaço legítimo. Ele olha para a videira não com desespero, mas fazendo um balanço estatístico e existencial: \"O retorno está sendo proporcional à energia que investi? Vale a pena continuar cultivando esta mesma terra?\"",
+          "Seis Ouros na Videira: Seis grandes moedas de ouro estão presas à folhagem verdejante e robusta. Elas simbolizam o patrimônio que está amadurecendo, os investimentos de longo prazo e os projetos que estão se desenvolvendo bem, mas que ainda não estão prontos para serem totalmente resgatados.",
+          "Um Ouro no Chão: Uma única moeda está caída aos pés do agricultor, próxima à sua bota. Isso representa o ganho imediato, a garantia de subsistência que ele já conseguiu retirar, ou a \"semente inicial\" que deu origem a tudo. Mostra que o trabalho já gerou algum resultado tangível, garantindo que o esforço não foi em vão.",
+          "A Vegetação Exuberante e o Solo: A videira onde os pentáculos estão inseridos é densa, verde e saudável. O solo aos pés do trabalhador é escuro e fértil. Visualmente, isso garante ao consultante que o projeto tem substância e vitalidade. Não há sinais de praga, seca ou escassez (como vimos no Cinco de Ouros). O sucesso está garantido, desde que o tempo de maturação da natureza seja respeitado.",
+          "As Montanhas e o Céu Claro: Ao fundo, o céu é azul-claro e limpo, trazendo clareza mental para tomar decisões futuras. As pequenas montanhas no horizonte reforçam a distância que já foi percorrida desde o início do naipe e lembram que a construção de uma estrutura sólida e duradoura na vida exige uma perspectiva macro, sem pressa ou ansiedade imediatista."
         ],
       },
       {
@@ -3472,11 +3451,15 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
           ],
         },
         {
-          title: "Simbolismo Visual (Tarot de Marselha)",
+          title: "Simbolismo Visual (Rider-Waite)",
           content: [
-            "A Flor Central Consciente: No centro da carta, há uma flor com o miolo amarelo marcado por uma cruz. Isso simboliza que, no coração da matéria, reside a consciência da eternidade e do infinito.",
-            "Geometria da Estabilidade: A disposição das moedas forma dois quadrados: um externo nos quatro cantos (segurança material) e um interno no centro (espiritualidade).",
-            "Exuberância Vegetal: Diferente do Oito de Espadas, o Oito de Ouros é profuso em folhagens que se estendem em todas as direções, indicando que a perfeição material é 'cheia' e fértil.",
+            "A Concentração Absoluta: Um jovem está sentado em seu banco de trabalho de madeira, totalmente absorvido pela tarefa que tem em mãos. Ele segura um martelo e um cinzel, esculpindo com precisão uma estrela de cinco pontas em uma moeda de ouro. Sua postura inclinada para a frente e seu olhar atento revelam que não há espaço para distrações no ambiente. Ele está em estado de fluxo (flow).",
+            "A Evolução da Maestria: Diferente do operário do Três de Ouros, que trabalhava sob comando e supervisão de terceiros, o artesão do Oito de Ouros trabalha de forma autônoma. Ele se tornou o mestre de sua própria técnica, focado na consistência da entrega.",
+            "As Moedas Concluídas na Pilha Vertical: Fixadas verticalmente em um poste de madeira à direita, estão seis moedas de ouro perfeitamente idênticas e finalizadas. Essa disposição linear e vertical demonstra regularidade, disciplina e o acúmulo de conquistas passadas. Cada moeda no poste representa horas de prática e esforço dedicado.",
+            "A Moeda em Execução: O artesão trabalha na sétima moeda, simbolizando o esforço presente e a dedicação ao \"aqui e agora\".",
+            "A Moeda no Chão: Há uma oitava moeda inacabada ou aguardando no chão, aos pés do banco. Isso indica que o trabalho ainda não terminou; há sempre espaço para continuar produzindo, aprimorando a técnica e dando o próximo passo prático.",
+            "As Roupas e o Avental de Proteção: O jovem veste uma túnica azul-turquesa por baixo de um avental escuro de trabalho, calça vermelha e sapatos roxos. O avental escuro simboliza que ele está disposto a \"sujar as mãos\" e a proteger sua energia vital (representada pelo vermelho de sua calça) do desgaste externo. O azul traz a calma intelectual e a clareza necessárias para executar tarefas que exigem alta precisão técnica e atenção aos mínimos detalhes.",
+            "A Cidade Isolada ao Fundo: Bem distante, no canto esquerdo inferior do horizonte, desenha-se o contorno de uma cidade com suas torres e edifícios brancos. O fato de a cidade estar tão afastada e o jovem estar de costas para ela reforça o isolamento voluntário para o aprendizado. Ele se retirou do barulho social, das fofocas, do comércio e das interações cotidianas para conseguir o nível de isolamento necessário para focar no desenvolvimento de seu projeto ou habilidade. O foco dele está inteiramente na bancada."
           ],
         },
         {
@@ -3508,11 +3491,15 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
             ],
           },
           {
-            title: "Simbolismo Visual (Tarot de Marselha)",
+            title: "Simbolismo Visual (Rider-Waite)",
             content: [
-              "A Moeda-Bebê: Jodorowsky destaca que a moeda central da carta assemelha-se à cabeça de um bebê saindo da matriz (um oval azul e vermelho formado por folhagens).",
-              "Perfeição Circundante: Este nascimento ocorre no centro da perfeição das outras oito moedas, sugerindo que a nova vida surge de um estado de equilíbrio pleno.",
-              "Despojamento: Ao contrário de graus anteriores mais ornamentados, o Nove foca no essencial do processo de parto e mudança.",
+              "A Postura de Serenidade: Uma mulher bem-vestida está de pé no centro de um jardim exuberante. Sua expressão é calma e segura, refletindo paz de espírito e dignidade. Ela não está trabalhando; ela está passeando pelos seus próprios domínios.",
+              "O Manto Amarelo com Padrões: Ela veste um manto longo e luxuoso de cor amarela, simbolizando inteligência, vitalidade, riqueza e felicidade. O tecido é decorado com pequenas flores vermelhas (ou símbolos que remetem a sementes/frutos), o que reforça visualmente que suas vestes e seu sustento são feitos do próprio crescimento material que ela cultivou.",
+              "O Falcão Encapuzado: Em sua mão esquerda, protegida por uma luva grossa de couro, repousa um falcão domesticado com um capuz na cabeça. O falcão é uma ave de rapina imponente, associada historicamente à nobreza e à caça. No simbolismo esotérico, o falcão representa os instintos selvagens, os desejos e a força de vontade. O fato de ele estar empoleirado e encapuzado indica autodomínio, disciplina mental e controle sobre as próprias paixões. Ela alcançou o sucesso material porque soube domar seus impulsos e focar estrategicamente em seus objetivos de longo prazo.",
+              "As Videiras Carregadas e os Nove Pentáculos: A personagem está cercada por videiras altas, densas e repletas de uvas maduras, que simbolizam fertilidade, abundância profunda e doçura na vida. Os nove pentáculos estão distribuídos de maneira muito específica ao redor dela: uma pilha de seis moedas está firmemente apoiada à sua direita (representando sua base sólida e consolidada) e um grupo de três moedas está posicionado à sua esquerda, próximo ao manto. Essa disposição mostra que a riqueza está integrada de forma orgânica e harmoniosa ao seu ambiente.",
+              "O Caracol Meticuloso: No canto inferior esquerdo, bem próximo ao chão, há um pequeno caracol rastejando lentamente. Este detalhe visual sutil é uma alusão deliberada ao tempo: a independência e a estabilidade retratadas nesta carta não aconteceram do dia para a noite. Foram construídas de forma lenta, constante, paciente e deliberada (passo a passo, como a jornada do caracol).",
+              "O Céu Dourado: O fundo da carta é inteiramente preenchido por um amarelo brilhante e sólido. Isso elimina qualquer sinal de tempestade, escuridão ou dúvida, selando a atmosfera de realização plena, clareza mental e satisfação com o momento presente.",
+              "A Propriedade ao Fundo: No horizonte, à direita, é possível ver parte de uma grande propriedade ou castelo entre as árvores. Isso reforça que o jardim onde ela se encontra faz parte de suas terras, simbolizando propriedade privada, solidez patrimonial e a segurança de ter um refúgio seguro e confortável no mundo."
             ],
           },
           {
@@ -3543,12 +3530,13 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
             ],
           },
           {
-            title: "Simbolismo Visual",
+            title: "Simbolismo Visual (Rider-Waite)",
             content: [
-              "A Geometria da Realização (Marselha): Quatro moedas nos cantos formam um 'quadrado material' enquanto as seis moedas centrais desenham um oval que lembra a mandorla do arcano O Mundo.",
-              "O Eixo Branco: Pela primeira vez na série, aparecem moedas unidas por um eixo branco vertical, sinalizando que a energia material está imobilizada e pronta para passar a uma dimensão de consciência pura.",
-              "A Árvore da Vida (Rider-Waite): As dez moedas estão arranjadas no formato da Árvore da Vida, representando a conexão com os ancestrais, o universo e o crescimento tanto físico quanto espiritual.",
-              "As Três Gerações: A imagem de um idoso, um casal e uma criança com cães simboliza a continuidade da linhagem e a segurança que abrange toda a família.",
+              "O Ancião Patriarca: Sentado em primeiro plano à esquerda, vemos um homem idoso de cabelos brancos. Ele está envolto em um manto extremamente luxuoso, ricamente decorado com videiras, uvas e símbolos heráldicos. Ele representa a origem da fundação, o acumulador do patrimônio e da sabedoria que agora observa, em paz, o fruto de uma vida inteira de trabalho.",
+              "O Casal: No centro, um homem de costas e uma mulher de frente conversam sob um grande arco de pedra. Eles representam a geração madura e ativa, encarregada de gerenciar a estrutura atual, manter os negócios e preservar a estabilidade da família.",
+              "A Criança e os Cães: No canto inferior direito, uma criança pequena brinca e acaricia dois cachorros brancos (galgos, historicamente associados à nobreza e à fidelidade doméstica). A criança simboliza o futuro, a garantia de que o patrimônio e os valores familiares continuarão vivos nas próximas eras. Os cães reforçam a atmosfera de lealdade, conforto e segurança do lar.",
+              "A Árvore da Vida Formada pelos Dez Pentáculos: O detalhe esotérico mais impressionante desta carta é a distribuição geométrica das dez moedas de ouro: elas estão sobrepostas à cena inteira, mas se você conectá-las visualmente, notará que os dez pentáculos estão dispostos exatamente no formato da Árvore da Vida (Etz Chaim) da Cabala. Essa escolha de design de Pamela Colman Smith e Arthur Edward Waite eleva o significado da carta: mostra que a verdadeira riqueza material, quando bem estruturada, é o reflexo terreno de uma ordem divina e cósmica de manifestação. A fundação material sólida serve como um templo seguro para a experiência espiritual e humana.",
+              "A Arquitetura Sólida e o Arco de Pedra: Os personagens estão protegidos por uma sólida construção de pedra, com uma torre alta visível ao fundo e um brasão ou emblema esculpido acima do arco. O arco de pedra atua como um portal e simboliza proteção contra o caos do mundo exterior. A arquitetura medieval rígida enfatiza as ideias de durabilidade, instituições consolidadas (como empresas familiares, fundos imobiliários ou dinastias) e leis que resistem à passagem do tempo."
             ],
           },
           {
@@ -3579,7 +3567,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "O Abraço de Proteção: Um homem está sentado em uma estrutura de pedra, segurando uma grande moeda de ouro firmemente contra o próprio peito com ambos os braços cruzados ao redor dela. Esse gesto corporal é puramente defensivo e indica o medo subjacente de perder o que conquistou. Ele protege seu patrimônio trancando o coração para o mundo exterior.",
         "O Olhar Desconfiado: Sua expressão facial não denota a paz de quem é próspero e livre, mas sim a tensão e a desconfiança de quem se sente constantemente ameaçado. Ele vigia seus pertences com rigidez.",
@@ -3618,7 +3606,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       ],
     },
     {
-      title: "Simbolismo Visual",
+      title: "Simbolismo Visual (Rider-Waite)",
       content: [
         "A Figura de Muletas: À esquerda, um homem com o pé enfaixado apoia-se em muletas de madeira. Ele veste uma túnica azulada e carrega um pequeno sino dourado pendurado ao pescoço. Historicamente, os sinos eram usados na Idade Média para identificar leprosos ou párias sociais, alertando os outros de sua aproximação. Ele representa a fragilidade física, a doença e o sentimento de ser rejeitado ou excluído pela sociedade.",
         "A Figura com a Manta Desgastada: À direita, outra pessoa caminha com a cabeça totalmente curvada, envolta em uma manta marrom esfarrapada e rasgada. Sua postura corporal é de pura derrota e exaustão, simbolizando o peso avassalador das preocupações e a perda da dignidade.",

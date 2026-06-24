@@ -155,6 +155,30 @@ export default function OTarotPage() {
                 </div>
               </div>
             </section>
+            
+            <section>
+              <h2 className="font-heading text-2xl text-foreground">7. O Embaralhamento das Cartas</h2>
+              <p className="mt-4">
+                O ato de embaralhar as cartas não é visto apenas como um procedimento técnico, mas como um processo simbólico e energético fundamental para a leitura. Para Alejandro Jodorowsky (2004), o Tarot é um {"\"ser\""} vivo e uma unidade orgânica. Ele utiliza a metáfora de que, ao embaralhar as cartas, nós {"\"despedaçamos Deus\""}, quebrando a unidade do sistema em fragmentos. O papel da leitura é, então, reunir esses pedaços em "frases" que façam sentido para o presente do consulente, permitindo que a divindade ou a consciência {"\"ressuscite\""} no mundo material através da interpretação.
+              </p>
+              <p className="mt-4">
+                Ao embaralhar, o consulente cria seu próprio {"\"caos\""} ou universo momentâneo. Nesse estado, a ordem lógica das cartas é suspensa para que uma nova configuração emerja. Jodorowsky define a leitura como o encontro de três acasos:
+              </p>
+              <ul className="mt-4 list-disc pl-6 space-y-2">
+                <li>O que levou o consulente até o tarólogo;</li>
+                <li>O que levou o tarólogo até o consulente;</li>
+                <li>O momento exato em que as cartas são escolhidas após o embaralhamento.</li>
+              </ul>
+              <p className="mt-4">
+                Muitas tradições sugerem que o próprio consulente deve embaralhar as cartas para imprimir sua energia no baralho. Isso ajuda a conectar a psique da pessoa aos símbolos que serão revelados. Caso o leitor prefira não deixar o consulente tocar nas cartas, ele pode pedir que o consulente diga quando parar de embaralhar ou que ele escolha um número, mantendo a conexão entre a vontade do consulente e a seleção {"\"aleatória\""}.
+              </p>
+              <p className="mt-4">
+                A aleatoriedade permite que ocorram eventos que muitos leitores consideram mensagens diretas do inconsciente, como as {"\"cartas que saltam\""} (pop-outs) durante o embaralhamento. Esses incidentes são frequentemente vistos como informações valiosas que {"\"querem\""} ser vistas, desafiando a mera probabilidade estatística.
+              </p>
+              <p className="mt-4">
+                A {"\"sorte\""} das cartas que saem fornece a matéria-prima para a projeção. Como o Tarot funciona como um espelho, a aleatoriedade garante que a imagem refletida não seja controlada pelo ego racional do leitor, permitindo que ele atue como um {"\"homem invisível\""} ou um espelho limpo que reflete o nível de consciência do outro através das imagens sorteadas.
+              </p>
+            </section>
           </div>
         </article>
       </main>

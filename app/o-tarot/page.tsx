@@ -27,7 +27,7 @@ export default function OTarotPage() {
             <section>
               <p>
                 O Tarot é definido como um sistema complexo de 78 cartas ou lâminas, que funciona tanto como uma {"\"catedral nômade\""} quanto como uma enciclopédia de símbolos. Mais do que um simples jogo, ele é considerado uma linguagem óptica e uma ferramenta visual de desenvolvimento pessoal e espiritual.
-                Surgido na Europa no século XIV, o Tarot evoluiu de um passatempo para um instrumento de introspecção, estudo simbólico e autoconhecimento, sendo utilizado por místicos, filósofos e artistas ao longo dos séculos.
+                Surgido na Europa no século XIV (provavelmente em Marselha na França), o Tarot evoluiu de um passatempo lúdico para um instrumento de introspecção, estudo simbólico e autoconhecimento, sendo utilizado por místicos, filósofos e artistas ao longo dos séculos.
               </p>
               <p>
                 Alejandro Jodorowsky, em seu livro O Caminho do Tarot (2004), destaca que ele é uma {"\"máquina filosófica\""} e uma gramática de perguntas e respostas que permite a comunicação com o Divino e a exploração da psique. Ele é visto como um espelho da alma, onde cada carta se torna aquilo que o observador vê, permitindo que o inconsciente se manifeste através das imagens.

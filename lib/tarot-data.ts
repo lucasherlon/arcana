@@ -158,6 +158,13 @@ export const majorArcana: TarotCard[] = [
         ]
       },
       {
+        title: "Origens do Arcano",
+        content: [
+          "Nos primeiros baralhos italianos do Renascimento, como o Visconti-Sforza, O Mago aparecia como \"Il Bagatto\" (ou \"Il Bagatello\"), uma figura popular de saltimbanco, malabarista ou prestidigitador que se apresentava nas feiras e mercados medievais.",
+          "Essa origem de artista ambulante, hábil com as mãos e com a palavra, explica sua dupla face de criador genial e de possível trapaceiro. Com a sistematização esotérica francesa do século XIX, sobretudo em Éliphas Lévi, ele foi elevado de simples mágico de feira ao número I, símbolo da vontade humana capaz de manifestar a realidade — interpretação consolidada pelo baralho Rider-Waite-Smith (1909)."
+        ]
+      },
+      {
         title: "A Jornada Espiritual",
         content: [
           "Na \"Jornada do Louco\", o Mago é o primeiro passo consciente. Ele representa o momento em que o ser humano deixa de ser apenas um impulso e passa a ser o arquiteto de sua própria vida, unindo o poder espiritual ao poder material.",
@@ -210,6 +217,13 @@ export const majorArcana: TarotCard[] = [
         content: [
           "Positivo (Em pé): Indica que a resposta desejada está dentro do próprio consultente e que ele deve confiar em seus instintos. Sugere um período de estudo, retiro necessário ou a presença de uma guia espiritual feminina.",
           "Negativo (Invertido): Pode representar uma desconexão da intuição, bloqueios emocionais ou estar sendo excessivamente influenciado pelas opiniões de terceiros. Também pode indicar segredos perigosos, fofocas ou uma rigidez (frieza) que impede o fluxo da vida."
+        ]
+      },
+      {
+        title: "Origens do Arcano",
+        content: [
+          "Originalmente chamada de \"A Papisa\" (La Papessa) nos baralhos italianos do século XV, esta carta provavelmente alude à lenda medieval da Papisa Joana, mulher que teria se disfarçado e ocupado o trono papal, e a figuras femininas ligadas a ordens religiosas heréticas, como Sóror Manfreda, da família Visconti.",
+          "Por seu caráter polêmico diante da Igreja, em muitos baralhos posteriores ela foi rebatizada como \"Juno\". Foi a tradição esotérica, de Court de Gébelin a Arthur Edward Waite, que a transformou na \"Alta Sacerdotisa\", guardiã dos mistérios ocultos, associando-a ao templo de Salomão e ao conhecimento intuitivo no baralho Rider-Waite-Smith (1909)."
         ]
       },
       {
@@ -268,6 +282,13 @@ export const majorArcana: TarotCard[] = [
         ]
       },
       {
+        title: "Origens do Arcano",
+        content: [
+          "A Imperatriz figura entre os Arcanos Maiores desde os baralhos aristocráticos italianos do século XV, como o Visconti-Sforza, onde representava a consorte do poder temporal, contraparte feminina do Imperador na hierarquia da corte.",
+          "Suas raízes simbólicas remontam às antigas deusas-mãe da abundância e da fertilidade, como Vênus, Deméter e Ísis. A tradição esotérica dos séculos XVIII e XIX reforçou essa ligação com a natureza criadora, e o baralho Rider-Waite-Smith (1909) a consolidou cercada de trigo e vegetação, como o arquétipo da Mãe universal."
+        ]
+      },
+      {
         title: "A Jornada Espiritual",
         content: [
           "Na \"Jornada do Louco\", a Imperatriz é o momento em que o buscador aprende a nutrir a si mesmo e aos outros. Ela é o passo onde a sabedoria passiva da Sacerdotisa se torna ação manifesta; o ovo finalmente se quebra para permitir o nascimento do ser.",
@@ -319,6 +340,13 @@ export const majorArcana: TarotCard[] = [
         content: [
           "Positivo (Em pé): Indica uma situação financeira sólida, um lar equilibrado, ou o encontro com um aliado protetor e honesto. Sugere que o consultente deve ser assertivo, criar rotinas e assumir o controle de sua própria vida com disciplina.",
           "Negativo (Invertido): Pode representar tirania, inflexibilidade ou abuso de autoridade. Indica uma pessoa \"imdobrável\" que se recusa a ouvir os outros, ou, por outro lado, uma falta de disciplina que leva à ruína e ao fracasso na idade adulta."
+        ]
+      },
+      {
+        title: "Origens do Arcano",
+        content: [
+          "O Imperador está presente desde os primeiros tarôs italianos do Renascimento, representando o poder temporal e secular, em par direto com a autoridade máxima da ordem terrena na época, o imperador do Sacro Império Romano-Germânico.",
+          "Como contraponto ao poder espiritual do Papa (o Hierofante), ele encarnava a figura do governante, do legislador e do pai. A tradição esotérica francesa associou-o ao signo de Áries e ao princípio da autoridade construtiva, papel mantido no baralho Rider-Waite-Smith (1909), onde aparece em seu trono ornado de carneiros."
         ]
       },
       {
@@ -377,6 +405,13 @@ export const majorArcana: TarotCard[] = [
         ]
       },
       {
+        title: "Origens do Arcano",
+        content: [
+          "Conhecido nos baralhos italianos do século XV como \"O Papa\" (Il Papa), este arcano representava a mais alta autoridade espiritual do mundo cristão medieval, o sumo pontífice que mediava a relação entre o céu e os fiéis.",
+          "Para suavizar o conflito com a Igreja e dar-lhe um tom mais universal, ocultistas como Court de Gébelin o renomearam \"Hierofante\" — título do sacerdote que revelava os mistérios sagrados em Elêusis, na Grécia antiga. O baralho Rider-Waite-Smith (1909) consagrou esse nome, apresentando-o como guardião da tradição e da iniciação."
+        ]
+      },
+      {
         title: "A Jornada Espiritual",
         content: [
           "Na \"Jornada do Louco\", o Hierofante é o estágio da educação e iniciação. Ele representa o momento em que o buscador deixa de focar apenas no poder material do Imperador para resgatar seu poder espiritual.",
@@ -428,6 +463,13 @@ export const majorArcana: TarotCard[] = [
         content: [
           "Positivo (Em pé): Indica um relacionamento harmonioso, atração mútua, uma escolha acertada baseada no coração e a resolução de oposições em prol de algo maior. Sugere que o consultente está em paz com suas decisões e valores.",
           "Negativo (Invertido): Pode sinalizar conflitos internos, desarmonia no casal, uma escolha infeliz ou irresponsável, e a tendência a seguir a lógica fria em vez do desejo da alma. Também pode representar um triângulo amoroso problemático ou a incapacidade de se comprometer."
+        ]
+      },
+      {
+        title: "Origens do Arcano",
+        content: [
+          "Nos baralhos renascentistas italianos, \"L'Amore\" (O Amor) costumava retratar um casal sob a figura de Cupido, celebrando o amor cortês e, muitas vezes, o casamento como aliança entre famílias nobres.",
+          "No Tarot de Marselha, a cena ganhou um terceiro personagem — um jovem entre duas mulheres, sob a flecha de Cupido —, transformando a carta no tema da escolha moral e da encruzilhada. O baralho Rider-Waite-Smith (1909) reinterpretou a imagem como Adão e Eva no Éden abençoados por um anjo, ligando-a ao signo de Gêmeos e à união dos opostos."
         ]
       },
       {
@@ -486,6 +528,13 @@ export const majorArcana: TarotCard[] = [
         ]
       },
       {
+        title: "Origens do Arcano",
+        content: [
+          "O Carro aparece nos tarôs italianos do século XV inspirado nos desfiles triunfais (trionfi) da Roma antiga e das festas renascentistas, em que o vencedor desfilava em uma carruagem diante do povo como símbolo de glória e conquista.",
+          "A própria palavra \"trionfi\", usada para nomear os Arcanos Maiores, deriva desses cortejos. A tradição esotérica associou o arcano ao domínio da vontade sobre forças opostas — representadas pelas duas esfinges ou cavalos —, e o baralho Rider-Waite-Smith (1909) o vinculou ao signo de Câncer e ao triunfo do espírito disciplinado."
+        ]
+      },
+      {
         title: "A Jornada Espiritual",
         content: [
           "Na \"Jornada do Herói\", O Carro encerra o primeiro septenário (focado no corpo e no consciente). Ele marca a transição em que o buscador deixa de apenas aprender para se tornar um veículo para o espírito, assumindo a direção de sua existência com maturidade.",
@@ -537,6 +586,13 @@ export const majorArcana: TarotCard[] = [
         content: [
           "Positivo (Em pé): Indica que o consulente tem os recursos necessários para vencer seus medos e alcançar seus objetivos. Sugere o retorno da saúde após uma doença, o sucesso em novos empreendimentos e uma fase de grande vigor físico e mental.",
           "Negativo (Invertido): Pode sinalizar covardia, falta de autoconfiança ou permitir que a ansiedade e o medo bloqueiem o progresso. Também pode representar o \"lado selvagem\" descontrolado: explosões emocionais, agressividade, ou, por outro lado, uma repressão perigosa dos instintos."
+        ]
+      },
+      {
+        title: "Origens do Arcano",
+        content: [
+          "A Força integra os Arcanos Maiores desde o Renascimento italiano, frequentemente retratada como uma figura quebrando uma coluna (alusão a Hércules e Sansão) ou dominando um leão, encarnando a virtude cardeal da Fortaleza.",
+          "Originalmente numerada como XI, ela teve sua posição trocada com a Justiça (VIII) pela ordem da Aurora Dourada (Golden Dawn), adotada no baralho Rider-Waite-Smith (1909), passando a ocupar o número VIII e a ser associada ao signo de Leão. Sua imagem evoluiu para a de uma mulher serena que fecha — ou abre — a boca de um leão, simbolizando a força interior sobre a força bruta."
         ]
       },
       {
@@ -596,6 +652,13 @@ export const majorArcana: TarotCard[] = [
         ]
       },
       {
+        title: "Origens do Arcano",
+        content: [
+          "Nos baralhos italianos do século XV, este arcano era chamado \"Il Vecchio\" (O Velho) ou \"Il Gobbo\" (O Corcunda) e representava sobretudo o Tempo, muitas vezes portando uma ampulheta como o deus Cronos/Saturno.",
+          "Com o passar dos séculos, a ampulheta cedeu lugar à lanterna, e a figura passou a simbolizar a busca solitária pela sabedoria e pela verdade interior. A tradição esotérica o associou ao signo de Virgem e ao papel de guia espiritual, sentido consagrado pelo baralho Rider-Waite-Smith (1909)."
+        ]
+      },
+      {
         title: "A Jornada Espiritual",
         content: [
           "Na estrutura do Tarot, o Eremita é o grau 9, o número das gestações (como os 9 meses de gravidez) e do coroamento dos esforços.",
@@ -645,6 +708,13 @@ export const majorArcana: TarotCard[] = [
         content: [
           "Positivo (Em pé): Indica que a sorte está mudando para melhor, trazendo abundância, bom karma e a realização de planos manifestados. Sugere que o consultente deve abraçar as mudanças e deixar o passado para trás.",
           "Negativo (Invertido): Pode representar resistência ao aprendizado ou mudanças indesejadas e desafiadoras. Também pode sinalizar um bloqueio ou a repetição de ciclos por incapacidade de aprender com as experiências passadas."
+        ]
+      },
+      {
+        title: "Origens do Arcano",
+        content: [
+          "A Roda da Fortuna é um dos símbolos mais antigos da carta, baseada na \"Rota Fortunae\" da deusa romana Fortuna, imagem onipresente na filosofia e na arte medievais — celebrada, por exemplo, na obra A Consolação da Filosofia, de Boécio.",
+          "A roda que eleva e derruba reis ilustrava a instabilidade do destino e a transitoriedade da sorte humana. Os baralhos renascentistas a incorporaram com figuras subindo e caindo em seu giro, e o baralho Rider-Waite-Smith (1909) acrescentou símbolos cabalísticos e alquímicos, associando-a ao planeta Júpiter."
         ]
       },
       {
@@ -702,6 +772,13 @@ export const majorArcana: TarotCard[] = [
         ]
       },
       {
+        title: "Origens do Arcano",
+        content: [
+          "A Justiça figura nos tarôs italianos do Renascimento como uma das virtudes cardeais, retratada com a espada e a balança, atributos herdados da deusa romana Iustitia e da grega Têmis.",
+          "Originalmente numerada como VIII, teve sua posição permutada com a Força pela ordem da Aurora Dourada (Golden Dawn), assumindo o número XI no baralho Rider-Waite-Smith (1909), onde foi associada ao signo de Libra. Diferente da iconografia moderna, no Tarot ela costuma aparecer de olhos abertos, simbolizando a verdade vista com lucidez."
+        ]
+      },
+      {
         title: "A Jornada Espiritual",
         content: [
           "Na numerologia do Tarot, o 8 representa a perfeição do plano espiritual (o dobro da estabilidade material do 4). Na \"Jornada do Louco\", este é o momento em que o buscador deve assumir a responsabilidade total por sua vida e aprender a ver a realidade sem as máscaras do ego.",
@@ -753,6 +830,13 @@ export const majorArcana: TarotCard[] = [
         content: [
           "Positivo (Em pé): Sugere uma pausa necessária para reflexão, cura interior ou um período de estudo e aprofundamento espiritual. Indica que o consulente deve confiar no destino e deixar as coisas seguirem seu curso natural sem forçar decisões.",
           "Negativo (Invertido): Pode sinalizar estagnação, resistência à mudança, ou a sensação de estar preso em um relacionamento ou carreira que não leva a lugar nenhum. Também pode representar procrastinação, sacrifício inútil sem retorno ou a recusa em ver uma situação sob outra perspectiva."
+        ]
+      },
+      {
+        title: "Origens do Arcano",
+        content: [
+          "Nos baralhos italianos do século XV, O Enforcado era conhecido como \"Il Traditore\" (O Traidor) ou \"L'Appeso\", em referência às \"pitture infamanti\" — pinturas humilhantes em que criminosos e traidores eram retratados pendurados de cabeça para baixo nas praças públicas.",
+          "O que era símbolo de punição e desonra foi, ao longo do tempo, reinterpretado pela tradição esotérica como sacrifício voluntário, suspensão e mudança de perspectiva. O baralho Rider-Waite-Smith (1909) consolidou essa leitura espiritual, envolvendo a cabeça do enforcado em um halo de iluminação."
         ]
       },
       {
@@ -815,6 +899,13 @@ export const majorArcana: TarotCard[] = [
         ]
       },
       {
+        title: "Origens do Arcano",
+        content: [
+          "Presente nos tarôs italianos do Renascimento, A Morte herda a iconografia da \"Dança Macabra\" medieval, em que um esqueleto ceifador igualava reis, papas e camponeses diante da inevitabilidade do fim.",
+          "Por superstição, em muitos baralhos antigos a carta era deixada sem nome (apenas com o número XIII), sendo chamada de \"a carta sem nome\". A tradição esotérica a reinterpretou como transformação e renascimento, e o baralho Rider-Waite-Smith (1909) a representou como um cavaleiro com estandarte, associando-a ao signo de Escorpião."
+        ]
+      },
+      {
         title: "A Jornada Espiritual",
         content: [
           "Na estrutura do Tarot, a Morte segue o arcano O Enforcado (XII); enquanto o Enforcado representa a gestação imóvel e a meditação, a Morte é o momento em que a casca se rompe para que o ser possa emergir.",
@@ -867,6 +958,13 @@ export const majorArcana: TarotCard[] = [
         content: [
           "Positivo (Em pé): Indica um período de recuperação física ou emocional, reconciliação e bons presságios para associações. Sugere que o consultante deve ser paciente, ter uma visão de longo prazo e agir com diplomacia e abertura mental.",
           "Negativo (Invertido): Sinaliza desequilíbrio, impulsividade e falta de propósito. Pode representar uma resistência à mudança, excessos, instabilidade ou a sensação de que as coisas não estão destinadas a se unir no momento."
+        ]
+      },
+      {
+        title: "Origens do Arcano",
+        content: [
+          "A Temperança aparece nos baralhos italianos do século XV como mais uma das virtudes cardeais, retratada como um anjo (ou figura feminina) que verte líquido entre dois vasos, gesto que na Antiguidade simbolizava a diluição do vinho com água — a moderação.",
+          "Esse ato de mistura ganhou, na tradição esotérica, um sentido alquímico de transmutação e equilíbrio das energias. O baralho Rider-Waite-Smith (1909) acrescentou detalhes como o anjo com um pé na água e outro na terra, associando o arcano ao signo de Sagitário."
         ]
       },
       {
@@ -927,6 +1025,13 @@ export const majorArcana: TarotCard[] = [
         ]
       },
       {
+        title: "Origens do Arcano",
+        content: [
+          "O Diabo não aparece em alguns dos baralhos italianos mais antigos (como o Visconti-Sforza, em que a carta se perdeu ou nunca foi pintada), tornando-se padrão a partir do Tarot de Marselha, que o representou como uma figura demoníaca andrógina sobre um pedestal, com dois pequenos seres acorrentados.",
+          "Sua iconografia bebe das representações medievais do diabo cristão e do deus pagão Pã. A tradição esotérica, especialmente Éliphas Lévi com seu \"Baphomet\", o transformou em símbolo da matéria, do desejo e das amarras autoimpostas, leitura adotada pelo baralho Rider-Waite-Smith (1909) e associada ao signo de Capricórnio."
+        ]
+      },
+      {
         title: "A Jornada Espiritual",
         content: [
           "Na estrutura do Tarot, o Diabo inicia o terceiro septenário, voltado para o supraconsciente e o espírito. Ele é o inverso espiritual do Hierofante (V): enquanto o Papa guia para o ideal celeste, o Diabo exige uma descida ao abismo interno para encontrar o \"diamante no lótus\" oculto na matéria.",
@@ -979,6 +1084,13 @@ export const majorArcana: TarotCard[] = [
         content: [
           "Positivo (Em pé): Indica uma separação saudável, o fim de um confinamento, um segredo revelado ou uma grande expressão de criatividade. Pode sinalizar um sucesso súbito ou um \"golpe fulminante\" de sorte. Curiosamente, pode também ser indicação de uma energia sexual explosiva e gratificante.",
           "Negativo (Desafiador/Invertido): Pode representar o medo da mudança, a resistência a uma transformação necessária ou uma catástrofe resultante do orgulho excessivo. Também pode sinalizar uma expulsão brutal, um divórcio doloroso ou um \"parto difícil\" emocional."
+        ]
+      },
+      {
+        title: "Origens do Arcano",
+        content: [
+          "A Torre é uma das cartas com mais variações de nome na história do Tarot: nos baralhos antigos surge como \"La Maison Dieu\" (A Casa de Deus), \"O Fogo\" ou \"O Raio\", muitas vezes ligada à imagem bíblica da Torre de Babel destruída pela soberba humana.",
+          "A cena de uma torre fulminada por um raio, com figuras caindo, simbolizava a queda repentina do orgulho e das estruturas falsas. A tradição esotérica a associou ao planeta Marte e à destruição libertadora, sentido mantido no baralho Rider-Waite-Smith (1909)."
         ]
       },
       {
@@ -1036,6 +1148,13 @@ export const majorArcana: TarotCard[] = [
         ]
       },
       {
+        title: "Origens do Arcano",
+        content: [
+          "A Estrela figura nos baralhos italianos do Renascimento como parte do trio celeste — Estrela, Lua e Sol —, geralmente retratando uma figura que contempla ou aponta para um astro no céu.",
+          "No Tarot de Marselha cristalizou-se a imagem de uma jovem nua ajoelhada que verte água de dois jarros sob um céu estrelado, evocando deusas das águas e da renovação, como a egípcia Ísis. A tradição esotérica a associou ao signo de Aquário e à esperança, leitura consagrada pelo baralho Rider-Waite-Smith (1909)."
+        ]
+      },
+      {
         title: "A Jornada Espiritual",
         content: [
           "Na estrutura do Tarot, A Estrela inicia o terceiro septenário, voltado para o supraconsciente e o espírito. Após a quebra de estruturas obsoletas na Torre (XVI), o buscador finalmente encontra o seu \"local sagrado\", onde pode atuar no mundo em harmonia com os ritmos cósmicos.",
@@ -1090,6 +1209,13 @@ export const majorArcana: TarotCard[] = [
         ]
       },
       {
+        title: "Origens do Arcano",
+        content: [
+          "A Lua compõe, desde os tarôs italianos do século XV, o trio dos astros celestes. Em suas versões antigas costumava mostrar astrônomos ou sábios medindo o céu, refletindo o fascínio renascentista pela astronomia e pela astrologia.",
+          "No Tarot de Marselha consolidou-se a cena noturna com dois cães (ou um cão e um lobo) uivando, duas torres e um caranguejo emergindo da água — símbolos do inconsciente e dos medos primais. A tradição esotérica a associou ao signo de Peixes e ao mundo dos sonhos, sentido mantido no baralho Rider-Waite-Smith (1909)."
+        ]
+      },
+      {
         title: "A Jornada Espiritual",
         content: [
           "Na estrutura do Tarot, A Lua pertence ao terceiro septenário, o plano do espírito e do supraconsciente. Ela marca a \"noite escura da alma\", onde o herói deve atravessar o caminho perigoso da imaginação antes de atingir a objetividade solar.",
@@ -1141,6 +1267,13 @@ export const majorArcana: TarotCard[] = [
         content: [
           "Positivo (Em pé): Indica um período de grande vigor físico, saúde e prosperidade. É uma promessa de que tudo vai melhorar, trazendo clareza para resolver problemas e a assinatura de bons contratos.",
           "Negativo (Invertido/Desafiador): Nas fontes modernas, mesmo invertido não é um arcano totalmente negativo, mas sinaliza uma luta para ver o lado bom das coisas ou uma alegria ofuscada. Pode representar também vaidade, arrogância, isolamento ou uma \"seca\" emocional causada pelo excesso de racionalismo."
+        ]
+      },
+      {
+        title: "Origens do Arcano",
+        content: [
+          "O Sol encerra o trio celeste presente nos tarôs italianos do Renascimento, frequentemente representado por um grande astro radiante sob o qual aparecem crianças ou um casal, símbolos de vitalidade e harmonia.",
+          "No Tarot de Marselha consolidaram-se duas crianças junto a um muro, e o baralho Rider-Waite-Smith (1909) reinterpretou a cena com uma criança montada em um cavalo branco sob girassóis, associando o arcano à alegria, à clareza e à energia vital plena."
         ]
       },
       {
@@ -1203,6 +1336,13 @@ export const majorArcana: TarotCard[] = [
         ]
       },
       {
+        title: "Origens do Arcano",
+        content: [
+          "O Julgamento integra os Arcanos Maiores desde o Renascimento italiano, inspirado diretamente na iconografia cristã do Juízo Final, em que um anjo toca a trombeta e os mortos ressurgem de seus túmulos para serem julgados.",
+          "Essa cena, comum nas catedrais e na arte medieval, simbolizava o despertar das almas e a vida eterna. A tradição esotérica reinterpretou o arcano como chamado interior, renascimento e transformação da consciência, sentido aprofundado pelo baralho Rider-Waite-Smith (1909), que destacou o arcanjo Gabriel e sua trombeta."
+        ]
+      },
+      {
         title: "A Jornada Espiritual",
         content: [
           "Na estrutura do Tarot, O Julgamento marca o fim do terceiro septenário, focado no supraconsciente. Ele ensina que a verdadeira liberdade nasce da aceitação da ajuda espiritual e da vontade de se transformar em um novo ser.",
@@ -1256,6 +1396,13 @@ export const majorArcana: TarotCard[] = [
         content: [
           "Positivo (Em pé): Indica que o consultante alcançou seus objetivos e que o reconhecimento público ou a recompensa financeira estão a caminho. Sugere harmonia doméstica, um casamento feliz ou a cura definitiva de uma enfermidade.",
           "Negativo (Invertido/Desafiador): Pode representar um começo difícil ou um sentimento de fracasso por estar \"fechado dentro da casca\". Indica resistência em encerrar um ciclo que já não serve mais ou a incapacidade de desfrutar do sucesso alcançado."
+        ]
+      },
+      {
+        title: "Origens do Arcano",
+        content: [
+          "O Mundo encerra a sequência dos Arcanos Maiores desde os baralhos italianos do século XV, geralmente representado por uma cidade ou um globo sustentado por figuras, expressando a totalidade do cosmos conhecido na época.",
+          "No Tarot de Marselha consolidou-se a imagem de uma figura dançante dentro de uma guirlanda oval, cercada pelo tetramorfo (anjo, águia, touro e leão). A tradição esotérica associou esses quatro seres aos elementos e aos evangelistas, e o baralho Rider-Waite-Smith (1909) consagrou a carta como símbolo da realização e da integração final."
         ]
       },
       {
@@ -2226,7 +2373,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
         "O Brinde / A Partilha: Cada um segura uma taça de ouro à mesma altura. O homem estende a mão esquerda e a mulher a mão direita em direção ao outro, indicando uma troca equilibrada de afeto. Não há desigualdade ou submissão; as duas taças operam na mesma frequência de recepção e doação.",
         "As Vestes Complementares: O homem veste uma túnica com detalhes amarelos e pretos, com uma capa em tons de marrom e vermelho. A mulher veste um manto azul claro e branco (cores tradicionalmente ligadas à intuição, à pureza emocional e à Sacerdotisa). Juntos, eles representam o casamento místico do masculino e do feminino (Animus e Anima) dentro e fora do ser.",
         "O Caduceu de Mercúrio: Entre eles, paira um caduceu dourado, com duas serpentes entrelaçadas e uma esfera alada no topo. O caduceu é um símbolo clássico da comunicação, do comércio e da troca de energia. Ele reforça a ideia de que a relação representada por esta carta é uma via de mão dupla, onde o fluxo de sentimentos, ideias e energia é equilibrado e harmonioso.",
-        "A Cabeça de Leão Alada: No topo do Caduceu, coroando a união, ergue-se uma imensa cabeça de leão vermelha com asas abertas. O leão vermelho representa a paixão primordial, o desejo, o fogo do instinto sexual e a energia vital. No entanto, por possuir asas e estar posicionado acima do Caduceu, esse instinto animal não é bruto ou destrutivo; ele foi espiritualizado e elevado pela pureza dos sentimentos das duas pessoas. É a união perfeita entre o amor romântico e a atração física.",
+        "A Cabeça de Leão Alada: No topo do Caduceu, coroando a união, ergue-se uma imensa cabeça de leão vermelha com asas abertas. O leão vermelho representa a paixão primordial, o desejo, o fogo do instinto sexual e a energia vital. No entanto, por possuir asas e estar posicionado acima do Caduceu, esse instinto animal não é bruto ou destrutivo; ele foi espiritualizado e elevado pela pureza dos sentimentos das duas pessoas. �� a união perfeita entre o amor romântico e a atração física.",
         "A Casa de Campo e o Cenário Verdejante: Ao fundo, vemos uma casa de campo aconchegante, cercada por árvores verdes e um céu azul claro. Esse cenário idílico reforça a ideia de que o relacionamento simbolizado por esta carta é um refúgio seguro, um lar emocional onde ambos os parceiros podem crescer e florescer juntos.",
       ],
     },

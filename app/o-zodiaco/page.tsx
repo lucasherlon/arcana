@@ -26,16 +26,16 @@ const signCorrespondences = [
 ]
 
 const planetCorrespondences = [
-  { arcana: "O Louco", planet: "Urano" },
-  { arcana: "O Mago (I)", planet: "Mercúrio" },
-  { arcana: "A Sacerdotisa (II)", planet: "Lua" },
-  { arcana: "A Imperatriz (III)", planet: "Vênus" },
-  { arcana: "A Roda da Fortuna (X)", planet: "Júpiter" },
-  { arcana: "O Enforcado (XII)", planet: "Netuno" },
-  { arcana: "A Torre (XVI)", planet: "Marte" },
-  { arcana: "O Sol (XVIIII)", planet: "Sol" },
-  { arcana: "O Julgamento (XX)", planet: "Plutão" },
-  { arcana: "O Mundo (XXI)", planet: "Saturno" },
+  { arcana: "O Louco", planet: "Urano", slug: "o-louco" },
+  { arcana: "O Mago (I)", planet: "Mercúrio", slug: "o-mago" },
+  { arcana: "A Sacerdotisa (II)", planet: "Lua", slug: "a-sacerdotisa" },
+  { arcana: "A Imperatriz (III)", planet: "Vênus", slug: "a-imperatriz" },
+  { arcana: "A Roda da Fortuna (X)", planet: "Júpiter", slug: "a-roda-da-fortuna" },
+  { arcana: "O Enforcado (XII)", planet: "Netuno", slug: "o-enforcado" },
+  { arcana: "A Torre (XVI)", planet: "Marte", slug: "a-torre" },
+  { arcana: "O Sol (XVIIII)", planet: "Sol", slug: "o-sol" },
+  { arcana: "O Julgamento (XX)", planet: "Plutão", slug: "o-julgamento" },
+  { arcana: "O Mundo (XXI)", planet: "Saturno", slug: "o-mundo" },
 ]
 
 const suits = [
@@ -131,7 +131,12 @@ export default function OZodiacoPage() {
                     key={item.arcana}
                     className="flex items-center justify-between gap-4 rounded-lg border border-border/60 bg-card p-4"
                   >
-                    <span className="font-heading text-base text-foreground">{item.arcana}</span>
+                    <Link
+                      href={`/arcanos/${item.slug}`}
+                      className="font-heading text-base text-foreground underline-offset-4 transition-colors hover:text-primary hover:underline focus-visible:underline focus-visible:outline-none"
+                    >
+                      {item.arcana}
+                    </Link>
                     <span className="text-right text-base text-primary">{item.planet}</span>
                   </li>
                 ))}

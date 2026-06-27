@@ -96,6 +96,14 @@ export const majorArcana: TarotCard[] = [
         ]
       },
       {
+        title: "Origens do Arcano",
+        content: [
+          "O Louco tem suas raízes nos baralhos de tarô renascentistas italianos do século XV, como os Visconti-Sforza, onde aparecia como \"Il Matto\" — o bobo ou o louco —, figura marginal que existia fora da hierarquia das demais cartas.",
+          "Sua origem está ligada ao arquétipo do bobo da corte e do andarilho medieval, personagens que, justamente por não pertencerem a nenhuma ordem social, tinham a liberdade de dizer verdades e transitar entre todos os mundos.",
+          "Com a tradição esotérica francesa dos séculos XVIII e XIX, e mais tarde com o baralho Rider-Waite-Smith (1909), O Louco foi reinterpretado como o número Zero e elevado ao símbolo do espírito puro antes da encarnação, dando-lhe o papel de protagonista que inicia toda a jornada dos Arcanos Maiores."
+        ]
+      },
+      {
         title: "A Jornada Espiritual",
         content: [
           "Na estrutura do Tarot, o Louco é o alfa e o ômega. Ele é a energia divina que busca se materializar na realização total, representada pelo arcano O Mundo (XXI).",
@@ -1807,7 +1815,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
       title: "Contexto Numerológico e Energético",
       content: [
         "Na numerologia do Tarot, o Quatro representa o Grau 4 (estabilização e potência) no centro Sexual e Criativo.",
-        "Ele corresponde simbolicamente à segurança terrestre do Imperador (IIII) e à circulação harmoniosa da Temperança (XIIII) nos Arcanos Maiores.",
+        "Ele corresponde simbolicamente à segurança terrestre do Imperador (IIII) e à circulação harmoniosa da Temperan��a (XIIII) nos Arcanos Maiores.",
       ],
     },
   ],

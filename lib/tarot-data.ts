@@ -134,7 +134,7 @@ export const majorArcana: TarotCard[] = [
       {
         title: "Significados Gerais",
         content: [
-          "Início e Manifestação: É a carta dos novos começos, indicando que agora é o momento perfeito para iniciar um projeto, trabalho ou relacionamento.",
+          "Início e Manifestação: É a carta dos novos começos, indicando que agora �� o momento perfeito para iniciar um projeto, trabalho ou relacionamento.",
           "Habilidade e Talento: Representa um indivíduo astuto, com grande destreza manual ou intelectual, capaz de resolver problemas com criatividade.",
           "Poder Pessoal: Simboliza a transição do \"potencial\" para a \"ação\", onde o indivíduo descobre e explora sua própria força interior para moldar seu destino.",
           "Palavras-chave: Manifestação, força de vontade, recursos, iniciativa, início, habilidade e diplomacia."
@@ -598,7 +598,7 @@ export const majorArcana: TarotCard[] = [
       {
         title: "A Jornada Espiritual",
         content: [
-          "Na estrutura do Tarot, A Força marca o início do segundo septenário, voltado para o mundo inconsciente e espiritual. Enquanto O Mago (I) trabalha a inteligência no mundo material, A Força (XI) trabalha a inteligência nas profundezas da alma.",
+          "Na estrutura do Tarot Rider-Waite-Smith, A Força ocupa o número VIII e marca o início do segundo septenário, voltado para o mundo inconsciente e espiritual. Enquanto O Mago (I) abre o primeiro septenário trabalhando a inteligência no mundo material, A Força (VIII) abre o segundo trabalhando essa mesma inteligência nas profundezas da alma.",
           "Ela ensina que a verdadeira iluminação não vem da destruição do que é inferior ou \"vil\" em nós, mas sim da sua transmutação em luz e sabedoria. É o estágio em que o herói aprende a integrar sua natureza animal para que ela se torne o combustível de sua ascensão espiritual."
         ]
       }
@@ -662,7 +662,7 @@ export const majorArcana: TarotCard[] = [
         title: "A Jornada Espiritual",
         content: [
           "Na estrutura do Tarot, o Eremita é o grau 9, o número das gestações (como os 9 meses de gravidez) e do coroamento dos esforços.",
-          "Ele aparece após a perfeição da Justiça (VIII); ele ensina que a perfeição estática pode ser opressiva e que o ser deve entrar em crise para evoluir para um novo ciclo, representado pela Roda da Fortuna (X). Na \"Jornada do Herói\", ele representa o momento em que o buscador reconhece tanto sua luz quanto sua sombra, tornando-se um modelo e guia para os outros a partir de sua própria pureza e integridade. Astrologicamente, a tradição o associa frequentemente ao signo de Virgem."
+          "Ele surge logo após A Força (VIII): uma vez domados e integrados os instintos, o buscador se recolhe em si mesmo. O Eremita ensina que é preciso atravessar a solidão e a crise para evoluir rumo a um novo ciclo, representado pela Roda da Fortuna (X). Na \"Jornada do Herói\", ele representa o momento em que o buscador reconhece tanto sua luz quanto sua sombra, tornando-se um modelo e guia para os outros a partir de sua própria pureza e integridade. Astrologicamente, a tradição o associa frequentemente ao signo de Virgem."
         ]
       }
     ]
@@ -720,7 +720,7 @@ export const majorArcana: TarotCard[] = [
       {
         title: "A Jornada Espiritual",
         content: [
-          "Na estrutura do Tarot, A Roda da Fortuna marca a passagem da perfeição estática da Justiça (VIII) e da crise introspectiva do Eremita (VIIII) para o dinamismo de um novo começo.",
+          "Na estrutura do Tarot Rider-Waite-Smith, A Roda da Fortuna marca a passagem da força interior conquistada n'A Força (VIII) e da crise introspectiva do Eremita (IX) para o dinamismo de um novo começo.",
           "Ela ensina que a consciência deve se elevar acima das vicissitudes do destino para encontrar o centro imóvel do ser. Espiritualmente, encerra o ciclo do \"corpo/consciente\" e prepara o buscador para os mistérios do \"espírito/supraconsciente\". Astrologicamente, é frequentemente associada ao planeta Júpiter e, no plano físico, ao sistema digestivo."
         ]
       }
@@ -781,8 +781,8 @@ export const majorArcana: TarotCard[] = [
       {
         title: "A Jornada Espiritual",
         content: [
-          "Na numerologia do Tarot, o 8 representa a perfeição do plano espiritual (o dobro da estabilidade material do 4). Na \"Jornada do Louco\", este é o momento em que o buscador deve assumir a responsabilidade total por sua vida e aprender a ver a realidade sem as máscaras do ego.",
-          "Ela ensina que a verdadeira liberdade não é o caos, mas a obediência lúcida às leis da natureza e do espírito, servindo como preparação para a crise de sabedoria que virá com o Eremita (VIIII)."
+          "Na estrutura do Tarot Rider-Waite-Smith, A Justiça ocupa o número XI e surge logo após o giro da Roda da Fortuna (X): depois de experimentar as voltas do destino, o buscador é chamado a assumir a responsabilidade total por seus atos e a ver a realidade sem as máscaras do ego. O número 11 reduz-se ao 2, ecoando o equilíbrio e a ponderação da Sacerdotisa (II), agora aplicados à lei e à consciência moral.",
+          "Ela ensina que a verdadeira liberdade não é o caos, mas a obediência lúcida às leis da natureza e do espírito. Ao pesar com lucidez as causas e os efeitos, prepara o buscador para o sacrifício e a inversão de perspectiva que virão com O Enforcado (XII)."
         ]
       }
     ]
@@ -2297,7 +2297,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
         "Inclinado para a Ação: Ao contrário de outros reis do Tarot que sentam-se de forma estática e frontal, o Rei de Paus está posicionado de perfil/diagonal, com o corpo visivelmente inclinado para a frente.",
         "O Manto e o Estofo Amarelo: O trono é revestido por uma tapeçaria amarela vibrante, decorada com leões pretos e salamandras. O leão, símbolo astrológico de Fogo, reforça sua coragem indomável e sua realeza natural.",
         "A Conclusão do Ciclo: Assim como vimos no Cavaleiro, as salamandras na tapeçaria do Rei estão desenhadas de forma circular, mordendo a própria cauda (Ouroboros). Isso demonstra o controle absoluto e maduro que ele possui sobre seus impulsos e sobre o elemento Fogo. Suas paixões não o queimam; elas trabalham para ele.",
-        "A Salamandra no Chão: No canto inferior direito, bem ao lado da base do trono, vemos uma pequena salamandra preta viva caminhando no chão. Esse detalhe conecta o Rei diretamente à natureza essencial e pura do seu elemento. Ele mantém seus pés (sua fundação) próximos à realidade prática e aos elementais que dão vida à sua força criativa. É um lembrete visual de que sua autoridade deriva de uma conexão genuína com sua própria essência instintiva e vital.",
+        "A Salamandra no Chão: No canto inferior direito, bem ao lado da base do trono, vemos uma pequena salamandra preta viva caminhando no chão. Esse detalhe conecta o Rei diretamente à natureza essencial e pura do seu elemento. Ele mantém seus pés (sua fundação) próximos à realidade prática e aos elementais que d��o vida à sua força criativa. É um lembrete visual de que sua autoridade deriva de uma conexão genuína com sua própria essência instintiva e vital.",
         "O Manto de Fogo: O Rei veste uma túnica vermelha intensa sob um manto verde e amarelo que cai sobre seus ombros. O vermelho vivo evoca a paixão e o sangue do guerreiro, enquanto o amarelo destaca sua inteligência estratégica e clareza de propósito.",
         "A Coroa Dourada: Na cabeça, ele ostenta uma coroa dourada com pontas que emulam línguas de fogo estilizadas. Sob ela, uma proteção vermelha cobre sua nuca. Essa coroa simboliza uma mente que é constantemente coroada por ideias brilhantes, ousadas e inspiradoras.",
         
@@ -3461,7 +3461,7 @@ const minorFullDescriptions: Record<string, { title: string; content: string[] }
         "O Trono Adornado com Touros: O trono de pedra escura do Rei é decorado com imponentes cabeças de touros entalhadas nos braços e no encosto. O touro é o símbolo astrológico do signo de Touro (elemento Terra), representando estabilidade inabalável, persistência, sensualidade material, determinação teimosa e o poder de construir bases que resistem a qualquer crise. O trono sólido indica que sua posição e seu império são permanentes.",
         "A Bota de Armadura: Um detalhe visual sutil e de extrema importância está na parte inferior de suas vestes: projetando-se por baixo do manto de videiras, vemos o pé esquerdo do Rei totalmente revestido por uma bota de armadura de metal, firmemente apoiada sobre o solo ou sobre uma estrutura de pedra. Essa armadura oculta sob o manto de luxo envia uma mensagem clara: embora ele viva em um estado de conforto, paz e abundância, ele não é complacente ou fraco. Ele continua sendo um guerreiro pragmático, pronto para defender seu reino, tomar decisões difíceis de mercado ou agir com firmeza estratégica sempre que necessário.",
         "O Castelo ao Fundo e o Muro de Proteção: Atrás do trono, ergue-se um muro de pedra baixo que separa o jardim do Rei de sua grande propriedade fortificada (o castelo com torres visível à direita). O castelo simboliza a estabilidade institucional, o patrimônio imobiliário consolidado e a solidez de suas conquistas de longo prazo. O muro reforça o conceito de limites claros, segurança física e governança eficiente. Tudo sob os domínios deste Rei é meticulosamente planejado e protegido.",
-        "O Céu Amarelo e a Vegetação Baixa: O cenário ao redor do trono é preenchido por flores vermelhas no canto inferior esquerdo e folhas densas. O fundo é selado por um céu amarelo sólido e brilhante, eliminando qualquer incerteza climática ou volatilidade. O céu dourado confirma que o ambiente atingiu o ápice da clareza, do sucesso e da realização tangível."
+        "O Céu Amarelo e a Vegetação Baixa: O cenário ao redor do trono é preenchido por flores vermelhas no canto inferior esquerdo e folhas densas. O fundo é selado por um céu amarelo sólido e brilhante, eliminando qualquer incerteza climática ou volatilidade. O céu dourado confirma que o ambiente atingiu o ápice da clareza, do sucesso e da realiza��ão tangível."
       ],
     },
     {

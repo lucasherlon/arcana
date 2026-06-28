@@ -46,35 +46,35 @@ export default function OTarotPage() {
               <div className="mt-8 space-y-6">
                 <div className="rounded-lg border border-border/60 bg-card p-6">
                   <h3 className="font-heading text-xl text-primary">Origens e o uso lúdico (séc. XIV–XVIII)</h3>
-                  <p className="mt-3 text-base">
+                  <p className="mt-3 text-lg">
                     A teoria mais aceita sugere que o Tarot evoluiu de um jogo de origem árabe, o <em>naíb</em> (de onde deriva a palavra {"\"naipes\""}), ao qual foram gradualmente agregados os Arcanos Maiores, ou Trunfos. As menções mais antigas a jogos de cartas na Europa datam do século XIV, e durante muito tempo o baralho serviu sobretudo ao lazer e aos jogos de azar nas cortes. No século XV surgiram versões artesanais e iluminadas para a nobreza, como o célebre <strong className="text-foreground">Visconti-Sforza</strong>, que já apresentava a estrutura de Trunfos reconhecível até hoje.
                   </p>
                 </div>
 
                 <div className="rounded-lg border border-border/60 bg-card p-6">
                   <h3 className="font-heading text-xl text-primary">A virada esotérica (séc. XVIII)</h3>
-                  <p className="mt-3 text-base">
+                  <p className="mt-3 text-lg">
                     Em 1781, <strong className="text-foreground">Court de Gébelin</strong> foi o primeiro a afirmar que o Tarot não era apenas um jogo, mas o {"\"Livro de Thoth\""} do Egito Antigo, atribuindo o número zero ao Louco e tentando {"\"corrigir\""} os desenhos originais. Pouco depois, em 1783, o adivinho <strong className="text-foreground">Etteilla</strong> popularizou o uso das cartas para a cartomancia, relacionando-as formalmente à astrologia e à Cabala.
                   </p>
                 </div>
 
                 <div className="rounded-lg border border-border/60 bg-card p-6">
                   <h3 className="font-heading text-xl text-primary">O ocultismo do séc. XIX</h3>
-                  <p className="mt-3 text-base">
+                  <p className="mt-3 text-lg">
                     <strong className="text-foreground">Éliphas Lévi</strong> estabeleceu a conexão fundamental entre os 22 Arcanos Maiores e as 22 letras do alfabeto hebraico, vinculando o Tarot à Árvore da Vida cabalística. No fim do século, <strong className="text-foreground">Papus</strong> sistematizou essas ideias em <em>O Tarot dos Boêmios</em>, defendendo uma estrutura baseada no Tetragrammaton sagrado.
                   </p>
                 </div>
 
                 <div className="rounded-lg border border-border/60 bg-card p-6">
                   <h3 className="font-heading text-xl text-primary">As inovações do séc. XX</h3>
-                  <p className="mt-3 text-base">
+                  <p className="mt-3 text-lg">
                     Em 1910, <strong className="text-foreground">Arthur Edward Waite</strong>, membro da Golden Dawn, revolucionou o baralho ao incluir ilustrações simbólicas completas também nos Arcanos Menores, facilitando a leitura intuitiva; foi ele quem inverteu a numeração tradicional, tornando a Força o número VIII e a Justiça o XI. Já em 1930, <strong className="text-foreground">Paul Marteau</strong> publicou a versão do <strong className="text-foreground">Tarot de Marselha</strong> que se tornaria o padrão moderno do estilo, baseada em exemplares antigos como o de Nicolas Conver (1760).
                   </p>
                 </div>
 
                 <div className="rounded-lg border border-border/60 bg-card p-6">
                   <h3 className="font-heading text-xl text-primary">Restauração e cenário atual</h3>
-                  <p className="mt-3 text-base">
+                  <p className="mt-3 text-lg">
                     Nos anos 1990, <strong className="text-foreground">Alejandro Jodorowsky</strong> e <strong className="text-foreground">Philippe Camoin</strong> realizaram um trabalho exaustivo de restauração do Tarot de Marselha, recuperando detalhes e cores de baralhos pintados à mão do século XVIII. Hoje o Tarot expandiu-se em centenas de variantes temáticas, mas as tradições de <strong className="text-foreground">Marselha</strong> (focada na linguagem óptica e na numerologia) e <strong className="text-foreground">Rider-Waite</strong> (focada em ilustrações cênicas) permanecem como os dois grandes pilares da tarologia contemporânea.
                   </p>
                 </div>
@@ -89,13 +89,13 @@ export default function OTarotPage() {
               <div className="mt-8 grid gap-6 sm:grid-cols-2">
                 <div className="rounded-lg border border-border/60 bg-card p-6">
                   <h3 className="font-heading text-xl text-primary">Arcanos Maiores (22 cartas)</h3>
-                  <p className="mt-3 text-base">
+                  <p className="mt-3 text-lg">
                     Numerados de 0 (O Louco) a XXI (O Mundo), representam arquétipos universais, estados fundamentais da consciência e o caminho místico da alma.
                   </p>
                 </div>
                 <div className="rounded-lg border border-border/60 bg-card p-6">
                   <h3 className="font-heading text-xl text-primary">Arcanos Menores (56 cartas)</h3>
-                  <p className="mt-3 text-base">
+                  <p className="mt-3 text-lg">
                     Divididos em quatro naipes (Espadas, Copas, Paus e Ouros), referem-se aos aspectos mais cotidianos, práticos e pessoais da vida material, emocional e intelectual.
                   </p>
                 </div>
@@ -120,19 +120,19 @@ export default function OTarotPage() {
               <ul className="mt-6 space-y-4">
                 <li className="flex flex-col gap-2 rounded-lg border border-border/60 bg-card p-5">
                   <h3 className="font-heading text-lg text-primary">Tarologia</h3>
-                  <p className="text-base">
+                  <p className="text-lg">
                     Uma abordagem terapêutica (proposta por Alejandro Jodorowsky) que utiliza o Tarot como uma forma de psicanálise para ler o presente e buscar a cura psicológica, em oposição à leitura de futuros hipotéticos.
                   </p>
                 </li>
                 <li className="flex flex-col gap-2 rounded-lg border border-border/60 bg-card p-5">
                   <h3 className="font-heading text-lg text-primary">Iniciação e Magia</h3>
-                  <p className="text-base">
+                  <p className="text-lg">
                     É visto como a {"\"estrada real\""} que conduz à iluminação, unindo mente, corpo e espírito, e funcionando como um instrumento de alquimia interior.
                   </p>
                 </li>
                 <li className="flex flex-col gap-2 rounded-lg border border-border/60 bg-card p-5">
                   <h3 className="font-heading text-lg text-primary">Integração de Sistemas</h3>
-                  <p className="text-base">
+                  <p className="text-lg">
                     O Tarot é a linguagem simbólica que integra diversas disciplinas esotéricas, como a Cabala, a astrologia e a alquimia.
                   </p>
                 </li>
@@ -209,17 +209,17 @@ export default function OTarotPage() {
               <div className="mt-8 space-y-6">
                 <div className="rounded-lg border border-border/60 bg-card p-6">
                   <h3 className="font-heading text-xl text-primary">Despedaçar e reunir a unidade</h3>
-                  <p className="mt-3 text-base">
+                  <p className="mt-3 text-lg">
                     Para <strong className="text-foreground">Alejandro Jodorowsky</strong> (2004), o Tarot é um {"\"ser\""} vivo e uma unidade orgânica. Ele usa a metáfora de que, ao embaralhar as cartas, nós {"\"despedaçamos Deus\""}, quebrando a unidade do sistema em fragmentos. O papel da leitura é então reunir esses pedaços em {"\"frases\""} que façam sentido para o presente do consulente, permitindo que a divindade ou a consciência {"\"ressuscite\""} no mundo material através da interpretação.
                   </p>
                 </div>
 
                 <div className="rounded-lg border border-border/60 bg-card p-6">
                   <h3 className="font-heading text-xl text-primary">O caos e os três acasos</h3>
-                  <p className="mt-3 text-base">
+                  <p className="mt-3 text-lg">
                     Ao embaralhar, o consulente cria seu próprio {"\"caos\""} ou universo momentâneo. Nesse estado, a ordem lógica das cartas é suspensa para que uma nova configuração emerja. Jodorowsky define a leitura como o encontro de três acasos:
                   </p>
-                  <ul className="mt-4 space-y-2 text-base">
+                  <ul className="mt-4 space-y-2 text-lg">
                     <li className="flex gap-3">
                       <span className="font-heading text-primary">1.</span>
                       <span>O que levou o consulente até o tarólogo;</span>
@@ -237,21 +237,21 @@ export default function OTarotPage() {
 
                 <div className="rounded-lg border border-border/60 bg-card p-6">
                   <h3 className="font-heading text-xl text-primary">A energia do consulente</h3>
-                  <p className="mt-3 text-base">
+                  <p className="mt-3 text-lg">
                     Muitas tradições sugerem que o próprio consulente deve embaralhar as cartas para imprimir sua energia no baralho, conectando sua psique aos símbolos que serão revelados. Caso o leitor prefira não deixar o consulente tocar nas cartas, pode pedir que ele diga quando parar de embaralhar ou que escolha um número, mantendo a conexão entre a vontade do consulente e a seleção {"\"aleatória\""}.
                   </p>
                 </div>
 
                 <div className="rounded-lg border border-border/60 bg-card p-6">
                   <h3 className="font-heading text-xl text-primary">As cartas que saltam</h3>
-                  <p className="mt-3 text-base">
+                  <p className="mt-3 text-lg">
                     A aleatoriedade permite que ocorram eventos que muitos leitores consideram mensagens diretas do inconsciente, como as {"\"cartas que saltam\""} (pop-outs) durante o embaralhamento. Esses incidentes são frequentemente vistos como informações valiosas que {"\"querem\""} ser vistas, desafiando a mera probabilidade estatística.
                   </p>
                 </div>
 
                 <div className="rounded-lg border border-border/60 bg-card p-6">
                   <h3 className="font-heading text-xl text-primary">Matéria-prima da projeção</h3>
-                  <p className="mt-3 text-base">
+                  <p className="mt-3 text-lg">
                     A {"\"sorte\""} das cartas que saem fornece a matéria-prima para a projeção. Como o Tarot funciona como um espelho, a aleatoriedade garante que a imagem refletida não seja controlada pelo ego racional do leitor, permitindo que ele atue como um {"\"homem invisível\""} ou um espelho limpo que reflete o nível de consciência do outro através das imagens sorteadas.
                   </p>
                 </div>

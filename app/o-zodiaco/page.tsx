@@ -5,7 +5,7 @@ import { SiteFooter } from "@/components/site-footer"
 import { PageHero } from "@/components/page-hero"
 
 export const metadata: Metadata = {
-  title: "O Zodíaco · A Jornada da Alma",
+  title: "Arcana · O Zodíaco",
   description:
     "A relação entre o tarot e a astrologia: correspondências dos arcanos com os signos, os planetas, os quatro elementos e a roda astrológica.",
 }

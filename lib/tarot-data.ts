@@ -134,7 +134,7 @@ export const majorArcana: TarotCard[] = [
       {
         title: "Significados Gerais",
         content: [
-          "Início e Manifestação: É a carta dos novos começos, indicando que agora �� o momento perfeito para iniciar um projeto, trabalho ou relacionamento.",
+          "Início e Manifestação: É a carta dos novos começos, indicando que agora o momento perfeito para iniciar um projeto, trabalho ou relacionamento.",
           "Habilidade e Talento: Representa um indivíduo astuto, com grande destreza manual ou intelectual, capaz de resolver problemas com criatividade.",
           "Poder Pessoal: Simboliza a transição do \"potencial\" para a \"ação\", onde o indivíduo descobre e explora sua própria força interior para moldar seu destino.",
           "Palavras-chave: Manifestação, força de vontade, recursos, iniciativa, início, habilidade e diplomacia."
